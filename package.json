@@ -1,0 +1,10 @@
+{
+  "name": "laadan-dict",
+  "version": "1.0.0",
+  "description": "A Dictionary for the Làadan language from Native Tongue",
+  "main": "index.js",
+  "repository": "https://github.com/corscheid/laadan-dict",
+  "author": "Corey Scheideman <corscheid@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
