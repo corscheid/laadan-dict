@@ -1,14 +1,25 @@
-import Link from 'next/link'
 import Layout from '../components/Layout'
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
-    <h1>Hello Next.js 👋</h1>
-    <p>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
-    </p>
+  <Layout title="Làadan Dictionary">
+    <h1 className="page-title">Làadan ↔ English Dictionary</h1>
+    <div className="flex-container">
+      <form className="form-inline my-2 my-lg-0 search-form">
+        <input
+          className="form-control mr-sm-2 search-bar"
+          type="search"
+          placeholder="Search"
+          aria-label="Search"
+        />
+        <button
+          className="btn my-2 my-sm-0 search-btn"
+          type="submit"
+        >
+          Search
+        </button>
+      </form>
+      <div className="results"></div>
+    </div>
   </Layout>
 )
 
