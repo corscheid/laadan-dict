@@ -1,0 +1,68 @@
+/* CSS HEX */
+:root {
+  --dark-red: #8c1c13ff;
+  --deep-chestnut: #bf4342ff;
+  --almond: #e7d7c1ff;
+  --cinereous: #a78a7fff;
+  --liver: #735751ff;
+}
+
+.navbar {
+  background-color: var(--almond);
+}
+
+.navbar-brand {
+  color: var(--dark-red) !important;
+}
+
+.nav-link {
+  color: var(--liver);
+}
+
+main {
+  min-height: calc(100vh - 56px - 8em);
+}
+
+.page-title {
+  text-align-last: center;
+  color: var(--dark-red);
+  padding: 1em;
+}
+
+.flex-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-bar {
+  width: 400px !important;
+}
+
+.search-bar:focus {
+  border-color: var(--deep-chestnut);
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+.search-btn {
+  border: 1px solid;
+  color: var(--liver);
+}
+
+.footer {
+  height: 8em;
+  color: #fff;
+  background-color: var(--liver);
+  padding: 2em;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer ul li a {
+  color: #fff;
+}
