@@ -1,8 +1,8 @@
 import Layout from '../components/Layout'
 
 const IndexPage = () => (
-  <Layout title="Làadan Dictionary">
-    <h1 className="page-title">Làadan ↔ English Dictionary</h1>
+  <Layout title="Láadan Dictionary">
+    <h1 className="page-title">Láadan ↔ English Dictionary</h1>
     <div className="flex-container">
       <form className="form-inline my-2 my-lg-0 search-form">
         <input
