@@ -19,8 +19,13 @@
   color: var(--liver);
 }
 
+.nav-link:hover {
+  color: var(--deep-chestnut);
+}
+
 main {
   min-height: calc(100vh - 56px - 8em);
+  margin: 0 200px;
 }
 
 .page-title {
