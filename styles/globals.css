@@ -65,6 +65,10 @@ main {
   color: var(--liver);
 }
 
+.results {
+  margin: 4em auto;
+}
+
 .footer {
   height: 8em;
   color: #fff;
