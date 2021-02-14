@@ -35,7 +35,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/api/users">API</a>
+            <a className="nav-link" href="/api/words">API</a>
           </li>
         </ul>
       </div>
