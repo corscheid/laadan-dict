@@ -19,10 +19,12 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
       <Navbar />
     </header>
     <main>
-      {children}
+      <div className="container">
+        {children}
+      </div>
     </main>
     <footer className="footer">
-      <div className="contanier">
+      <div className="container">
         <ul>
           <li>
             <a href="https://laadanlanguage.com">Làadan Official Website</a>
