@@ -1,0 +1,20 @@
+.listItemLink {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.listItemLink:hover {
+  text-decoration: none;
+}
+
+.word {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: var(--dark-red);
+}
+
+.english {
+  font-style: italic;
+  color: var(--liver);
+}
