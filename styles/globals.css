@@ -19,6 +19,7 @@ html, body {
 
 .navbar-brand {
   font-family: 'Alegreya', serif;
+  font-size: 1.5em;
   font-weight: bold;
   color: var(--dark-red) !important;
 }
