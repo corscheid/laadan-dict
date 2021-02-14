@@ -1,4 +1,6 @@
-/* CSS HEX */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 :root {
   --dark-red: #8c1c13ff;
   --deep-chestnut: #bf4342ff;
@@ -7,11 +9,17 @@
   --liver: #735751ff;
 }
 
+html, body {
+  font-family: 'Lora', serif;
+}
+
 .navbar {
   background-color: var(--almond);
 }
 
 .navbar-brand {
+  font-family: 'Alegreya', serif;
+  font-weight: bold;
   color: var(--dark-red) !important;
 }
 
@@ -25,10 +33,10 @@
 
 main {
   min-height: calc(100vh - 56px - 8em);
-  margin: 0 200px;
 }
 
 .page-title {
+  font-family: 'Alegreya', serif;
   text-align-last: center;
   color: var(--dark-red);
   padding: 1em;
