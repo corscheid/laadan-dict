@@ -33,7 +33,7 @@ html, body {
 }
 
 main {
-  min-height: calc(100vh - 56px - 8em);
+  min-height: calc(100vh - 62px - 8em);
 }
 
 .page-title {
