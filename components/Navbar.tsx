@@ -30,7 +30,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link href="/users">
+            <Link href="/words">
               <a className="nav-link">Word List</a>
             </Link>
           </li>
