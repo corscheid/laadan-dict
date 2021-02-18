@@ -8,7 +8,7 @@ type ListDetailProps = {
 
 const ListDetail = ({ item: word }: ListDetailProps) => (
   <div>
-    <h1 className="page-title">{word.láadan}</h1>
+    <h1 className="page-title">{word.laadan}</h1>
     <table className="table">
       <tbody>
         <tr>
@@ -24,7 +24,7 @@ const ListDetail = ({ item: word }: ListDetailProps) => (
           <td>{word.description}</td>
         </tr>
         {word.notes && <tr><th scope="row">Notes:</th><td>{word.notes}</td></tr>}
-        {word.wordBreakdown && <tr><th scope="row">Word breakdown:</th><td>{word.wordBreakdown}</td></tr>}
+        {word.breakdown && <tr><th scope="row">Word breakdown:</th><td>{word.breakdown}</td></tr>}
         {word.unofficial && <tr><th scope="row">Unofficial:</th><td>{word.unofficial}</td></tr>}
       </tbody>
     </table>

@@ -4,21040 +4,21040 @@ import { Word } from '../interfaces'
 export const dictionaryData: Word[] =
   [
     {
-      "láadan": "-(e)he",
+      "laadan": "-(e)he",
       "english": "despite negative circumstances",
       "description": "Bíi loláad le thehena/ I feel joy, despite negative circumstances",
       "classification": "first declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-á",
+      "laadan": "-á",
       "english": "doer",
       "description": "suffix for doer; agent; morpheme used to mark someone as the do-er of an action; like English -er in baker or dancer",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ala",
+      "laadan": "-ala",
       "english": "with reason, with blame, without futility",
       "description": "Bíi loláad le bala. I feel angry, there is a reason, there is someone to blame, and it is not futile.",
       "classification": "second declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ama",
+      "laadan": "-ama",
       "english": "with reason, without blame, with futility",
       "description": "",
       "classification": "second declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ana",
+      "laadan": "-ana",
       "english": "with reason, without blame, without futility",
       "description": "",
       "classification": "second declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ara",
+      "laadan": "-ara",
       "english": "with reason, with blame, with futility",
       "description": "",
       "classification": "second declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-báa-",
+      "laadan": "-báa-",
       "english": "interrogative",
       "description": "Interrogatives (who; which; what): use the base form; plus -báa-; plus Case Marker",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-d",
+      "laadan": "-d",
       "english": "said in anger",
       "description": "Speech Act suffix; said in anger",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-da",
+      "laadan": "-da",
       "english": "beneficiary",
       "description": "morpheme used to identify the _beneficiary_ of an action -- the person  for whom or for which an action is done; Case Marker: suffix for beneficiary- voluntarily",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-da",
+      "laadan": "-da",
       "english": "for",
       "description": "beneficiary marker, voluntarily",
       "classification": "beneficiary marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-da",
+      "laadan": "-da",
       "english": "said in jest",
       "description": "Speech Act suffix; said in jest",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dá",
+      "laadan": "-dá",
       "english": "beneficiary, by force",
       "description": "Case Marker: suffix for beneficiary- by force; against X's will",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dá",
+      "laadan": "-dá",
       "english": "by force for",
       "description": "beneficiary marker, by force",
       "classification": "beneficiary marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-daá",
+      "laadan": "-daá",
       "english": "accidentally for",
       "description": "beneficiary marker, accidentally",
       "classification": "beneficiary marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-daá",
+      "laadan": "-daá",
       "english": "beneficiary, accidentally",
       "description": "Case Marker: suffix for beneficiary- accidentally",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dáa",
+      "laadan": "-dáa",
       "english": "beneficiary, obligatory",
       "description": "Case Marker: suffix for beneficiary- obligatorily; as by duty",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dáa",
+      "laadan": "-dáa",
       "english": "obligatorily for",
       "description": "beneficiary marker, obligatory",
       "classification": "beneficiary marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dan",
+      "laadan": "-dan",
       "english": "associate, with pleasure",
       "description": "Case Marker: suffix for Associate - with pleasure (see also '-den')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dan",
+      "laadan": "-dan",
       "english": "with",
       "description": "associated with, with pleasure",
       "classification": "association marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-de",
+      "laadan": "-de",
       "english": "from",
       "description": "Case Marker: suffix for source",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-de",
+      "laadan": "-de",
       "english": "from",
       "description": "source marker",
       "classification": "source marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-de",
+      "laadan": "-de",
       "english": "in narrative",
       "description": "Speech Act suffix; said in narrative",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-den",
+      "laadan": "-den",
       "english": "associate",
       "description": "Case Marker: suffix for Associate - neutral form (see also '-dan')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-den",
+      "laadan": "-den",
       "english": "with",
       "description": "associated with, neutral",
       "classification": "association marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-di",
+      "laadan": "-di",
       "english": "in teaching",
       "description": "Speech Act suffix; said in teaching",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-di",
+      "laadan": "-di",
       "english": "to",
       "description": "a morpheme that means to; as in I walked to the house.: Bíi ril sháad Athid buzhedi wa. (Athid is going to the con.); Case Marker: suffix for goal (see also '-dim')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-di",
+      "laadan": "-di",
       "english": "to",
       "description": "goal marker",
       "classification": "goal marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-dim",
+      "laadan": "-dim",
       "english": "to",
       "description": "a morpheme that means to; as in I walked to the house.: Case Marker: Suffix for goal (see also '-di') used in cases when '-di' (goal) ending is hard to distinguish from the '-de' (source) ending",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-du",
+      "laadan": "-du",
       "english": "in poetry",
       "description": "Speech Act suffix; said as poetry",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-e",
+      "laadan": "-e",
       "english": "for good reasons",
       "description": "Bíi loláad le thena. I feel joy, for good reasons",
       "classification": "first declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ha",
+      "laadan": "-ha",
       "english": "at",
       "description": "morpheme used to indicate where something or someone is located; Bíi ril Athid botheha wa. (Athid is at the hotel.); Case Marker: suffix for place (see also '-sha')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ha",
+      "laadan": "-ha",
       "english": "at",
       "description": "location in space",
       "classification": "location marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-háa",
+      "laadan": "-háa",
       "english": "embed relative clause",
       "description": "Embedding Marker: to embed a relative clause (like English I know the womah who is tired) attached to the last element in the embedded clause (see also '-hé'; '-hée')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-háalish",
+      "laadan": "-háalish",
       "english": "to an extraordinary degree",
       "description": "Degree Marker: to an extraordinary degree (see also '-hil'; '-hal'; '-hul'; '-hel')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-háalish",
+      "laadan": "-háalish",
       "english": "to an extraordinary degree",
       "description": "",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hal",
+      "laadan": "-hal",
       "english": "to an unusual degree",
       "description": "Degree Marker: to an unusual degree; very (see also '-hil'; '-hel'; '-hul'; '-háalish')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hal",
+      "laadan": "-hal",
       "english": "to an unusual degree",
       "description": "very",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hé",
+      "laadan": "-hé",
       "english": "embed statement",
       "description": "morpheme used to embed one statement inside another statement; Embedding Marker: to embed a sentential complement (like English I know that she left) attached to the last element in the embedded clause (see also '-háa'; '-hée') When we want to put one English statement inside another one -- a process called 'embedding' -- we can use the word 'that' to mark the statement that is embedded. For example: 'I know that science fiction conventions are fun' embeds the statement 'science fiction conventions are 'fun' inside 'I know [some other statement]' by putting 'that' at the beginning of the embedded statement. LAadan embeds one statement in another by putting the morpheme '-hE' on the last word of the embedded statement. So in sentence #7 the statement 'radezhehul thod Aabeth' -- 'writing a book is very hard' is marked as an embedded statement by adding '-hE' to 'Aabeth.' [Note: An embedding morpheme is the _only_ morpheme that can follow a case-marking morpheme.]",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hée",
+      "laadan": "-hée",
       "english": "embed question",
       "description": "Embedding Marker: to embed a question (like English I wonder whether/if she left) attached to the last element in the embedded clause (see also '-hé'; '-háa')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hel",
+      "laadan": "-hel",
       "english": "to a trivial degree",
       "description": "Degree Marker: to a trivial degree; slightly (see also '-hil'; '-hal'; '-hul'; '-háalish')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hel",
+      "laadan": "-hel",
       "english": "to a trivial degree",
       "description": "slightly",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hele",
+      "laadan": "-hele",
       "english": "to a troublesome degree",
       "description": "to a troublesome degree: Degree Marker: specifically negative in meaning -- never used in a positive sense",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hele",
+      "laadan": "-hele",
       "english": "to a troublesome degree",
       "description": "",
       "classification": "negative degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hil",
+      "laadan": "-hil",
       "english": "to a minor degree",
       "description": "Degree Marker: to a minor degree; rather (see also '-hel'; '-hal'; '-hul'; '-háalish')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hil",
+      "laadan": "-hil",
       "english": "to a minor degree",
       "description": "rather",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hile",
+      "laadan": "-hile",
       "english": "to a severe degree",
       "description": "to a severe degree: Degree Marker: specifically negative in meaning -- never used in a positive sense",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hile",
+      "laadan": "-hile",
       "english": "to a severe degree",
       "description": "",
       "classification": "negative degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hóo",
+      "laadan": "-hóo",
       "english": "emphasis",
       "description": "a morpheme that is used to indicate special importance; or to give a word or phrase extra emphasis: Bíi aril bilehóo buzh wa! (The convention will be _fun_!): focus marker",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hul",
+      "laadan": "-hul",
       "english": "to an extreme degree",
       "description": "Degree Marker: to an extreme degree; extremely (see also '-hel'; '-hal'; '-hil'; '-háalish')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hul",
+      "laadan": "-hul",
       "english": "to an extreme degree",
       "description": "",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hule",
+      "laadan": "-hule",
       "english": "to an intolerable degree",
       "description": "to an intolerable degree: Degree Marker: specifically negative in meaning -- never used in a positive sense",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-hule",
+      "laadan": "-hule",
       "english": "to an intolerable degree",
       "description": "",
       "classification": "negative degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-i",
+      "laadan": "-i",
       "english": "diminutive",
       "description": "diminutive suffix; small; affectionate",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-i",
+      "laadan": "-i",
       "english": "for no reason",
       "description": "",
       "classification": "first declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ib",
+      "laadan": "-ib",
       "english": "to shut off",
       "description": "deliberately shut off to all feeling (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-id",
+      "laadan": "-id",
       "english": "male",
       "description": "suffix for male",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ihed",
+      "laadan": "-ihed",
       "english": "to be numb",
       "description": "in a sort of shock; numb (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-imi",
+      "laadan": "-imi",
       "english": "to be bewildered, positively",
       "description": "in bewilderment/astonishment; positive (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-imilh",
+      "laadan": "-imilh",
       "english": "to be bewildered, negatively",
       "description": "in bewilderment/astonishment; negative (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ina",
+      "laadan": "-ina",
       "english": "without reason, without blame, without futility",
       "description": "",
       "classification": "second declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-itha",
+      "laadan": "-itha",
       "english": "",
       "description": "linked empathically with others (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-iyon",
+      "laadan": "-iyon",
       "english": "",
       "description": "ecstasy (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-lan",
+      "laadan": "-lan",
       "english": "in celebration",
       "description": "Speech Act suffix; said in celebration",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-li",
+      "laadan": "-li",
       "english": "in love",
       "description": "Speech Act suffix; said in love",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-mu",
+      "laadan": "-mu",
       "english": "path",
       "description": "a morpheme meaning path; In English; the PATH case is most often marked by the prepositions through; across; along; or over.; Case Marker: suffix for path",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-mu",
+      "laadan": "-mu",
       "english": "via",
       "description": "path marker. Bíi sháad le bethedi wilimu óobe wa. I'm going home along the river.",
       "classification": "path marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-n",
+      "laadan": "-n",
       "english": "",
       "description": "pronoun suffix: many",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-nal",
+      "laadan": "-nal",
       "english": "in this way",
       "description": "Case Marker: suffix for manner",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-nal",
+      "laadan": "-nal",
       "english": "manner",
       "description": "the manner in which something is done",
       "classification": "manner marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-nan",
+      "laadan": "-nan",
       "english": "per",
       "description": "a morpheme meaning by means of; it indicates what is used to do something; Bíi ril sháad le buzhedi mazhenan wa. (I'm going to the con by car.); Case Marker: suffix for instrument",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-nan",
+      "laadan": "-nan",
       "english": "per",
       "description": "instrument marker",
       "classification": "instrument marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-o",
+      "laadan": "-o",
       "english": "for foolish reasons",
       "description": "",
       "classification": "first declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-o",
+      "laadan": "-o",
       "english": "",
       "description": "in meditation (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-óo",
+      "laadan": "-óo",
       "english": "",
       "description": "in hypnotic trance (state of consciousness marker) root word=hahod=to be in the state of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-rada",
+      "laadan": "-rada",
       "english": "against",
       "description": "against (to lean against something)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-sha",
+      "laadan": "-sha",
       "english": "place",
       "description": "Case Marker: suffix for place (see also '-ha')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-shule",
+      "laadan": "-shule",
       "english": "an unberable degree",
       "description": "would cause a catastrophic event; used as an emergency form",
       "classification": "negative degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-th",
+      "laadan": "-th",
       "english": "in pain",
       "description": "Speech Act suffix; said in pain",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-th",
+      "laadan": "-th",
       "english": "object",
       "description": "a morpheme that means This is the direct object in this sentence.; Bíi ril thi Athid imedimeth wa. (Athid has a suitcase.); Case Marker: suffix for object",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-tha",
+      "laadan": "-tha",
       "english": "by reason of birth",
       "description": "",
       "classification": "possession marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-tha",
+      "laadan": "-tha",
       "english": "possession by birth",
       "description": "Case Marker: suffix for possession - by reason of birth (see also '-thi'; '-the'; '-thu'; '-tho')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-the",
+      "laadan": "-the",
       "english": "for unknown or unacknowledged reason",
       "description": "",
       "classification": "possession marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-the",
+      "laadan": "-the",
       "english": "possession for unacknowledged reasons",
       "description": "Case Marker: suffix for possession - for unknown or unacknowledged reasons (see also '-tha'; '-thi'; '-thu'; '-tho')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-théle",
+      "laadan": "-théle",
       "english": "to a pleasing degree",
       "description": "fine",
       "classification": "positive degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thi",
+      "laadan": "-thi",
       "english": "by reason of chance",
       "description": "",
       "classification": "possession marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thi",
+      "laadan": "-thi",
       "english": "possession by reason of chance",
       "description": "Case Marker: suffix for possession - by reason of chance (see also '-tha'; '-the'; '-thu'; '-tho')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thíle",
+      "laadan": "-thíle",
       "english": "to a more-than-pleasing degree",
       "description": "excellent",
       "classification": "positive degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-tho",
+      "laadan": "-tho",
       "english": "other",
       "description": "purchase, gift, law, custom, et cetera",
       "classification": "possession marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-tho",
+      "laadan": "-tho",
       "english": "possession by other means",
       "description": "Case Marker: suffix for possession - other (purchase; gift; law; custom; etc.) (see also '-tha'; '-the'; '-thi'; '-thu')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thu",
+      "laadan": "-thu",
       "english": "the false possessive",
       "description": "the false (“partitive”) possessive, as in “a dress of velvet”",
       "classification": "possession marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thu",
+      "laadan": "-thu",
       "english": "",
       "description": "Case Marker: suffix for possession - partitive (false possessive) (see also '-thi'; '-the'; '-thu'; '-tha')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thúle",
+      "laadan": "-thúle",
       "english": "to the furthest degree of pleasingness possible",
       "description": "perfect",
       "classification": "positive degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-thúul",
+      "laadan": "-thúul",
       "english": "to an extraordinarily pleasing degree",
       "description": "magnificient",
       "classification": "positive degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-u",
+      "laadan": "-u",
       "english": "for bad reasons",
       "description": "",
       "classification": "first declension",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-wáan",
+      "laadan": "-wáan",
       "english": "because",
       "description": "a morpheme meaning the reason for which something is done; Case Marker: suffix for cause - reason; due to; because of (see also '-wan')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-wáan",
+      "laadan": "-wáan",
       "english": "reason",
       "description": "the reason for which something is done. Bíi eril yime be óowamidewáan wa. She ran because of the dragon.",
       "classification": "reason marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-wan",
+      "laadan": "-wan",
       "english": "in order to",
       "description": "Case Marker: suffix for cause - for the purpose of; in order to (see also '-wáan')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-wan",
+      "laadan": "-wan",
       "english": "purpose",
       "description": "the purpose for which something is done. Bíi eril sháad be hohaledi halewan wa. She went to the office to work.",
       "classification": "purpose marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ya",
+      "laadan": "-ya",
       "english": "at",
       "description": "location in time",
       "classification": "location marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ya",
+      "laadan": "-ya",
       "english": "in fear",
       "description": "Speech Act suffix; said in fear",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ya",
+      "laadan": "-ya",
       "english": "",
       "description": "Case Marker: suffix for Time",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-ye-",
+      "laadan": "-ye-",
       "english": "",
       "description": "Indefinites: use the basic pronoun form; plus -ye-; plus the Case Marker.",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-yi-",
+      "laadan": "-yi-",
       "english": "",
       "description": "fraction marker",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-yóo-",
+      "laadan": "-yóo-",
       "english": "",
       "description": "Reflexive (myself): use the base form; plus -yóo-; plus Case Marker",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "-zh",
+      "laadan": "-zh",
       "english": "",
       "description": "pronoun suffix: several",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "(none)",
+      "laadan": "(none)",
       "english": "to an ordinary degree",
       "description": "",
       "classification": "degree marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "a",
+      "laadan": "a",
       "english": "love",
       "description": "for an inanimate object",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "a",
+      "laadan": "a",
       "english": "to love",
       "description": "for an inanimate object",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "a",
+      "laadan": "a",
       "english": "",
       "description": "love (for inanimates only); to love (inanimates only)",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "á-",
+      "laadan": "á-",
       "english": "baby",
       "description": "prefix to signify infant; baby; very young creature (see háa-; yáa-)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áabe",
+      "laadan": "áabe",
       "english": "book",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áabewehe",
+      "laadan": "áabewehe",
       "english": "bookstore",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "áabe = book, wehe = store",
+      "breakdown": "áabe = book, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "áada",
+      "laadan": "áada",
       "english": "smile",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áada",
+      "laadan": "áada",
       "english": "to smile",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aálá",
+      "laadan": "aálá",
       "english": "spray",
       "description": "as in water",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aálá",
+      "laadan": "aálá",
       "english": "to spray",
       "description": "as in water",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áalaá",
+      "laadan": "áalaá",
       "english": "butterfly",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aáláan",
+      "laadan": "aáláan",
       "english": "wave",
       "description": "wave of water on an ocean or a lake",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aáláthon",
+      "laadan": "aáláthon",
       "english": "to ejaculate",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "aálá = spray, thon = seed",
+      "breakdown": "aálá = spray, thon = seed",
       "notes": ""
     },
     {
-      "láadan": "aále",
+      "laadan": "aále",
       "english": "curl",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aále",
+      "laadan": "aále",
       "english": "ruffle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aálesh",
+      "laadan": "aálesh",
       "english": "parsley",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áalilomáa",
+      "laadan": "áalilomáa",
       "english": "sound of rhythmically flowing water",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áalilomáan",
+      "laadan": "áalilomáan",
       "english": "sound of rhythmic waves",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áana",
+      "laadan": "áana",
       "english": "sleep",
       "description": "see also: ina=to sleep",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áana",
+      "laadan": "áana",
       "english": "sleep",
       "description": "synonym: ina",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áana",
+      "laadan": "áana",
       "english": "to sleep",
       "description": "synonym: ina",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áath",
+      "laadan": "áath",
       "english": "door",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áatham",
+      "laadan": "áatham",
       "english": "church",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áathethóo",
+      "laadan": "áathethóo",
       "english": "door guest",
       "description": "a guest who just shows up at your door  (See also: thóo; nithedimethóo; shineshidethóo; widadithethóo)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áayáa",
+      "laadan": "áayáa",
       "english": "mysterious love; not yet known to be welcome or not",
       "description": "mysterious love; not yet known to be welcome or not",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áayo",
+      "laadan": "áayo",
       "english": "skirt",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áazh",
+      "laadan": "áazh",
       "english": "love for one sexually desired at one time; but not now",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áazh",
+      "laadan": "áazh",
       "english": "to love",
       "description": "love for one sexually desired at one time; but not now",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ab",
+      "laadan": "ab",
       "english": "love for one liked but not respected",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ab",
+      "laadan": "ab",
       "english": "to love",
       "description": "love for one liked but not respected",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aba",
+      "laadan": "aba",
       "english": "fragrance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aba",
+      "laadan": "aba",
       "english": "to be fragrant",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "abash",
+      "laadan": "abash",
       "english": "tarragon",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "abathede",
+      "laadan": "abathede",
       "english": "clitoris",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ábed",
+      "laadan": "ábed",
       "english": "farm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ábed",
+      "laadan": "ábed",
       "english": "to farm",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ábed",
+      "laadan": "ábed",
       "english": "to farm",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ábedá",
+      "laadan": "ábedá",
       "english": "farmer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "ábed = farm, -á = doer",
+      "breakdown": "ábed = farm, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "ábedun",
+      "laadan": "ábedun",
       "english": "field of a farm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ábed = farm, dun = field",
+      "breakdown": "ábed = farm, dun = field",
       "notes": ""
     },
     {
-      "láadan": "abesh",
+      "laadan": "abesh",
       "english": "all-that-is",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "woho=all; every",
+      "breakdown": "woho=all; every",
       "notes": ""
     },
     {
-      "láadan": "abesh",
+      "laadan": "abesh",
       "english": "to be all things",
       "description": "woho=all; every",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ad",
+      "laadan": "ad",
       "english": "love for one respected but not liked",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ad",
+      "laadan": "ad",
       "english": "to love",
       "description": "love for one respected but not liked",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ada",
+      "laadan": "ada",
       "english": "laugh",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ada",
+      "laadan": "ada",
       "english": "to laugh",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adadama",
+      "laadan": "adadama",
       "english": "tickle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adadama",
+      "laadan": "adadama",
       "english": "to tickle",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adal",
+      "laadan": "adal",
       "english": "to sew",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adal",
+      "laadan": "adal",
       "english": "to sew",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Adaletham",
+      "laadan": "Adaletham",
       "english": "August",
       "description": "berry month",
       "classification": "noun",
-      "wordBreakdown": "dalatham = berry",
+      "breakdown": "dalatham = berry",
       "notes": ""
     },
     {
-      "láadan": "adama",
+      "laadan": "adama",
       "english": "tickle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adama",
+      "laadan": "adama",
       "english": "to tickle",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adelith",
+      "laadan": "adelith",
       "english": "dandruff",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Adol",
+      "laadan": "Adol",
       "english": "December",
       "description": "root month",
       "classification": "noun",
-      "wordBreakdown": "dol = root",
+      "breakdown": "dol = root",
       "notes": ""
     },
     {
-      "láadan": "adoni",
+      "laadan": "adoni",
       "english": "a landing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "adoni",
+      "laadan": "adoni",
       "english": "to land",
       "description": "as a ship or plane",
       "classification": "intransitive verb",
-      "wordBreakdown": "doni = earth",
+      "breakdown": "doni = earth",
       "notes": ""
     },
     {
-      "láadan": "adoni",
+      "laadan": "adoni",
       "english": "to land",
       "description": "as a ship or plane",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ahana",
+      "laadan": "ahana",
       "english": "chocolate",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ahanamezh",
+      "laadan": "ahanamezh",
       "english": "cocoa",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Ahede",
+      "laadan": "Ahede",
       "english": "September",
       "description": "grain month",
       "classification": "noun",
-      "wordBreakdown": "ede = grain",
+      "breakdown": "ede = grain",
       "notes": ""
     },
     {
-      "láadan": "Ahesh",
+      "laadan": "Ahesh",
       "english": "March",
       "description": "grass month",
       "classification": "noun",
-      "wordBreakdown": "hesh = grass",
+      "breakdown": "hesh = grass",
       "notes": ""
     },
     {
-      "láadan": "áhesh",
+      "laadan": "áhesh",
       "english": "responsibility",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áhesh",
+      "laadan": "áhesh",
       "english": "to be responsible",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "al",
+      "laadan": "al",
       "english": "toilet",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alehaáláan",
+      "laadan": "alehaáláan",
       "english": "rhythm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alehala",
+      "laadan": "alehala",
       "english": "art",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alehala",
+      "laadan": "alehala",
       "english": "to make art",
       "description": "to art",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alehale",
+      "laadan": "alehale",
       "english": "music",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alehale",
+      "laadan": "alehale",
       "english": "to make music",
       "description": "sing; whistle; musical instrument",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Alel",
+      "laadan": "Alel",
       "english": "January",
       "description": "seaweed month",
       "classification": "noun",
-      "wordBreakdown": "lel = seaweed",
+      "breakdown": "lel = seaweed",
       "notes": ""
     },
     {
-      "láadan": "alu",
+      "laadan": "alu",
       "english": "marsh",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "alu",
+      "laadan": "alu",
       "english": "swamp",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "álub",
+      "laadan": "álub",
       "english": "chick",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "am",
+      "laadan": "am",
       "english": "love for one related by blood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "am",
+      "laadan": "am",
       "english": "to love",
       "description": "love for one related by blood",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "am",
+      "laadan": "am",
       "english": "to love",
       "description": "love for one related by blood",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Amahina",
+      "laadan": "Amahina",
       "english": "May",
       "description": "flower month",
       "classification": "noun",
-      "wordBreakdown": "mahina = flower",
+      "breakdown": "mahina = flower",
       "notes": ""
     },
     {
-      "láadan": "Ameda",
+      "laadan": "Ameda",
       "english": "July",
       "description": "vegetable month",
       "classification": "noun",
-      "wordBreakdown": "meda = vegetable",
+      "breakdown": "meda = vegetable",
       "notes": ""
     },
     {
-      "láadan": "amedara",
+      "laadan": "amedara",
       "english": "dance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "amedara",
+      "laadan": "amedara",
       "english": "to dance",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ámid",
+      "laadan": "ámid",
       "english": "baby animal",
       "description": "see háamid; yáamid",
       "classification": "noun",
-      "wordBreakdown": "á- = baby, mid = creature",
+      "breakdown": "á- = baby, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "ámid",
+      "laadan": "ámid",
       "english": "very young creature",
       "description": "see háamid; yáamid",
       "classification": "noun",
-      "wordBreakdown": "á- = baby, mid = creature",
+      "breakdown": "á- = baby, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "an",
+      "laadan": "an",
       "english": "to know",
       "description": "of people",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "an",
+      "laadan": "an",
       "english": "to know",
       "description": "of people",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ana",
+      "laadan": "ana",
       "english": "food",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ana",
+      "laadan": "ana",
       "english": "food",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "anadal",
+      "laadan": "anadal",
       "english": "meal",
       "description": "general term (breakfast; lunch; dinner; etc)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "anadalá",
+      "laadan": "anadalá",
       "english": "chef",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "anadalá",
+      "laadan": "anadalá",
       "english": "cook",
       "description": "chef",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "anahelilith",
+      "laadan": "anahelilith",
       "english": "feminist-angel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "analel",
+      "laadan": "analel",
       "english": "agar",
       "description": "a seaweed",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "anawehe",
+      "laadan": "anawehe",
       "english": "food store",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ana = food, wehe = store",
+      "breakdown": "ana = food, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "anawehe",
+      "laadan": "anawehe",
       "english": "grocery store",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ana = food, wehe = store",
+      "breakdown": "ana = food, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "anawehe",
+      "laadan": "anawehe",
       "english": "to grocery shop",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Arahanesha",
+      "laadan": "Arahanesha",
       "english": "Arkansas",
       "description": "loanword",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Aranesha",
+      "laadan": "Aranesha",
       "english": "Arkansas",
       "description": "pet name; short form",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "after",
       "description": "in time",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "after",
       "description": "in time",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "future",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "future",
       "description": "(time auxiliary) (aril=later)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Aril",
+      "laadan": "Aril",
       "english": "good-bye",
       "description": "; leavetaking; farewell (aril=later)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "later",
       "description": "in time",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aril",
+      "laadan": "aril",
       "english": "later",
       "description": "in time",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Aril",
+      "laadan": "Aril",
       "english": "leavetaking",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aríli",
+      "laadan": "aríli",
       "english": "far future",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aríli",
+      "laadan": "aríli",
       "english": "far future",
       "description": "; long ahead (time auxiliary) (aril=later)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ash",
+      "laadan": "ash",
       "english": "star",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ash",
+      "laadan": "ash",
       "english": "star",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ásháana",
+      "laadan": "ásháana",
       "english": "joyful menstruation",
       "description": "osháana=to menstruate",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ásháana",
+      "laadan": "ásháana",
       "english": "to menstruate joyfully",
       "description": "osháana=to menstruate",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ashon",
+      "laadan": "ashon",
       "english": "love for one not related by blood; but heart-kin",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ashon",
+      "laadan": "ashon",
       "english": "to love",
       "description": "love for one not related by blood; but heart-kin",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ashon",
+      "laadan": "ashon",
       "english": "to love",
       "description": "love for one not related by blood; but heart-kin",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ath",
+      "laadan": "ath",
       "english": "benison",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ath",
+      "laadan": "ath",
       "english": "spoken blessing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ath",
+      "laadan": "ath",
       "english": "to give a spoken blessing",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Athesh",
+      "laadan": "Athesh",
       "english": "June",
       "description": "herb month",
       "classification": "noun",
-      "wordBreakdown": "thesh = herb",
+      "breakdown": "thesh = herb",
       "notes": ""
     },
     {
-      "láadan": "Athil",
+      "laadan": "Athil",
       "english": "April",
       "description": "vine month",
       "classification": "noun",
-      "wordBreakdown": "thil = vine",
+      "breakdown": "thil = vine",
       "notes": ""
     },
     {
-      "láadan": "Athon",
+      "laadan": "Athon",
       "english": "November",
       "description": "seed month",
       "classification": "noun",
-      "wordBreakdown": "thon = seed",
+      "breakdown": "thon = seed",
       "notes": ""
     },
     {
-      "láadan": "áwith",
+      "laadan": "áwith",
       "english": "baby",
       "description": "see háawith; yáawith",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áwith",
+      "laadan": "áwith",
       "english": "infant",
       "description": "see háawith; yáawith",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áwith",
+      "laadan": "áwith",
       "english": "very young person",
       "description": "see háawith; yáawith",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áwithid",
+      "laadan": "áwithid",
       "english": "male baby",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áwithid",
+      "laadan": "áwithid",
       "english": "male infant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áwod",
+      "laadan": "áwod",
       "english": "diaper",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áya",
+      "laadan": "áya",
       "english": "to be beautiful",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "áya",
+      "laadan": "áya",
       "english": "to be beautiful",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ayáanin",
+      "laadan": "ayáanin",
       "english": "February",
       "description": "tree month",
       "classification": "noun",
-      "wordBreakdown": "yáanin = tree",
+      "breakdown": "yáanin = tree",
       "notes": ""
     },
     {
-      "láadan": "aye",
+      "laadan": "aye",
       "english": "love which is an unwelcome burden",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aye",
+      "laadan": "aye",
       "english": "to love",
       "description": "love which is an unwelcome burden",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "aye",
+      "laadan": "aye",
       "english": "to love",
       "description": "love which is an unwelcome burden",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Ayu",
+      "laadan": "Ayu",
       "english": "October",
       "description": "fruit month",
       "classification": "noun",
-      "wordBreakdown": "yu = fruit",
+      "breakdown": "yu = fruit",
       "notes": ""
     },
     {
-      "láadan": "azh",
+      "laadan": "azh",
       "english": "love for one sexually desired now",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "azh",
+      "laadan": "azh",
       "english": "to love",
       "description": "love for one sexually desired now",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "azh",
+      "laadan": "azh",
       "english": "to love",
       "description": "love for one sexually desired now",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "azháadin",
+      "laadan": "azháadin",
       "english": "to menopause uneventfully",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "azhur",
+      "laadan": "azhur",
       "english": "lover",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ba",
+      "laadan": "ba",
       "english": "she/it/he beloved",
       "description": "3rd person: singular: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báa",
+      "laadan": "báa",
       "english": "I ask",
       "description": "question speech act; neutral",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báa",
+      "laadan": "báa",
       "english": "I ask you",
       "description": "question speech act; neutral",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báa",
+      "laadan": "báa",
       "english": "I say to you as a question",
       "description": "question speech act; neutral",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báad",
+      "laadan": "báad",
       "english": "in anger; I ask",
       "description": "question speech act; in anger",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báada",
+      "laadan": "báada",
       "english": "in jest; I ask you",
       "description": "question speech act; in jest",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báade",
+      "laadan": "báade",
       "english": "as a story; I ask",
       "description": "question speech act morpheme; in narrative",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báadi",
+      "laadan": "báadi",
       "english": "in teaching; I ask",
       "description": "question speech act morpheme; in teaching",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báadu",
+      "laadan": "báadu",
       "english": "as poetry; I ask",
       "description": "question speech act; in poetry",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báalan",
+      "laadan": "báalan",
       "english": "in celebration; I ask",
       "description": "question speech act; in celebration",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báali",
+      "laadan": "báali",
       "english": "in love; I ask",
       "description": "question speech act; in love",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báath",
+      "laadan": "báath",
       "english": "in pain; I ask",
       "description": "question speech act morpheme; in pain",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "báaya",
+      "laadan": "báaya",
       "english": "in fear; I ask",
       "description": "question speech act; in fear",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "babí",
+      "laadan": "babí",
       "english": "bird",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "babí",
+      "laadan": "babí",
       "english": "bird",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bad",
+      "laadan": "bad",
       "english": "mineral",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bad",
+      "laadan": "bad",
       "english": "mineral",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bada",
+      "laadan": "bada",
       "english": "repeatedly, at random",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bada",
+      "laadan": "bada",
       "english": "spoon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "badan",
+      "laadan": "badan",
       "english": "repeatedly, in a pattern over which humans have no control",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "badazh",
+      "laadan": "badazh",
       "english": "metal",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "badazhud",
+      "laadan": "badazhud",
       "english": "ore",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bal",
+      "laadan": "bal",
       "english": "bread",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bal",
+      "laadan": "bal",
       "english": "bread",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bala",
+      "laadan": "bala",
       "english": "anger",
       "description": "anger with reason; with someone to blame; which is not futile (bara; bana; bama; bina=anger)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "balá",
+      "laadan": "balá",
       "english": "baker",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "baledim",
+      "laadan": "baledim",
       "english": "breadbox",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bal = bread, dim = container",
+      "breakdown": "bal = bread, dim = container",
       "notes": ""
     },
     {
-      "láadan": "balin",
+      "laadan": "balin",
       "english": "to be old",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "balin",
+      "laadan": "balin",
       "english": "to be old",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "balinemid",
+      "laadan": "balinemid",
       "english": "tortoise",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "balin = to be old, mid = creature",
+      "breakdown": "balin = to be old, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "balinemid",
+      "laadan": "balinemid",
       "english": "turtle",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "balin = to be old, mid = creature",
+      "breakdown": "balin = to be old, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "balish",
+      "laadan": "balish",
       "english": "quilt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "balish",
+      "laadan": "balish",
       "english": "to quilt",
       "description": "not patchwork",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bama",
+      "laadan": "bama",
       "english": "anger",
       "description": "anger with reason; but with no one to blame; which is not futile (bala; bana; bara; bina=anger)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ban",
+      "laadan": "ban",
       "english": "they beloved",
       "description": "3rd person: many: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ban",
+      "laadan": "ban",
       "english": "to give",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ban",
+      "laadan": "ban",
       "english": "to give",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bana",
+      "laadan": "bana",
       "english": "anger",
       "description": "anger with reason; with no one to blame; which is futile (bara; bala; bama; bina=anger)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "baneban",
+      "laadan": "baneban",
       "english": "forgiveness",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "baneban",
+      "laadan": "baneban",
       "english": "to forgive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "baneban",
+      "laadan": "baneban",
       "english": "to forgive",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "banibel",
+      "laadan": "banibel",
       "english": "give and take",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "banibel",
+      "laadan": "banibel",
       "english": "to give and take",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ban = to give, bel = to take",
+      "breakdown": "ban = to give, bel = to take",
       "notes": ""
     },
     {
-      "láadan": "bara",
+      "laadan": "bara",
       "english": "anger",
       "description": "anger with reason; with someone to blame; which is futile (bala; bama; bana; bina=anger)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bash",
+      "laadan": "bash",
       "english": "common sense",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bash",
+      "laadan": "bash",
       "english": "thorn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bath",
+      "laadan": "bath",
       "english": "claw",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bath",
+      "laadan": "bath",
       "english": "fingernail",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bath",
+      "laadan": "bath",
       "english": "nail",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bath",
+      "laadan": "bath",
       "english": "six",
       "description": 6,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bath",
+      "laadan": "bath",
       "english": "toenail",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "batha",
+      "laadan": "batha",
       "english": "fork",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bathethab",
+      "laadan": "bathethab",
       "english": "sixteen",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bazh",
+      "laadan": "bazh",
       "english": "they beloved",
       "description": "3rd person: several",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "be",
+      "laadan": "be",
       "english": "she/it/he",
       "description": "3rd person: singular",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bé",
+      "laadan": "bé",
       "english": "I say as a promise",
       "description": "promise speech act; neutral",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béd",
+      "laadan": "béd",
       "english": "in anger; I say as a promise",
       "description": "promise speech act; in anger",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béda",
+      "laadan": "béda",
       "english": "in jest; I say as a promise",
       "description": "promise speech act; in jest",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béde",
+      "laadan": "béde",
       "english": "as a story; I say as a promise",
       "description": "promise speech act; in narrative",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bedi",
+      "laadan": "bedi",
       "english": "learn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bedi",
+      "laadan": "bedi",
       "english": "to learn",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bedi",
+      "laadan": "bedi",
       "english": "to learn",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bédi",
+      "laadan": "bédi",
       "english": "in teaching; I say as a promise",
       "description": "promise speech act; in teaching",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bédi",
+      "laadan": "bédi",
       "english": "promise",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bédi",
+      "laadan": "bédi",
       "english": "to promise",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bedihá",
+      "laadan": "bedihá",
       "english": "learner",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, -á = doer",
+      "breakdown": "bedi = to learn, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "bedihá",
+      "laadan": "bedihá",
       "english": "student",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, -á = doer",
+      "breakdown": "bedi = to learn, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "bedihim",
+      "laadan": "bedihim",
       "english": "school field trip",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, im = to travel",
+      "breakdown": "bedi = to learn, im = to travel",
       "notes": ""
     },
     {
-      "láadan": "bediholowod",
+      "laadan": "bediholowod",
       "english": "class",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, olowod = group",
+      "breakdown": "bedi = to learn, olowod = group",
       "notes": ""
     },
     {
-      "láadan": "bedilhoth",
+      "laadan": "bedilhoth",
       "english": "useless knowledge lesson",
       "description": "see also: bedina; bediloth; bediwoth",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, -lh- = bad",
+      "breakdown": "bedi = to learn, -lh- = bad",
       "notes": ""
     },
     {
-      "láadan": "bediloth",
+      "laadan": "bediloth",
       "english": "knowledge lesson",
       "description": "see also: bedina; bedilhoth; bediwoth",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn, loth = information",
+      "breakdown": "bedi = to learn, loth = information",
       "notes": ""
     },
     {
-      "láadan": "bédim",
+      "laadan": "bédim",
       "english": "contract",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bédi = promise",
+      "breakdown": "bédi = promise",
       "notes": ""
     },
     {
-      "láadan": "bédim",
+      "laadan": "bédim",
       "english": "deal",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bédi = promise",
+      "breakdown": "bédi = promise",
       "notes": ""
     },
     {
-      "láadan": "bédim",
+      "laadan": "bédim",
       "english": "to make a contract",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bédim",
+      "laadan": "bédim",
       "english": "to make a deal",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bedina",
+      "laadan": "bedina",
       "english": "lesson",
       "description": "see also: bediloth; bedilhoth; bediwoth",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn",
+      "breakdown": "bedi = to learn",
       "notes": ""
     },
     {
-      "láadan": "bedishod",
+      "laadan": "bedishod",
       "english": "classroom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn",
+      "breakdown": "bedi = to learn",
       "notes": ""
     },
     {
-      "láadan": "bediwoth",
+      "laadan": "bediwoth",
       "english": "wisdom lesson",
       "description": "see also: bedina; bediloth; bedilhoth",
       "classification": "noun",
-      "wordBreakdown": "bedi = to learn",
+      "breakdown": "bedi = to learn",
       "notes": ""
     },
     {
-      "láadan": "bédu",
+      "laadan": "bédu",
       "english": "as poetry; I say as a promise...;",
       "description": "promise speech act; as poetry",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bée",
+      "laadan": "bée",
       "english": "I say in warning",
       "description": "warning speech act; neutral",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béed",
+      "laadan": "béed",
       "english": "in anger; I say in warning",
       "description": "warning speech act; in anger",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béeda",
+      "laadan": "béeda",
       "english": "in jest; I say in warning",
       "description": "warning speech act; in jest",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béede",
+      "laadan": "béede",
       "english": "as a story; I say in warning",
       "description": "warning speech act; in narrative",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béedi",
+      "laadan": "béedi",
       "english": "in teaching; I say in warning",
       "description": "warning speech act; in teaching",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béedu",
+      "laadan": "béedu",
       "english": "in poetry; I say in warning",
       "description": "warning speech act; as poetry",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béelan",
+      "laadan": "béelan",
       "english": "in celebration; I say in warning",
       "description": "warning speech act; in celebration",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béeli",
+      "laadan": "béeli",
       "english": "in love; I say in warning",
       "description": "warning speech act; in love",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béeth",
+      "laadan": "béeth",
       "english": "in pain; I say in warning",
       "description": "warning speech act; in pain",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béeya",
+      "laadan": "béeya",
       "english": "in fear; I say in warning",
       "description": "warning speech act; in fear",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "behal",
+      "laadan": "behal",
       "english": "surface",
       "description": "work counter",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "behal",
+      "laadan": "behal",
       "english": "work counter",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "behid",
+      "laadan": "behid",
       "english": "he",
       "description": "",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "behili",
+      "laadan": "behili",
       "english": "fluid",
       "description": "thick fluid",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bel",
+      "laadan": "bel",
       "english": "to take",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bel",
+      "laadan": "bel",
       "english": "to take",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bélan",
+      "laadan": "bélan",
       "english": "in celebration; I say as a promise",
       "description": "promise speech act; in celebration",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béli",
+      "laadan": "béli",
       "english": "in love; I say as a promise",
       "description": "promise speech act; in love",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "belid",
+      "laadan": "belid",
       "english": "house",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "belidá",
+      "laadan": "belidá",
       "english": "carpenter",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ben",
+      "laadan": "ben",
       "english": "they",
       "description": "3rd person: many: neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "benem",
+      "laadan": "benem",
       "english": "stay",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "benem",
+      "laadan": "benem",
       "english": "to stay",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beneth",
+      "laadan": "beneth",
       "english": "them",
       "description": "3rd person; many; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "berídan",
+      "laadan": "berídan",
       "english": "aunt",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beth",
+      "laadan": "beth",
       "english": "her/him/it",
       "description": "3rd person; singular; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beth",
+      "laadan": "beth",
       "english": "home",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beth",
+      "laadan": "beth",
       "english": "home",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béth",
+      "laadan": "béth",
       "english": "in pain; I say as a promise",
       "description": "promise speech act; in pain",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "betheb",
+      "laadan": "betheb",
       "english": "mirror",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "betheb",
+      "laadan": "betheb",
       "english": "to mirror",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "betheb",
+      "laadan": "betheb",
       "english": "to mirror",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bethud",
+      "laadan": "bethud",
       "english": "cave",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "béya",
+      "laadan": "béya",
       "english": "in fear; I say as a promise",
       "description": "promise speech act; in fear",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beye",
+      "laadan": "beye",
       "english": "somebody/someone/something",
       "description": "look to verb to distinguish: 3rd person singular indefinite pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyen",
+      "laadan": "beyen",
       "english": "several (2 to 5) unidentified somebodies or somethings",
       "description": "3rd person several indefinite pronoun: English doesn't have specific words for these forms. They're going to be introduced with descriptions that make it clear that they're not identified; and then they're all going to be referred to with they/them/their/theirs from that point on. Some mountains loomed up ahead of us; they were beautiful.",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyezh",
+      "laadan": "beyezh",
       "english": "many (more than 5) unidentified somebodies or somethings",
       "description": "3rd person many indefinite pronoun: English doesn't have specific words for these forms. They're going to be introduced with descriptions that make it clear that they're not identified; and then they're all going to be referred to with they/them/their/theirs from that point on. Some mountains loomed up ahead of us; they were beautiful.",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyóo",
+      "laadan": "beyóo",
       "english": "herself/himself/itself",
       "description": "",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyóohid",
+      "laadan": "beyóohid",
       "english": "himself",
       "description": "",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyóon",
+      "laadan": "beyóon",
       "english": "themselves",
       "description": "3rd person; many; reflexive pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "beyóozh",
+      "laadan": "beyóozh",
       "english": "themselves",
       "description": "3rd person; several; reflexive pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bezh",
+      "laadan": "bezh",
       "english": "they",
       "description": "pronoun: 3rd person: neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bezheth",
+      "laadan": "bezheth",
       "english": "them",
       "description": "3rd person; several; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bi",
+      "laadan": "bi",
       "english": "she/it/he",
       "description": "3rd person: singular: honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bid",
+      "laadan": "bid",
       "english": "nerve",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bid",
+      "laadan": "bid",
       "english": "sink",
       "description": "kitchen sink",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíi",
+      "laadan": "bíi",
       "english": "I say",
       "description": "declarative speech act; neutral (usually optional)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíi",
+      "laadan": "bíi",
       "english": "I say to you; as a statement",
       "description": "declarative speech act; neutral (usually optional)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíid",
+      "laadan": "bíid",
       "english": "in anger; I say",
       "description": "declarative speech act; in anger",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíida",
+      "laadan": "bíida",
       "english": "in jest; I say",
       "description": "declarative speech act; in jest",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíide",
+      "laadan": "bíide",
       "english": "as a story; I say",
       "description": "declarative speech act; in narrative",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíidi",
+      "laadan": "bíidi",
       "english": "in teaching; I say",
       "description": "declarative speech act; in teaching",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíidu",
+      "laadan": "bíidu",
       "english": "as a poem; I say",
       "description": "declarative speech act; in poetry",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíilan",
+      "laadan": "bíilan",
       "english": "in celebration; I say",
       "description": "declarative speech act; in celebration",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíili",
+      "laadan": "bíili",
       "english": "in love; I say",
       "description": "declarative speech act; in love",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíith",
+      "laadan": "bíith",
       "english": "in pain; I say",
       "description": "declarative speech act; in pain",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bíiya",
+      "laadan": "bíiya",
       "english": "in fear; I say",
       "description": "declarative speech act; in fear",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bil",
+      "laadan": "bil",
       "english": "fun",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bim",
+      "laadan": "bim",
       "english": "four",
       "description": 4,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bimethab",
+      "laadan": "bimethab",
       "english": "fourteen",
       "description": 14,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bimeya",
+      "laadan": "bimeya",
       "english": "fourth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bin",
+      "laadan": "bin",
       "english": "bowl",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bin",
+      "laadan": "bin",
       "english": "they",
       "description": "3rd person: many: honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bina",
+      "laadan": "bina",
       "english": "anger with no reason; with no one to blame; which is not futile",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bini",
+      "laadan": "bini",
       "english": "gift",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bish",
+      "laadan": "bish",
       "english": "prize",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bishib",
+      "laadan": "bishib",
       "english": "suddenly",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bishib",
+      "laadan": "bishib",
       "english": "to be sudden",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bithim",
+      "laadan": "bithim",
       "english": "meet with",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bithim",
+      "laadan": "bithim",
       "english": "meeting",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bithim",
+      "laadan": "bithim",
       "english": "to meet",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bizh",
+      "laadan": "bizh",
       "english": "they",
       "description": "3rd person: several: honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bo",
+      "laadan": "bo",
       "english": "mountain",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bo",
+      "laadan": "bo",
       "english": "mountain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bó",
+      "laadan": "bó",
       "english": "I command",
       "description": "command speech act; neutral (very rare except to small children)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bod",
+      "laadan": "bod",
       "english": "dish",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bod",
+      "laadan": "bod",
       "english": "line",
       "description": "on a surface or of a computer program",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bod",
+      "laadan": "bod",
       "english": "line of code",
       "description": "on a surface or of a computer program",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bód",
+      "laadan": "bód",
       "english": "in anger; I command",
       "description": "command speech act; in anger (very rare except to small children)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóda",
+      "laadan": "bóda",
       "english": "in jest; I command",
       "description": "command speech act; in jest (very rare except to small children)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóde",
+      "laadan": "bóde",
       "english": "as a story; I command",
       "description": "command speech act; in narrative (very rare except to small children)",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bodehal",
+      "laadan": "bodehal",
       "english": "rod",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bod = line",
+      "breakdown": "bod = line",
       "notes": ""
     },
     {
-      "láadan": "bodehal",
+      "laadan": "bodehal",
       "english": "staff",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bod = line",
+      "breakdown": "bod = line",
       "notes": ""
     },
     {
-      "láadan": "bodehal",
+      "laadan": "bodehal",
       "english": "stave",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bod = line",
+      "breakdown": "bod = line",
       "notes": ""
     },
     {
-      "láadan": "bódi",
+      "laadan": "bódi",
       "english": "in teaching; I command...; command speech act; in teaching (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bodibod",
+      "laadan": "bodibod",
       "english": "program",
       "description": "computer",
       "classification": "noun",
-      "wordBreakdown": "bod = ilne of computer program",
+      "breakdown": "bod = ilne of computer program",
       "notes": ""
     },
     {
-      "láadan": "bodibod",
+      "laadan": "bodibod",
       "english": "to program",
       "description": "a computer",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bodibod",
+      "laadan": "bodibod",
       "english": "to program",
       "description": "a computer",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bódu",
+      "laadan": "bódu",
       "english": "as poetry; I command...; command speech act; in poetry (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bohí",
+      "laadan": "bohí",
       "english": "to be short",
       "description": "in length",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bol",
+      "laadan": "bol",
       "english": "fleecy-clouded",
       "description": "said of the sky",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bólan",
+      "laadan": "bólan",
       "english": "in celebration; I command...; command speech act; in celebration (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóli",
+      "laadan": "bóli",
       "english": "in love; I command...; command speech act; in love (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bom",
+      "laadan": "bom",
       "english": "oil",
       "description": "household oil",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bom",
+      "laadan": "bom",
       "english": "penis",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bom",
+      "laadan": "bom",
       "english": "to oil",
       "description": "household oil",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bon",
+      "laadan": "bon",
       "english": "shirt",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boó",
+      "laadan": "boó",
       "english": "three",
       "description": 3,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóo",
+      "laadan": "bóo",
       "english": "I request...; request speech act; neutral (usual command form)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóbidim",
+      "laadan": "boóbidim",
       "english": "basket",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóbil",
+      "laadan": "boóbil",
       "english": "ivy",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóbin",
+      "laadan": "boóbin",
       "english": "braid",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóbin",
+      "laadan": "boóbin",
       "english": "to braid",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóod",
+      "laadan": "bóod",
       "english": "in anger; I request...; request speech act; in anger",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóoda",
+      "laadan": "bóoda",
       "english": "in jest; I request...; request speech act; in jest",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóodan",
+      "laadan": "bóodan",
       "english": "rescue; save; to rescue; to save",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóode",
+      "laadan": "bóode",
       "english": "as a story; I request...; request speech act; in narrative",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóodi",
+      "laadan": "bóodi",
       "english": "in teaching; I request...; request speech act; in teaching",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóodu",
+      "laadan": "bóodu",
       "english": "as poetry; I request...; request speech act; in poetry",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóolan",
+      "laadan": "bóolan",
       "english": "in celebration; I request...; request speech act; in celebration",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóoli",
+      "laadan": "bóoli",
       "english": "in love; I request...; request speech act; in love",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boómi",
+      "laadan": "boómi",
       "english": "clover",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boómi",
+      "laadan": "boómi",
       "english": "oxalis",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boósh",
+      "laadan": "boósh",
       "english": "curve",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boósh",
+      "laadan": "boósh",
       "english": "to be curved",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóoth",
+      "laadan": "bóoth",
       "english": "in pair; I request...; request speech act; in pain",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóthab",
+      "laadan": "boóthab",
       "english": "thirteen",
       "description": 13,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boóya",
+      "laadan": "boóya",
       "english": "third",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóoya",
+      "laadan": "bóoya",
       "english": "in fear; I request...; request speech act; in fear",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bosh",
+      "laadan": "bosh",
       "english": "wood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boshoya",
+      "laadan": "boshoya",
       "english": "bark of tree",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "boshum",
+      "laadan": "boshum",
       "english": "cloud",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "both",
+      "laadan": "both",
       "english": "hotel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "both",
+      "laadan": "both",
       "english": "motel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóth",
+      "laadan": "bóth",
       "english": "in pain; I command...; command speech act; in pain (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bóya",
+      "laadan": "bóya",
       "english": "in fear; I command...; command speech act; in fear (very rare except to small children)",
       "description": "",
       "classification": "speech act morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "brada",
+      "laadan": "brada",
       "english": "repeatedly, in a pattern fixed arbitrarily by human beings",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "brada",
+      "laadan": "brada",
       "english": "repeatedly; in a pattern fixed arbitaraily by human beings; repeatedly in an artificial pattern; repetition morpheme (see also bada; badan; bradan; bradá)",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bradá",
+      "laadan": "bradá",
       "english": "repeatedly, in what appears to be a pattern but cannot be demonstrated or proved to be one",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bradá",
+      "laadan": "bradá",
       "english": "repeatedly; in a what appears to be a pattern but cannot be demonstrated or proved to be one; repetition morpheme (see also bada; badan; brada; bradan)",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bradan",
+      "laadan": "bradan",
       "english": "repeatedly, in a pattern fixed by humans by analogy to some phenomenon (such as the seasons)",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bradan",
+      "laadan": "bradan",
       "english": "repeatedly; in a pattern fixed by humans by analogy to some phenomenon (such as the seasons) repetition morpheme (see also bada; badan; brada; bradá)",
       "description": "",
       "classification": "repetition marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bre",
+      "laadan": "bre",
       "english": "layer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bre…ébre",
+      "laadan": "bre…ébre",
       "english": "if .. then",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bre...ébre",
+      "laadan": "bre...ébre",
       "english": "if .. then",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bremeda",
+      "laadan": "bremeda",
       "english": "onion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bre = layer, meda = vegetable",
+      "breakdown": "bre = layer, meda = vegetable",
       "notes": ""
     },
     {
-      "láadan": "bretham",
+      "laadan": "bretham",
       "english": "spiral",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bre = layer, tham = circle",
+      "breakdown": "bre = layer, tham = circle",
       "notes": ""
     },
     {
-      "láadan": "bróo",
+      "laadan": "bróo",
       "english": "because",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bróo",
+      "laadan": "bróo",
       "english": "because",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bú",
+      "laadan": "bú",
       "english": "to be hard to understand",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bú",
+      "laadan": "bú",
       "english": "to be odd",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bú",
+      "laadan": "bú",
       "english": "to be perverse",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bú",
+      "laadan": "bú",
       "english": "to be quirky",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bud",
+      "laadan": "bud",
       "english": "clothing",
       "description": "clothing in general",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "bud",
+      "laadan": "bud",
       "english": "nine",
       "description": 9,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "buda",
+      "laadan": "buda",
       "english": "buddha",
       "description": "loan word, should have a capital B when it refers to the Buddha",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "budahá",
+      "laadan": "budahá",
       "english": "buddhist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "budehalid",
+      "laadan": "budehalid",
       "english": "masquerade",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bud = clothing",
+      "breakdown": "bud = clothing",
       "notes": ""
     },
     {
-      "láadan": "budeshun",
+      "laadan": "budeshun",
       "english": "ceremonial clothing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "bud = clothing, shun = ritual",
+      "breakdown": "bud = clothing, shun = ritual",
       "notes": ""
     },
     {
-      "láadan": "budethab",
+      "laadan": "budethab",
       "english": "nineteen",
       "description": 19,
       "classification": "noun",
-      "wordBreakdown": "bud = nine, thab = ten",
+      "breakdown": "bud = nine, thab = ten",
       "notes": ""
     },
     {
-      "láadan": "budim",
+      "laadan": "budim",
       "english": "wardrobe",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "bud = clothing, dim = container",
+      "breakdown": "bud = clothing, dim = container",
       "notes": ""
     },
     {
-      "láadan": "búláa",
+      "laadan": "búláa",
       "english": "illusion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "búláalh",
+      "laadan": "búláalh",
       "english": "harmful illusion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "búláa = illusion",
+      "breakdown": "búláa = illusion",
       "notes": ""
     },
     {
-      "láadan": "búláalh",
+      "laadan": "búláalh",
       "english": "perverse illusion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "búláa = illusion",
+      "breakdown": "búláa = illusion",
       "notes": ""
     },
     {
-      "láadan": "búsholan",
+      "laadan": "búsholan",
       "english": "alone in the bosom of your family",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "búsholan",
+      "laadan": "búsholan",
       "english": "to be alone in the bosom of your family",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "buth",
+      "laadan": "buth",
       "english": "to gather",
       "description": "not used with people",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "buth",
+      "laadan": "buth",
       "english": "to gather",
       "description": "not used with people",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "buzh",
+      "laadan": "buzh",
       "english": "conference",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "buzh",
+      "laadan": "buzh",
       "english": "convention",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dáan",
+      "laadan": "dáan",
       "english": "word",
       "description": "dan=language",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dáan i oyi",
+      "laadan": "dáan i oyi",
       "english": "body language",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dáanashoná",
+      "laadan": "dáanashoná",
       "english": "poet",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dáanelom",
+      "laadan": "dáanelom",
       "english": "poem",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dáanoline",
+      "laadan": "dáanoline",
       "english": "word angel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dadem",
+      "laadan": "dadem",
       "english": "picture",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dademadal",
+      "laadan": "dademadal",
       "english": "embroidery",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dademadal",
+      "laadan": "dademadal",
       "english": "to embroider",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dademadal",
+      "laadan": "dademadal",
       "english": "to embroider",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dahan",
+      "laadan": "dahan",
       "english": "bed",
       "description": "short form",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dal",
+      "laadan": "dal",
       "english": "thing",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dal",
+      "laadan": "dal",
       "english": "thing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dal waha",
+      "laadan": "dal waha",
       "english": "anything",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dala",
+      "laadan": "dala",
       "english": "any growing thing",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dala",
+      "laadan": "dala",
       "english": "frustration with reason; with someone to blame; which is not futile; to be frustrated (dama; dana; dara; dina= frustration)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dala",
+      "laadan": "dala",
       "english": "growing thing",
       "description": "any growing thing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dala",
+      "laadan": "dala",
       "english": "plant",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dala",
+      "laadan": "dala",
       "english": "plant",
       "description": "any growing thing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalatham",
+      "laadan": "dalatham",
       "english": "berry",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "dala = plant, tham = circle",
+      "breakdown": "dala = plant, tham = circle",
       "notes": ""
     },
     {
-      "láadan": "dale",
+      "laadan": "dale",
       "english": "any made thing",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dale",
+      "laadan": "dale",
       "english": "made thing",
       "description": "any made thing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dale",
+      "laadan": "dale",
       "english": "object",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dale",
+      "laadan": "dale",
       "english": "object",
       "description": "any made thing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalebediwan",
+      "laadan": "dalebediwan",
       "english": "desk",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalehale",
+      "laadan": "dalehale",
       "english": "musical instrument",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalehanawan",
+      "laadan": "dalehanawan",
       "english": "bed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalehebewan",
+      "laadan": "dalehebewan",
       "english": "sales table",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalemath",
+      "laadan": "dalemath",
       "english": "storehouse",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalemath",
+      "laadan": "dalemath",
       "english": "warehouse",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "daleshun",
+      "laadan": "daleshun",
       "english": "ceremonial object",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalethodewan",
+      "laadan": "dalethodewan",
       "english": "writing implement",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dalewodewan",
+      "laadan": "dalewodewan",
       "english": "chair",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "daleyodewan",
+      "laadan": "daleyodewan",
       "english": "table",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dam",
+      "laadan": "dam",
       "english": "to manifest",
       "description": "used like English 'seem'",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dam",
+      "laadan": "dam",
       "english": "to show signs of some emotion",
       "description": "used like English 'seem'",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dam",
+      "laadan": "dam",
       "english": "to show signs of some state",
       "description": "used like English 'seem'",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dama",
+      "laadan": "dama",
       "english": "frustration with reason; without someone to blame; which is futile; to be frustrated (dala; dana; dara; dina= frustration)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dama",
+      "laadan": "dama",
       "english": "to feel with the skin",
       "description": "Active touching; feeling. I am feeling the texture of the yarn. (see láad oyanan; passive touch)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dama",
+      "laadan": "dama",
       "english": "to touch",
       "description": "Active touching; feeling. I am feeling the texture of the yarn. (see láad oyanan; passive touch)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "damash",
+      "laadan": "damash",
       "english": "exhibitionisticly demonstrate one’s skill",
       "description": "not a pejorative",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dan",
+      "laadan": "dan",
       "english": "language",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dan",
+      "laadan": "dan",
       "english": "language",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dana",
+      "laadan": "dana",
       "english": "frustration with reason; without someone to blame; which is not futile; to be frustrated (dala; dama; dara; dina= frustration)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dara",
+      "laadan": "dara",
       "english": "frustration with reason; with someone to blame; which is futile; to be frustrated (dala; dama; dana; dina= frustration)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dash",
+      "laadan": "dash",
       "english": "tooth",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dashelámála",
+      "laadan": "dashelámála",
       "english": "to caress with teeth",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dashelámála",
+      "laadan": "dashelámála",
       "english": "to nibble",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dashobe",
+      "laadan": "dashobe",
       "english": "bite",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dash = tooth, obe = through",
+      "breakdown": "dash = tooth, obe = through",
       "notes": ""
     },
     {
-      "láadan": "dashobe",
+      "laadan": "dashobe",
       "english": "to bite",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dath",
+      "laadan": "dath",
       "english": "point",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dathi",
+      "laadan": "dathi",
       "english": "needle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dath = point",
+      "breakdown": "dath = point",
       "notes": ""
     },
     {
-      "láadan": "dathidal",
+      "laadan": "dathidal",
       "english": "pin",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dathim",
+      "laadan": "dathim",
       "english": "needlework",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dathim",
+      "laadan": "dathim",
       "english": "to needlework",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dathimemid",
+      "laadan": "dathimemid",
       "english": "spider",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "dathim = needlework, mid = creature",
+      "breakdown": "dathim = needlework, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "dathimezhub",
+      "laadan": "dathimezhub",
       "english": "spider",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "dathim = needlework, zhub = insect",
+      "breakdown": "dathim = needlework, zhub = insect",
       "notes": ""
     },
     {
-      "láadan": "dathimi",
+      "laadan": "dathimi",
       "english": "conifer",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "dathi = needle",
+      "breakdown": "dathi = needle",
       "notes": ""
     },
     {
-      "láadan": "dathimi",
+      "laadan": "dathimi",
       "english": "pine tree",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "dathi = needle",
+      "breakdown": "dathi = needle",
       "notes": ""
     },
     {
-      "láadan": "dathimid",
+      "laadan": "dathimid",
       "english": "hedgehog",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "dathi = needle, mid = creature",
+      "breakdown": "dathi = needle, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "dathimid",
+      "laadan": "dathimid",
       "english": "porcupine",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "dathi = needle, mid = creature",
+      "breakdown": "dathi = needle, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "dathimithede",
+      "laadan": "dathimithede",
       "english": "amber",
       "description": "the gem",
       "classification": "noun",
-      "wordBreakdown": "thede = jewel",
+      "breakdown": "thede = jewel",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be pliant",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be pliant",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be soft",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be soft",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be yielding",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazh",
+      "laadan": "dazh",
       "english": "to be yielding",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dazhéeb",
+      "laadan": "dazhéeb",
       "english": "rubber",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dazh = pliant, éeb = sap",
+      "breakdown": "dazh = pliant, éeb = sap",
       "notes": ""
     },
     {
-      "láadan": "debe",
+      "laadan": "debe",
       "english": "one-hundred",
       "description": 100,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "debe i nede",
+      "laadan": "debe i nede",
       "english": "one-hundred-and-one",
       "description": 101,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dedide",
+      "laadan": "dedide",
       "english": "story",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dedidebud",
+      "laadan": "dedidebud",
       "english": "costume",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, bud = clothing",
+      "breakdown": "dedide = story, bud = clothing",
       "notes": ""
     },
     {
-      "láadan": "dedideheril",
+      "laadan": "dedideheril",
       "english": "herstory",
       "description": "the stories women tell of their past; usually based on interpersonal relationships: births; deaths; relocations; marriages; etc.; Mary was pregnant with her second when...; Just about the time the tribe moved to... Differentiated from eri=>history in that eri strives for neutral record keeping; whereas both dedideheril and dedideherilid stress the story of the past.",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, eril = earlier in time",
+      "breakdown": "dedide = story, eril = earlier in time",
       "notes": ""
     },
     {
-      "láadan": "dedideherilid",
+      "laadan": "dedideherilid",
       "english": "his-story",
       "description": "the stories men tell of their past; usually based on wars; conquests; major disasters; the way the past is told in most late 20th century history books. Differentiated from eri=>history in that eri strives for neutral record keeping; whereas both dedideheril and dedideherilid stress the story of the past.",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, eril = earlier in time, -id = male",
+      "breakdown": "dedide = story, eril = earlier in time, -id = male",
       "notes": ""
     },
     {
-      "láadan": "dedidelom",
+      "laadan": "dedidelom",
       "english": "opera",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, thod = song",
+      "breakdown": "dedide = story, thod = song",
       "notes": ""
     },
     {
-      "láadan": "dedidethodá",
+      "laadan": "dedidethodá",
       "english": "novelist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, thod = to write",
+      "breakdown": "dedide = story, thod = to write",
       "notes": ""
     },
     {
-      "láadan": "dedidethodá",
+      "laadan": "dedidethodá",
       "english": "storywriter",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, thod = to write",
+      "breakdown": "dedide = story, thod = to write",
       "notes": ""
     },
     {
-      "láadan": "dedidewoth",
+      "laadan": "dedidewoth",
       "english": "myth",
       "description": "does not mean untruth",
       "classification": "noun",
-      "wordBreakdown": "dedide = story, woth = wisdom",
+      "breakdown": "dedide = story, woth = wisdom",
       "notes": ""
     },
     {
-      "láadan": "déedan",
+      "laadan": "déedan",
       "english": "to interpret",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "déedan",
+      "laadan": "déedan",
       "english": "to interpret",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "déela",
+      "laadan": "déela",
       "english": "garden",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "déeladáan",
+      "laadan": "déeladáan",
       "english": "sentence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "déethel",
+      "laadan": "déethel",
       "english": "flute",
       "description": "musical instrument",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dehena",
+      "laadan": "dehena",
       "english": "friendliness; despite negative circumstances; to be friendly (dena; dina; dona; duna=friendliness)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "deheni",
+      "laadan": "deheni",
       "english": "meat",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dehenihá",
+      "laadan": "dehenihá",
       "english": "butcher",
       "description": "butcher of meat",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "del",
+      "laadan": "del",
       "english": "radio",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "delin",
+      "laadan": "delin",
       "english": "space",
       "description": "outer space",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "delishe",
+      "laadan": "delishe",
       "english": "to cry",
       "description": "not said of babies",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "delishe",
+      "laadan": "delishe",
       "english": "to weep",
       "description": "not said of babies",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "delith",
+      "laadan": "delith",
       "english": "hair",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dem",
+      "laadan": "dem",
       "english": "window",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "demá",
+      "laadan": "demá",
       "english": "someone you can see right through",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "demáazh",
+      "laadan": "demáazh",
       "english": "tractor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "demeren",
+      "laadan": "demeren",
       "english": "curtain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "den",
+      "laadan": "den",
       "english": "help",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "den",
+      "laadan": "den",
       "english": "help",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "den",
+      "laadan": "den",
       "english": "to help",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "den",
+      "laadan": "den",
       "english": "to help",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "den",
+      "laadan": "den",
       "english": "to help",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dena",
+      "laadan": "dena",
       "english": "friendliness for good reason; to be friendly (dehena; dina; dona; duna= friendliness)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dená",
+      "laadan": "dená",
       "english": "assistant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dená",
+      "laadan": "dená",
       "english": "helper",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "desh",
+      "laadan": "desh",
       "english": "drug",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "desháana",
+      "laadan": "desháana",
       "english": "to menstruate early; menstruation",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "deshara",
+      "laadan": "deshara",
       "english": "depression as a side effect of medication",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to say",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to say",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to speak",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to speak",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to talk",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to tell",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "di",
+      "laadan": "di",
       "english": "to tell",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dib",
+      "laadan": "dib",
       "english": "towel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dibithim",
+      "laadan": "dibithim",
       "english": "to greet",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dide",
+      "laadan": "dide",
       "english": "to be early",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "didehal",
+      "laadan": "didehal",
       "english": "beginning career",
       "description": "the first career you take after college  (see ruhobeha; shawithehall)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "didehal",
+      "laadan": "didehal",
       "english": "early career",
       "description": "the first career you take after college  (see ruhobeha; shawithehall)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dideshá",
+      "laadan": "dideshá",
       "english": "hours between dawn and rising time",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dihá",
+      "laadan": "dihá",
       "english": "speaker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "diharil",
+      "laadan": "diharil",
       "english": "to foretell",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "diharil",
+      "laadan": "diharil",
       "english": "to predict",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "diheril",
+      "laadan": "diheril",
       "english": "to recount past events",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "diheril",
+      "laadan": "diheril",
       "english": "to reminisce",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dihomedal",
+      "laadan": "dihomedal",
       "english": "convention panel discussion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dihomedal",
+      "laadan": "dihomedal",
       "english": "panel",
       "description": "convention panel discussion",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "diídin",
+      "laadan": "diídin",
       "english": "holiday",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dim",
+      "laadan": "dim",
       "english": "container",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dim",
+      "laadan": "dim",
       "english": "container",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dimidim",
+      "laadan": "dimidim",
       "english": "cupboard",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dim = container",
+      "breakdown": "dim = container",
       "notes": ""
     },
     {
-      "láadan": "dimidim",
+      "laadan": "dimidim",
       "english": "dresser",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dim = container",
+      "breakdown": "dim = container",
       "notes": ""
     },
     {
-      "láadan": "dimil",
+      "laadan": "dimil",
       "english": "to be lavish",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dimil",
+      "laadan": "dimil",
       "english": "to be luxurious",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dimil",
+      "laadan": "dimil",
       "english": "to be sumptuous",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dimilin",
+      "laadan": "dimilin",
       "english": "ornament",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dimod",
+      "laadan": "dimod",
       "english": "bag",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "dim = container, od = cloth",
+      "breakdown": "dim = container, od = cloth",
       "notes": ""
     },
     {
-      "láadan": "dimod",
+      "laadan": "dimod",
       "english": "purse",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "dim = container, od = cloth",
+      "breakdown": "dim = container, od = cloth",
       "notes": ""
     },
     {
-      "láadan": "dimod",
+      "laadan": "dimod",
       "english": "sack",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "dim = container, od = cloth",
+      "breakdown": "dim = container, od = cloth",
       "notes": ""
     },
     {
-      "láadan": "dimóowa",
+      "laadan": "dimóowa",
       "english": "stove",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dim = container, óowa = fire",
+      "breakdown": "dim = container, óowa = fire",
       "notes": ""
     },
     {
-      "láadan": "dina",
+      "laadan": "dina",
       "english": "friendliness for no reason; to be friendly (dehena; dena;dona; duna=friendliness)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dina",
+      "laadan": "dina",
       "english": "frustration without reason; without someone to blame; which is not futile; to be frustrated (dala; dama; dana; dara = frustration)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dínídin",
+      "laadan": "dínídin",
       "english": "toy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dinime",
+      "laadan": "dinime",
       "english": "to be beholden",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dishóodal",
+      "laadan": "dishóodal",
       "english": "to tell news",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dith",
+      "laadan": "dith",
       "english": "voice",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dithal",
+      "laadan": "dithal",
       "english": "praise",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dithal",
+      "laadan": "dithal",
       "english": "to praise",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dithemid",
+      "laadan": "dithemid",
       "english": "cow",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "dith = voice, mid = creature",
+      "breakdown": "dith = voice, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "dizh",
+      "laadan": "dizh",
       "english": "kettle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "do",
+      "laadan": "do",
       "english": "to be strong",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "do",
+      "laadan": "do",
       "english": "to be strong",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dó-",
+      "laadan": "dó-",
       "english": "to cause to",
       "description": "cause-to-VERB prefix",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dob",
+      "laadan": "dob",
       "english": "shelf",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dod",
+      "laadan": "dod",
       "english": "fast",
       "description": "to not eat",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dod",
+      "laadan": "dod",
       "english": "to fast",
       "description": "to not eat",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dodel",
+      "laadan": "dodel",
       "english": "interface",
       "description": "It would be appropriate for the interface the linguists used in the Native Tongue trilogy to let their infants acquire Alien languages natively; it would be appropriate for the interface that was used to allow human/dolphin interaction in that area of research. It would be appropriate for those diagrams that show two or more areas with overlapping bits -- territory where both or all of the areas overlap.",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dodel",
+      "laadan": "dodel",
       "english": "to interface",
       "description": "It would be appropriate for the interface the linguists used in the Native Tongue trilogy to let their infants acquire Alien languages natively; it would be appropriate for the interface that was used to allow human/dolphin interaction in that area of research. It would be appropriate for those diagrams that show two or more areas with overlapping bits -- territory where both or all of the areas overlap.",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dodi",
+      "laadan": "dodi",
       "english": "tray",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóhada",
+      "laadan": "dóhada",
       "english": "to be comical",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóhada",
+      "laadan": "dóhada",
       "english": "to be funny",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóhibeyóo",
+      "laadan": "dóhibeyóo",
       "english": "to fold",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóhin",
+      "laadan": "dóhin",
       "english": "to create",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóhin",
+      "laadan": "dóhin",
       "english": "to enact",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóho",
+      "laadan": "dóho",
       "english": "to wrap",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóho",
+      "laadan": "dóho",
       "english": "wrap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dol",
+      "laadan": "dol",
       "english": "root",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dolelith",
+      "laadan": "dolelith",
       "english": "principle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dólhorado",
+      "laadan": "dólhorado",
       "english": "to dominate",
       "description": "with evil intent",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doluth",
+      "laadan": "doluth",
       "english": "spine",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dom",
+      "laadan": "dom",
       "english": "to remember",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dom",
+      "laadan": "dom",
       "english": "to remember",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dom",
+      "laadan": "dom",
       "english": "to remember",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "domesh",
+      "laadan": "domesh",
       "english": "rosemary",
       "description": "herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "domid",
+      "laadan": "domid",
       "english": "elephant",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "don",
+      "laadan": "don",
       "english": "comb",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dona",
+      "laadan": "dona",
       "english": "friendliness for foolish reasons; to be friendly (dehena; dena; dina; duna=friendliness)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "dirt",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "dirt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "earth",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "earth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Doni",
+      "laadan": "Doni",
       "english": "Earth",
       "description": "the planet",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "ground",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "ground",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "soil",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doni",
+      "laadan": "doni",
       "english": "soil",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donidan",
+      "laadan": "donidan",
       "english": "lovingkindness",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donidaná",
+      "laadan": "donidaná",
       "english": "lovingkindnesser",
       "description": "one who channels lovingkindness",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donihum",
+      "laadan": "donihum",
       "english": "plow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donihum",
+      "laadan": "donihum",
       "english": "to plow",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donihum",
+      "laadan": "donihum",
       "english": "to plow",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donili",
+      "laadan": "donili",
       "english": "mud",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donilihud",
+      "laadan": "donilihud",
       "english": "brick",
       "description": "thing you make walls out of",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donilihud",
+      "laadan": "donilihud",
       "english": "to brick",
       "description": "thing you make walls out of",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donim",
+      "laadan": "donim",
       "english": "shovel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "donithen",
+      "laadan": "donithen",
       "english": "earthquake",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "doni = earth,",
+      "breakdown": "doni = earth,",
       "notes": ""
     },
     {
-      "láadan": "dóo",
+      "laadan": "dóo",
       "english": "well.... (phrase)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doól",
+      "laadan": "doól",
       "english": "at last; finally",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doóledosh",
+      "laadan": "doóledosh",
       "english": "pain or loss which comes as a relief by virtue of ending the anticipation of its coming",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doólelasholan",
+      "laadan": "doólelasholan",
       "english": "alone at last after tiresome experience or people",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doóleshol",
+      "laadan": "doóleshol",
       "english": "relief",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóolon",
+      "laadan": "dóolon",
       "english": "violin",
       "description": "musical instrument",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóon",
+      "laadan": "dóon",
       "english": "to be correct",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóonenal",
+      "laadan": "dóonenal",
       "english": "correctly",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dórado",
+      "laadan": "dórado",
       "english": "to dominate",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dórado",
+      "laadan": "dórado",
       "english": "to dominate",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doroledim",
+      "laadan": "doroledim",
       "english": "(sublimation with food accompanied by guilt about that sublimation) This word has no English equivalent whatsoever. Say you have an average woman. She has no control over her life. She has little or nothing in the way of a resource for being good to herself; even when it is necessary. She has family and animals and friends and associates that depend on her for sustenance of all kinds. She rarely has adequate sleep or rest; she has no time for herself; no space of her own; little or no money to buy things for herself; no opportunity to consider her own emotional needs. She is at the beck and call of others; because she has these responsibilities and obligations and does not choose to (or cannot) abandon them. For such a woman; the one and only thing she is likely to have a little control over for indulging her own self is FOOD. When such a woman overeats; the verb for that is doroledim. (And then she feels guilty; because there are women whose children are starving and who do not have even THAT option for self-indulgence... )",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dosh",
+      "laadan": "dosh",
       "english": "burden",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doth",
+      "laadan": "doth",
       "english": "to follow",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doth",
+      "laadan": "doth",
       "english": "to follow",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóthad",
+      "laadan": "dóthad",
       "english": "to enable",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóthad",
+      "laadan": "dóthad",
       "english": "to make possible or easy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóthadá",
+      "laadan": "dóthadá",
       "english": "enabler",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dóthad = to enable, -a = doer",
+      "breakdown": "dóthad = to enable, -a = doer",
       "notes": ""
     },
     {
-      "láadan": "dóthadá",
+      "laadan": "dóthadá",
       "english": "one who enables",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dóthad = to enable, -a = doer",
+      "breakdown": "dóthad = to enable, -a = doer",
       "notes": ""
     },
     {
-      "láadan": "dóthadá",
+      "laadan": "dóthadá",
       "english": "one who makes things possible or easy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dóthad = to enable, -a = doer",
+      "breakdown": "dóthad = to enable, -a = doer",
       "notes": ""
     },
     {
-      "láadan": "dóthadelh",
+      "laadan": "dóthadelh",
       "english": "to enable another to persist in self-destructive behavior",
       "description": "(for instance substance abuse) by providing excuses or by helping that individual avoid the consequences of such behavior",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóthadelhá",
+      "laadan": "dóthadelhá",
       "english": "enabler",
       "description": "(for instance substance abuse) by providing excuses or by helping that individual avoid the consequences of such behavior",
       "classification": "noun",
-      "wordBreakdown": "dóthad = to enable, -lh- = bad, -a = doer",
+      "breakdown": "dóthad = to enable, -lh- = bad, -a = doer",
       "notes": ""
     },
     {
-      "láadan": "dóthadelhá",
+      "laadan": "dóthadelhá",
       "english": "one who enables another to persist in self-destructive behavior",
       "description": "(for instance substance abuse) by providing excuses or by helping that individual avoid the consequences of such behavior",
       "classification": "noun",
-      "wordBreakdown": "dóthad = to enable, -lh- = bad, -a = doer",
+      "breakdown": "dóthad = to enable, -lh- = bad, -a = doer",
       "notes": ""
     },
     {
-      "láadan": "doyáanin",
+      "laadan": "doyáanin",
       "english": "oak",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóyom",
+      "laadan": "dóyom",
       "english": "protect",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóyom",
+      "laadan": "dóyom",
       "english": "safeguard",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dóyom",
+      "laadan": "dóyom",
       "english": "shield",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "doyu",
+      "laadan": "doyu",
       "english": "apple",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "do = to be strong, yu = fruit",
+      "breakdown": "do = to be strong, yu = fruit",
       "notes": ""
     },
     {
-      "láadan": "du-",
+      "laadan": "du-",
       "english": "to try to",
       "description": "try-to-VERB prefix (try to speak=dudi); a morpheme that can be added to verbs ; meaning try to [VERB]",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dul",
+      "laadan": "dul",
       "english": "to give rest",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dul",
+      "laadan": "dul",
       "english": "to refresh",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dumidal",
+      "laadan": "dumidal",
       "english": "fox",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dun",
+      "laadan": "dun",
       "english": "field",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dun",
+      "laadan": "dun",
       "english": "meadow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "duna",
+      "laadan": "duna",
       "english": "friendliness for bad reasons; to be friendly (dehena; dena; dina; dona= friendliness)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dush",
+      "laadan": "dush",
       "english": "to be obliged to",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dush",
+      "laadan": "dush",
       "english": "to have to",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "duth",
+      "laadan": "duth",
       "english": "to use",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dutha",
+      "laadan": "dutha",
       "english": "to heal",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "duthahá",
+      "laadan": "duthahá",
       "english": "healer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "dutha = medicine",
+      "breakdown": "dutha = medicine",
       "notes": ""
     },
     {
-      "láadan": "duthahod",
+      "laadan": "duthahod",
       "english": "bandage",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dutha = medicine",
+      "breakdown": "dutha = medicine",
       "notes": ""
     },
     {
-      "láadan": "duthahod",
+      "laadan": "duthahod",
       "english": "bandage",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "duthahoth",
+      "laadan": "duthahoth",
       "english": "hospital",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dutha = medicine, hoth = place",
+      "breakdown": "dutha = medicine, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "duthamazh",
+      "laadan": "duthamazh",
       "english": "ambulance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dutha = medicine, mazh = car",
+      "breakdown": "dutha = medicine, mazh = car",
       "notes": ""
     },
     {
-      "láadan": "duthawish",
+      "laadan": "duthawish",
       "english": "anesthesia",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "dutha = medicine, wish = gas",
+      "breakdown": "dutha = medicine, wish = gas",
       "notes": ""
     },
     {
-      "láadan": "duthesh",
+      "laadan": "duthesh",
       "english": "herbal remedy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dutheshara",
+      "laadan": "dutheshara",
       "english": "depression as a side effect of medication",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "dúu-",
+      "laadan": "dúu-",
       "english": "to try in vain to",
       "description": "to-try-in-vain-to-VERB  (try in vain to speak=dúudi); a morpheme that can be added to verbs [including those that would be classified as adjectives in English]; meaning try in vain to [VERB]; try (but fail) to [VERB]",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "e",
+      "laadan": "e",
       "english": "either",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "e",
+      "laadan": "e",
       "english": "or",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "e",
+      "laadan": "e",
       "english": "or; either",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "e-",
+      "laadan": "e-",
       "english": "science of",
       "description": "prefix for science of",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "é-",
+      "laadan": "é-",
       "english": "potential",
       "description": "prefix for potential",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eb",
+      "laadan": "eb",
       "english": "to buy",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eb",
+      "laadan": "eb",
       "english": "to sell",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eba",
+      "laadan": "eba",
       "english": "spouse",
       "description": "Bíi eril X i Y meheba wa.  Láadan wouldn't allow X married Y or Y married X; which presuppose that marrying is something one person can do to another. It has to be a joint action; done together.",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebá",
+      "laadan": "ebá",
       "english": "buyer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebá",
+      "laadan": "ebá",
       "english": "seller",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebahóol",
+      "laadan": "ebahóol",
       "english": "male deity",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebalá",
+      "laadan": "ebalá",
       "english": "baker",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebid",
+      "laadan": "ebid",
       "english": "neurology",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebod",
+      "laadan": "ebod",
       "english": "ceramics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ebodá",
+      "laadan": "ebodá",
       "english": "ceramist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "ebod = ceramics",
+      "breakdown": "ebod = ceramics",
       "notes": ""
     },
     {
-      "láadan": "ebodá",
+      "laadan": "ebodá",
       "english": "potter",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "ebod = ceramics",
+      "breakdown": "ebod = ceramics",
       "notes": ""
     },
     {
-      "láadan": "ébre",
+      "laadan": "ébre",
       "english": "then",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ed",
+      "laadan": "ed",
       "english": "tool",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ed",
+      "laadan": "ed",
       "english": "tool",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "édáan",
+      "laadan": "édáan",
       "english": "lexical gap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "é- = potential, dáan = language",
+      "breakdown": "é- = potential, dáan = language",
       "notes": ""
     },
     {
-      "láadan": "edáanashon",
+      "laadan": "edáanashon",
       "english": "poetics",
       "description": "the science of poetry",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edáanelom",
+      "laadan": "edáanelom",
       "english": "poetry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dáanelom = poem",
+      "breakdown": "e- = science of, dáanelom = poem",
       "notes": ""
     },
     {
-      "láadan": "edala",
+      "laadan": "edala",
       "english": "botany",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dala = plant",
+      "breakdown": "e- = science of, dala = plant",
       "notes": ""
     },
     {
-      "láadan": "edama",
+      "laadan": "edama",
       "english": "science of touch",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "edan",
+      "laadan": "edan",
       "english": "linguistics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dama = to touch",
+      "breakdown": "e- = science of, dama = to touch",
       "notes": ""
     },
     {
-      "láadan": "edaná",
+      "laadan": "edaná",
       "english": "linguist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dan = language",
+      "breakdown": "e- = science of, dan = language",
       "notes": ""
     },
     {
-      "láadan": "edash",
+      "laadan": "edash",
       "english": "dentistry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dash = tooth",
+      "breakdown": "e- = science of, dash = tooth",
       "notes": ""
     },
     {
-      "láadan": "edashá",
+      "laadan": "edashá",
       "english": "dentist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, dash = tooth",
+      "breakdown": "e- = science of, dash = tooth",
       "notes": ""
     },
     {
-      "láadan": "ede",
+      "laadan": "ede",
       "english": "grain",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ede",
+      "laadan": "ede",
       "english": "grain",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éde",
+      "laadan": "éde",
       "english": "nevertheless",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ededal",
+      "laadan": "ededal",
       "english": "pasta",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "ede = grain",
+      "breakdown": "ede = grain",
       "notes": ""
     },
     {
-      "láadan": "edeláad",
+      "laadan": "edeláad",
       "english": "to believe",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edeláad",
+      "laadan": "edeláad",
       "english": "to believe in",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edeláada",
+      "laadan": "edeláada",
       "english": "believer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edemath",
+      "laadan": "edemath",
       "english": "grainery",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ede = grain",
+      "breakdown": "ede = grain",
       "notes": ""
     },
     {
-      "láadan": "edemezh",
+      "laadan": "edemezh",
       "english": "flour",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "ede = grain",
+      "breakdown": "ede = grain",
       "notes": ""
     },
     {
-      "láadan": "edemezh",
+      "laadan": "edemezh",
       "english": "to flour",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edemid",
+      "laadan": "edemid",
       "english": "mouse",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "ede = grain",
+      "breakdown": "ede = grain",
       "notes": ""
     },
     {
-      "láadan": "edenesh",
+      "laadan": "edenesh",
       "english": "savory",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edeni",
+      "laadan": "edeni",
       "english": "bean",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edethi",
+      "laadan": "edethi",
       "english": "to share",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edi",
+      "laadan": "edi",
       "english": "rhetoric",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "edin",
+      "laadan": "edin",
       "english": "cousin",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eduth",
+      "laadan": "eduth",
       "english": "engineering",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "edutha",
+      "laadan": "edutha",
       "english": "medicine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "eduthá",
+      "laadan": "eduthá",
       "english": "engineer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "eduthahá",
+      "laadan": "eduthahá",
       "english": "doctor",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "eduthahá",
+      "laadan": "eduthahá",
       "english": "healer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "eduthahá",
+      "laadan": "eduthahá",
       "english": "physician",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "eduthawehe",
+      "laadan": "eduthawehe",
       "english": "pharmacy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "edutha = medicine, wehe = store",
+      "breakdown": "edutha = medicine, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "eduthemid",
+      "laadan": "eduthemid",
       "english": "beaver",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "eduth = engineering, mid = creature",
+      "breakdown": "eduth = engineering, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "éeb",
+      "laadan": "éeb",
       "english": "juice",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeb",
+      "laadan": "éeb",
       "english": "sap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeba",
+      "laadan": "éeba",
       "english": "portentous",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éebemaha",
+      "laadan": "éebemaha",
       "english": "wetness caused by sexual desire",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "éeb = juice",
+      "breakdown": "éeb = juice",
       "notes": ""
     },
     {
-      "láadan": "eéden",
+      "laadan": "eéden",
       "english": "formalism",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eéden",
+      "laadan": "eéden",
       "english": "scientific notation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eéle",
+      "laadan": "eéle",
       "english": "terror",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éelen",
+      "laadan": "éelen",
       "english": "grape",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éelenethil",
+      "laadan": "éelenethil",
       "english": "grapevine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeme",
+      "laadan": "éeme",
       "english": "to love",
       "description": "love for one neither liked nor respected",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éesh",
+      "laadan": "éesh",
       "english": "sheep",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "disease",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "disease",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "illness",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "illness",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "sickness",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éeya",
+      "laadan": "éeya",
       "english": "sickness",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éezh",
+      "laadan": "éezh",
       "english": "goat",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éezha",
+      "laadan": "éezha",
       "english": "lizard",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ehá",
+      "laadan": "ehá",
       "english": "scientist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, -á = doer",
+      "breakdown": "e- = science of, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "eháawith",
+      "laadan": "eháawith",
       "english": "child-science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, háawith = child",
+      "breakdown": "e- = science of, háawith = child",
       "notes": ""
     },
     {
-      "láadan": "ehábed",
+      "laadan": "ehábed",
       "english": "agriculture",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, ábed = farm",
+      "breakdown": "e- = science of, ábed = farm",
       "notes": ""
     },
     {
-      "láadan": "ehábed",
+      "laadan": "ehábed",
       "english": "science of farming",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, ábed = farm",
+      "breakdown": "e- = science of, ábed = farm",
       "notes": ""
     },
     {
-      "láadan": "ehana",
+      "laadan": "ehana",
       "english": "nutrition",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, ana = food",
+      "breakdown": "e- = science of, ana = food",
       "notes": ""
     },
     {
-      "láadan": "ehash",
+      "laadan": "ehash",
       "english": "astronomy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, ash = star",
+      "breakdown": "e- = science of, ash = star",
       "notes": ""
     },
     {
-      "láadan": "ehath",
+      "laadan": "ehath",
       "english": "chronography",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, hath = time",
+      "breakdown": "e- = science of, hath = time",
       "notes": ""
     },
     {
-      "láadan": "ehéeda",
+      "laadan": "ehéeda",
       "english": "religion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, héeda = to be holy",
+      "breakdown": "e- = science of, héeda = to be holy",
       "notes": ""
     },
     {
-      "láadan": "ehen",
+      "laadan": "ehen",
       "english": "philosophy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, en = to understand",
+      "breakdown": "e- = science of, en = to understand",
       "notes": ""
     },
     {
-      "láadan": "ehib",
+      "laadan": "ehib",
       "english": "criminology",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, ib = crime",
+      "breakdown": "e- = science of, ib = crime",
       "notes": ""
     },
     {
-      "láadan": "ehoba",
+      "laadan": "ehoba",
       "english": "anatomy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, oba = body",
+      "breakdown": "e- = science of, oba = body",
       "notes": ""
     },
     {
-      "láadan": "ehod",
+      "laadan": "ehod",
       "english": "textile science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, od = cloth",
+      "breakdown": "e- = science of, od = cloth",
       "notes": ""
     },
     {
-      "láadan": "ehodá",
+      "laadan": "ehodá",
       "english": "textile scientist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, od = cloth, -á = doer",
+      "breakdown": "e- = science of, od = cloth, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "ehohel",
+      "laadan": "ehohel",
       "english": "business science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "éholhob",
+      "laadan": "éholhob",
       "english": "particularly malicious threat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éholhob",
+      "laadan": "éholhob",
       "english": "to threaten very maliciously",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éholob",
+      "laadan": "éholob",
       "english": "threat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éholob",
+      "laadan": "éholob",
       "english": "to threaten",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ehom",
+      "laadan": "ehom",
       "english": "education",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ehoth",
+      "laadan": "ehoth",
       "english": "geography",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, hoth = place",
+      "breakdown": "e- = science of, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "ehoyu",
+      "laadan": "ehoyu",
       "english": "audiology",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, oyu = ear",
+      "breakdown": "e- = science of, oyu = ear",
       "notes": ""
     },
     {
-      "láadan": "el",
+      "laadan": "el",
       "english": "to make",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "el",
+      "laadan": "el",
       "english": "to make",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elá",
+      "laadan": "elá",
       "english": "creator",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "el = to make, -á = doer",
+      "breakdown": "el = to make, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "elá",
+      "laadan": "elá",
       "english": "maker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "el = to make, -á = doer",
+      "breakdown": "el = to make, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "elahela",
+      "laadan": "elahela",
       "english": "celebration",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elalimid",
+      "laadan": "elalimid",
       "english": "otter",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elamith",
+      "laadan": "elamith",
       "english": "mathematics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "elash",
+      "laadan": "elash",
       "english": "to play",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elash",
+      "laadan": "elash",
       "english": "to play",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elasháana",
+      "laadan": "elasháana",
       "english": "menstruation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elasháana",
+      "laadan": "elasháana",
       "english": "to menstruate for the first time",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elashemid",
+      "laadan": "elashemid",
       "english": "squirrel",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "elash = to play, mid = creature",
+      "breakdown": "elash = to play, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "elasholan",
+      "laadan": "elasholan",
       "english": "alone and glad of it",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elasholan",
+      "laadan": "elasholan",
       "english": "to be alone and glad of it",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "elathil",
+      "laadan": "elathil",
       "english": "morning glory",
       "description": "flower",
       "classification": "noun",
-      "wordBreakdown": "thil = vine",
+      "breakdown": "thil = vine",
       "notes": ""
     },
     {
-      "láadan": "elazháadin",
+      "laadan": "elazháadin",
       "english": "to menopause when it's welcome",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eliri",
+      "laadan": "eliri",
       "english": "color science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "elith",
+      "laadan": "elith",
       "english": "psychology",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "elithá",
+      "laadan": "elithá",
       "english": "psychologist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "elith = psychology",
+      "breakdown": "elith = psychology",
       "notes": ""
     },
     {
-      "láadan": "elod",
+      "laadan": "elod",
       "english": "science of house management",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of",
+      "breakdown": "e- = science of",
       "notes": ""
     },
     {
-      "láadan": "elodá",
+      "laadan": "elodá",
       "english": "househusband",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "elod = science of house management",
+      "breakdown": "elod = science of house management",
       "notes": ""
     },
     {
-      "láadan": "elodá",
+      "laadan": "elodá",
       "english": "housewife",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "elod = science of house management",
+      "breakdown": "elod = science of house management",
       "notes": ""
     },
     {
-      "láadan": "elosh",
+      "laadan": "elosh",
       "english": "economics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, losh = credit",
+      "breakdown": "e- = science of, losh = credit",
       "notes": ""
     },
     {
-      "láadan": "eloshá",
+      "laadan": "eloshá",
       "english": "economist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "elosh = economics",
+      "breakdown": "elosh = economics",
       "notes": ""
     },
     {
-      "láadan": "eloth",
+      "laadan": "eloth",
       "english": "information science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, loth = information",
+      "breakdown": "e- = science of, loth = information",
       "notes": ""
     },
     {
-      "láadan": "elothel",
+      "laadan": "elothel",
       "english": "memory",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eluben",
+      "laadan": "eluben",
       "english": "cartography",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, luben = map",
+      "breakdown": "e- = science of, luben = map",
       "notes": ""
     },
     {
-      "láadan": "em",
+      "laadan": "em",
       "english": "yes",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "emahin",
+      "laadan": "emahin",
       "english": "cooking science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, mahin = cooking pot",
+      "breakdown": "e- = science of, mahin = cooking pot",
       "notes": ""
     },
     {
-      "láadan": "emath",
+      "laadan": "emath",
       "english": "architecture",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, math = building",
+      "breakdown": "e- = science of, math = building",
       "notes": ""
     },
     {
-      "láadan": "emath",
+      "laadan": "emath",
       "english": "mama",
       "description": "intimate; informal (see: mathul; shathul)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "emath",
+      "laadan": "emath",
       "english": "mother",
       "description": "intimate; informal (see: mathul; shathul)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "emathá",
+      "laadan": "emathá",
       "english": "architect",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "emath = architecture",
+      "breakdown": "emath = architecture",
       "notes": ""
     },
     {
-      "láadan": "emeth",
+      "laadan": "emeth",
       "english": "to clown",
       "description": "loan word based on Emmet Kelly's name",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "emethá",
+      "laadan": "emethá",
       "english": "clown",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "emid",
+      "laadan": "emid",
       "english": "biology",
       "description": "of creatures",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, mid = creature",
+      "breakdown": "e- = science of, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "emina",
+      "laadan": "emina",
       "english": "transportation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, mina = to move",
+      "breakdown": "e- = science of, mina = to move",
       "notes": ""
     },
     {
-      "láadan": "en",
+      "laadan": "en",
       "english": "before",
       "description": "in time",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "en",
+      "laadan": "en",
       "english": "to understand",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "en",
+      "laadan": "en",
       "english": "to understand",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "en",
+      "laadan": "en",
       "english": "to understand",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "enal",
+      "laadan": "enal",
       "english": "scientifically",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, -nal = in this way",
+      "breakdown": "e- = science of, -nal = in this way",
       "notes": ""
     },
     {
-      "láadan": "enid",
+      "laadan": "enid",
       "english": "brush",
       "description": "not for hair",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "enoline",
+      "laadan": "enoline",
       "english": "angel-science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, noline = angel",
+      "breakdown": "e- = science of, noline = angel",
       "notes": ""
     },
     {
-      "láadan": "erabalh",
+      "laadan": "erabalh",
       "english": "temptation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "erabalhedi",
+      "laadan": "erabalhedi",
       "english": "to temptation",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eri",
+      "laadan": "eri",
       "english": "history",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "erihá",
+      "laadan": "erihá",
       "english": "historian",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "eri = history",
+      "breakdown": "eri = history",
       "notes": ""
     },
     {
-      "láadan": "eril",
+      "laadan": "eril",
       "english": "earlier",
       "description": "in time",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eril",
+      "laadan": "eril",
       "english": "earlier; before (in time)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eril",
+      "laadan": "eril",
       "english": "past",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eril",
+      "laadan": "eril",
       "english": "past (Time Auxiliary); a word used to indicate past time",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eríli",
+      "laadan": "eríli",
       "english": "far past",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eríli",
+      "laadan": "eríli",
       "english": "far past; long ago (Time Auxiliary)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eróo",
+      "laadan": "eróo",
       "english": "agriculture",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, róo = harvest",
+      "breakdown": "e- = science of, róo = harvest",
       "notes": ""
     },
     {
-      "láadan": "eru",
+      "laadan": "eru",
       "english": "science of synergy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eru",
+      "laadan": "eru",
       "english": "synergistics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eruhá",
+      "laadan": "eruhá",
       "english": "synergist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "esh",
+      "laadan": "esh",
       "english": "boat",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "esh",
+      "laadan": "esh",
       "english": "boat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "esha",
+      "laadan": "esha",
       "english": "science of harmony",
       "description": "equivalent to peacemaking or peacekeeping or mediation or conflict resolution.",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eshá",
+      "laadan": "eshá",
       "english": "boater",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eshá",
+      "laadan": "eshá",
       "english": "boatman",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eshá",
+      "laadan": "eshá",
       "english": "sailor",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "eshinehal",
+      "laadan": "eshinehal",
       "english": "computer science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, shinehal = computer",
+      "breakdown": "e- = science of, shinehal = computer",
       "notes": ""
     },
     {
-      "láadan": "eshishid",
+      "laadan": "eshishid",
       "english": "chemistry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, shishid = united",
+      "breakdown": "e- = science of, shishid = united",
       "notes": ""
     },
     {
-      "láadan": "eshon",
+      "laadan": "eshon",
       "english": "peace-science",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, shon = peace",
+      "breakdown": "e- = science of, shon = peace",
       "notes": ""
     },
     {
-      "láadan": "eshoná",
+      "laadan": "eshoná",
       "english": "diplomat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, shoná = peacemaker",
+      "breakdown": "e- = science of, shoná = peacemaker",
       "notes": ""
     },
     {
-      "láadan": "eth",
+      "laadan": "eth",
       "english": "to be about",
       "description": "as in a book about birds",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "etham",
+      "laadan": "etham",
       "english": "geometry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthe",
+      "laadan": "éthe",
       "english": "clean",
       "description": "See also: háawithéthe; huhéthe; mudahéthe; onidahéthe; thóohéthe",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthe",
+      "laadan": "éthe",
       "english": "to be clean",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthe",
+      "laadan": "éthe",
       "english": "to be clean",
       "description": "See also: háawithéthe; huhéthe; mudahéthe; onidahéthe; thóohéthe",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthe",
+      "laadan": "éthe",
       "english": "to make clean",
       "description": "",
       "classification": "See also: háawithéthe; huhéthe; mudahéthe; onidahéthe; thóohéthe",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthedal",
+      "laadan": "éthedal",
       "english": "vacuum cleaner",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "éthedale",
+      "laadan": "éthedale",
       "english": "soap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "éthe = to be clean, dale = object",
+      "breakdown": "éthe = to be clean, dale = object",
       "notes": ""
     },
     {
-      "láadan": "éthehod",
+      "laadan": "éthehod",
       "english": "washcloth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "éthe = to be clean, od = cloth",
+      "breakdown": "éthe = to be clean, od = cloth",
       "notes": ""
     },
     {
-      "láadan": "ethóo",
+      "laadan": "ethóo",
       "english": "hospitality",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, thóo = guest",
+      "breakdown": "e- = science of, thóo = guest",
       "notes": ""
     },
     {
-      "láadan": "ewith",
+      "laadan": "ewith",
       "english": "anthropology",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, with = human",
+      "breakdown": "e- = science of, with = human",
       "notes": ""
     },
     {
-      "láadan": "ewithá",
+      "laadan": "ewithá",
       "english": "anthropologist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ewith = anthropology",
+      "breakdown": "ewith = anthropology",
       "notes": ""
     },
     {
-      "láadan": "ewithid",
+      "laadan": "ewithid",
       "english": "science of males",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, with = human, -id = male",
+      "breakdown": "e- = science of, with = human, -id = male",
       "notes": ""
     },
     {
-      "láadan": "ewomil",
+      "laadan": "ewomil",
       "english": "animal husbandry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, womil = livestock",
+      "breakdown": "e- = science of, womil = livestock",
       "notes": ""
     },
     {
-      "láadan": "eyon",
+      "laadan": "eyon",
       "english": "administration",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "e- = science of, yon = government",
+      "breakdown": "e- = science of, yon = government",
       "notes": ""
     },
     {
-      "láadan": "ezha",
+      "laadan": "ezha",
       "english": "snake",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ezhab",
+      "laadan": "ezhab",
       "english": "investigation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ezhabá",
+      "laadan": "ezhabá",
       "english": "investigator",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ezhab = investigation",
+      "breakdown": "ezhab = investigation",
       "notes": ""
     },
     {
-      "láadan": "ezhahith",
+      "laadan": "ezhahith",
       "english": "lightning bolt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ezha = snake, ith = light",
+      "breakdown": "ezha = snake, ith = light",
       "notes": ""
     },
     {
-      "láadan": "ezhazh",
+      "laadan": "ezhazh",
       "english": "aeronautics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ezho",
+      "laadan": "ezho",
       "english": "acoustics",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háa-",
+      "laadan": "háa-",
       "english": "youth",
       "description": "prefix to signify child; youth; young creature; general prefix for offspring (see á-; yáa-)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háalemamid",
+      "laadan": "háalemamid",
       "english": "fawn",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, lemamid = deer",
+      "breakdown": "háa- = youth, lemamid = deer",
       "notes": ""
     },
     {
-      "láadan": "háami",
+      "laadan": "háami",
       "english": "thyme",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háamid",
+      "laadan": "háamid",
       "english": "child creature",
       "description": "general term for offspring  (see ámid; yáamid)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, mid = creature",
+      "breakdown": "háa- = youth, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "háamid",
+      "laadan": "háamid",
       "english": "young animal",
       "description": "general term for offspring  (see ámid; yáamid)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, mid = creature",
+      "breakdown": "háa- = youth, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "háanáal",
+      "laadan": "háanáal",
       "english": "evening",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, náal = night",
+      "breakdown": "háa- = youth, náal = night",
       "notes": ""
     },
     {
-      "láadan": "háasháal",
+      "laadan": "háasháal",
       "english": "morning",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, sháal = day",
+      "breakdown": "háa- = youth, sháal = day",
       "notes": ""
     },
     {
-      "láadan": "háawilidunedal",
+      "laadan": "háawilidunedal",
       "english": "tank",
       "description": "for liquid",
       "classification": "noun",
-      "wordBreakdown": "wilidunedal = reservoir for fluids",
+      "breakdown": "wilidunedal = reservoir for fluids",
       "notes": ""
     },
     {
-      "láadan": "háawith",
+      "laadan": "háawith",
       "english": "child",
       "description": "general term for offspring  (see áwith; yáawith)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, with = person",
+      "breakdown": "háa- = youth, with = person",
       "notes": ""
     },
     {
-      "láadan": "háawith",
+      "laadan": "háawith",
       "english": "child person",
       "description": "general term for offspring  (see áwith; yáawith)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, with = person",
+      "breakdown": "háa- = youth, with = person",
       "notes": ""
     },
     {
-      "láadan": "háawith",
+      "laadan": "háawith",
       "english": "youth",
       "description": "general term for offspring  (see áwith; yáawith)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, with = person",
+      "breakdown": "háa- = youth, with = person",
       "notes": ""
     },
     {
-      "láadan": "háawithéthe",
+      "laadan": "háawithéthe",
       "english": "child-clean",
       "description": "the level of cleanliness at which a child considers her room clean  (See also: éthe; huhéthe; mudahéthe; onidahéthe; thóohéthe)",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, with = person, éthe = to be clean",
+      "breakdown": "háa- = youth, with = person, éthe = to be clean",
       "notes": ""
     },
     {
-      "láadan": "háawithéthe",
+      "laadan": "háawithéthe",
       "english": "to be child-clean",
       "description": "the level of cleanliness at which a child considers her room clean  (See also: éthe; huhéthe; mudahéthe; onidahéthe; thóohéthe)",
       "classification": "intransitive verb",
-      "wordBreakdown": "háawith = child, éthe = clean",
+      "breakdown": "háawith = child, éthe = clean",
       "notes": ""
     },
     {
-      "láadan": "háawithid",
+      "laadan": "háawithid",
       "english": "boy child",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "háa- = youth, with = person, -id = male",
+      "breakdown": "háa- = youth, with = person, -id = male",
       "notes": ""
     },
     {
-      "láadan": "habelid",
+      "laadan": "habelid",
       "english": "to inhabit",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "habelid",
+      "laadan": "habelid",
       "english": "to live in",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "habo",
+      "laadan": "habo",
       "english": "coat",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háda",
+      "laadan": "háda",
       "english": "to fall",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hadihad",
+      "laadan": "hadihad",
       "english": "always",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahí",
+      "laadan": "hahí",
       "english": "to be brief",
       "description": "time",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahí",
+      "laadan": "hahí",
       "english": "to be ephemeral",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahod",
+      "laadan": "hahod",
       "english": "to be in a state of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodib",
+      "laadan": "hahodib",
       "english": "deliberately shut off from all feelings",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodib",
+      "laadan": "hahodib",
       "english": "to be in a state of shut off",
       "description": "deliberately shut off from all feelings",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodihed",
+      "laadan": "hahodihed",
       "english": "to be in a state of numbness",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodihed",
+      "laadan": "hahodihed",
       "english": "to be in shock",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodihed",
+      "laadan": "hahodihed",
       "english": "to be numb",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodimi",
+      "laadan": "hahodimi",
       "english": "to be in a state of bewilderment",
       "description": "positive",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodimi",
+      "laadan": "hahodimi",
       "english": "to be in astonishment",
       "description": "positive",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodimilh",
+      "laadan": "hahodimilh",
       "english": "to be in a state of bewilderment",
       "description": "negative",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodimilh",
+      "laadan": "hahodimilh",
       "english": "to be in astonishmen",
       "description": "negative",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahoditha",
+      "laadan": "hahoditha",
       "english": "to be in a state of linked empathically",
       "description": "linked empathically with another",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodiyon",
+      "laadan": "hahodiyon",
       "english": "ecstasy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodiyon",
+      "laadan": "hahodiyon",
       "english": "to be in a state of ecstasy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodo",
+      "laadan": "hahodo",
       "english": "to be in a state of meditation",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hahodóo",
+      "laadan": "hahodóo",
       "english": "to be in a state of hypnotic trance",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hal",
+      "laadan": "hal",
       "english": "to work",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hal",
+      "laadan": "hal",
       "english": "to work",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hal",
+      "laadan": "hal",
       "english": "work",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hal",
+      "laadan": "hal",
       "english": "work",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "halá",
+      "laadan": "halá",
       "english": "worker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hal = work",
+      "breakdown": "hal = work",
       "notes": ""
     },
     {
-      "láadan": "halehadihahal",
+      "laadan": "halehadihahal",
       "english": "work which is constantly being interrupted",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "halezhub",
+      "laadan": "halezhub",
       "english": "ant",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "hal = work, zhub = insect",
+      "breakdown": "hal = work, zhub = insect",
       "notes": ""
     },
     {
-      "láadan": "halid",
+      "laadan": "halid",
       "english": "competition",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "halith",
+      "laadan": "halith",
       "english": "argument",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "lith = thought",
+      "breakdown": "lith = thought",
       "notes": ""
     },
     {
-      "láadan": "halith",
+      "laadan": "halith",
       "english": "proposition",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "lith = thought",
+      "breakdown": "lith = thought",
       "notes": ""
     },
     {
-      "láadan": "ham",
+      "laadan": "ham",
       "english": "there are",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ham",
+      "laadan": "ham",
       "english": "there is",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ham",
+      "laadan": "ham",
       "english": "to attend",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ham",
+      "laadan": "ham",
       "english": "to be present",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ham",
+      "laadan": "ham",
       "english": "to be present",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "han",
+      "laadan": "han",
       "english": "south",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Hanesháal",
+      "laadan": "Hanesháal",
       "english": "Thursday",
       "description": "South Day",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath",
+      "laadan": "hath",
       "english": "time",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath",
+      "laadan": "hath",
       "english": "time",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath boó",
+      "laadan": "hath boó",
       "english": "thrice",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath menedebe",
+      "laadan": "hath menedebe",
       "english": "often",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath nede",
+      "laadan": "hath nede",
       "english": "once",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath nedebe",
+      "laadan": "hath nedebe",
       "english": "seldom",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath shin",
+      "laadan": "hath shin",
       "english": "twice",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath waha",
+      "laadan": "hath waha",
       "english": "anytime",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hath woho",
+      "laadan": "hath woho",
       "english": "every time",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hathal",
+      "laadan": "hathal",
       "english": "to be good",
       "description": "said of time",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hatham",
+      "laadan": "hatham",
       "english": "center",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hath = time",
+      "breakdown": "hath = time",
       "notes": ""
     },
     {
-      "láadan": "Hathamesháal",
+      "laadan": "Hathamesháal",
       "english": "Sunday",
       "description": "Center Day",
       "classification": "noun",
-      "wordBreakdown": "hatham = center",
+      "breakdown": "hatham = center",
       "notes": ""
     },
     {
-      "láadan": "hathehath",
+      "laadan": "hathehath",
       "english": "forever",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hath = time",
+      "breakdown": "hath = time",
       "notes": ""
     },
     {
-      "láadan": "hathehath",
+      "laadan": "hathehath",
       "english": "time everlasting",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hath = time",
+      "breakdown": "hath = time",
       "notes": ""
     },
     {
-      "láadan": "hatheril",
+      "laadan": "hatheril",
       "english": "woman-time",
       "description": "marking the passage of time based on interpersonal relationships: births; deaths; relocations; marriages; etc.; Mary was pregnant with her second when...; Just about the time the tribe moved to...  (see hatherilid)",
       "classification": "noun",
-      "wordBreakdown": "hath = time, eril = earlier in time",
+      "breakdown": "hath = time, eril = earlier in time",
       "notes": ""
     },
     {
-      "láadan": "hatherilid",
+      "laadan": "hatherilid",
       "english": "man-time",
       "description": "marking the passage of time based on important sporting events; wars; conquests; major disasters; the way time is market in most late 20th century history books.  (see hatheril)",
       "classification": "noun",
-      "wordBreakdown": "hath = time, eril = earlier in time, -id = male",
+      "breakdown": "hath = time, eril = earlier in time, -id = male",
       "notes": ""
     },
     {
-      "láadan": "hathobéeya",
+      "laadan": "hathobéeya",
       "english": "until",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hathóol",
+      "laadan": "hathóol",
       "english": "month",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hath = time, óol = moon",
+      "breakdown": "hath = time, óol = moon",
       "notes": ""
     },
     {
-      "láadan": "háwithá",
+      "laadan": "háwithá",
       "english": "baby nurse",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háwithá",
+      "laadan": "háwithá",
       "english": "nanny",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "háya",
+      "laadan": "háya",
       "english": "to be beautiful",
       "description": "said of time",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heb",
+      "laadan": "heb",
       "english": "down",
       "description": "the direction",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heb",
+      "laadan": "heb",
       "english": "down",
       "description": "the direction",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hed",
+      "laadan": "hed",
       "english": "glass",
       "description": "for drinking",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héda",
+      "laadan": "héda",
       "english": "to drop",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héda",
+      "laadan": "héda",
       "english": "to let fall",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héda",
+      "laadan": "héda",
       "english": "to spill",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeda",
+      "laadan": "héeda",
       "english": "to be holy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeda",
+      "laadan": "héeda",
       "english": "to be sacred",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héedá",
+      "laadan": "héedá",
       "english": "to lift up",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héedá",
+      "laadan": "héedá",
       "english": "to pick up",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héedan",
+      "laadan": "héedan",
       "english": "to translate",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héedarana",
+      "laadan": "héedarana",
       "english": "sacred drink",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héedarana",
+      "laadan": "héedarana",
       "english": "to drink sacred drink",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héena",
+      "laadan": "héena",
       "english": "sibling of the heart",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "fear",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "fear",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "to be afraid",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "to be afraid",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "to fear",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeya",
+      "laadan": "héeya",
       "english": "to fear",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "héeyasholan",
+      "laadan": "héeyasholan",
       "english": "to be alone with terror",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hem",
+      "laadan": "hem",
       "english": "underwear",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hemen",
+      "laadan": "hemen",
       "english": "bush",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hena",
+      "laadan": "hena",
       "english": "sibling by birth",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hene",
+      "laadan": "hene",
       "english": "east",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Henesháal",
+      "laadan": "Henesháal",
       "english": "Monday",
       "description": "East Day",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hesh",
+      "laadan": "hesh",
       "english": "grass",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hesh",
+      "laadan": "hesh",
       "english": "grass",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heshedon",
+      "laadan": "heshedon",
       "english": "rake",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hesh = grass, don = comb",
+      "breakdown": "hesh = grass, don = comb",
       "notes": ""
     },
     {
-      "láadan": "heshedon",
+      "laadan": "heshedon",
       "english": "to rake",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heshedon",
+      "laadan": "heshedon",
       "english": "to rake",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heshehoth",
+      "laadan": "heshehoth",
       "english": "park",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hesh = grass, hoth = place",
+      "breakdown": "hesh = grass, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "hesho",
+      "laadan": "hesho",
       "english": "to exceed",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hesho",
+      "laadan": "hesho",
       "english": "to surpass",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heth",
+      "laadan": "heth",
       "english": "dowry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "heyi",
+      "laadan": "heyi",
       "english": "pain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hezh",
+      "laadan": "hezh",
       "english": "lemon",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hi",
+      "laadan": "hi",
       "english": "that",
       "description": "Demonstrative pronoun: singular",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hi",
+      "laadan": "hi",
       "english": "this",
       "description": "Demonstrative pronoun: singular",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hib",
+      "laadan": "hib",
       "english": "ovary",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hibid",
+      "laadan": "hibid",
       "english": "testicle",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hibo",
+      "laadan": "hibo",
       "english": "hill",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hibomid",
+      "laadan": "hibomid",
       "english": "camel",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hidel",
+      "laadan": "hidel",
       "english": "ham radio",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hihath",
+      "laadan": "hihath",
       "english": "now",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hi = this, hath = time",
+      "breakdown": "hi = this, hath = time",
       "notes": ""
     },
     {
-      "láadan": "hihath",
+      "laadan": "hihath",
       "english": "right now",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hi = this, hath = time",
+      "breakdown": "hi = this, hath = time",
       "notes": ""
     },
     {
-      "láadan": "hihath",
+      "laadan": "hihath",
       "english": "right this instant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hi = this, hath = time",
+      "breakdown": "hi = this, hath = time",
       "notes": ""
     },
     {
-      "láadan": "hil",
+      "laadan": "hil",
       "english": "attention",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hil",
+      "laadan": "hil",
       "english": "to attend",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hil",
+      "laadan": "hil",
       "english": "to pay attention to",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hin",
+      "laadan": "hin",
       "english": "these",
       "description": "Demonstrative pronoun: many",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hin",
+      "laadan": "hin",
       "english": "those",
       "description": "Demonstrative pronoun: many",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hinal",
+      "laadan": "hinal",
       "english": "thus",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hinethed",
+      "laadan": "hinethed",
       "english": "those",
       "description": "Demonstrative pronoun: many",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hinethoma",
+      "laadan": "hinethoma",
       "english": "these",
       "description": "Demonstrative pronoun: many",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hish",
+      "laadan": "hish",
       "english": "snow",
       "description": "weather",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hishud",
+      "laadan": "hishud",
       "english": "hail",
       "description": "weather",
       "classification": "noun",
-      "wordBreakdown": "hish = snow, ud = stone",
+      "breakdown": "hish = snow, ud = stone",
       "notes": ""
     },
     {
-      "láadan": "hithed",
+      "laadan": "hithed",
       "english": "that",
       "description": "Demonstrative pronoun: singular",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hithoma",
+      "laadan": "hithoma",
       "english": "this",
       "description": "Demonstrative pronoun: singular",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hiwetha",
+      "laadan": "hiwetha",
       "english": "left direction",
       "description": "direction",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hiwetho",
+      "laadan": "hiwetho",
       "english": "right direction",
       "description": "direction",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "híya",
+      "laadan": "híya",
       "english": "to be small",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "híya",
+      "laadan": "híya",
       "english": "to be small",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "híyahath",
+      "laadan": "híyahath",
       "english": "week",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "híya = small, hath = time",
+      "breakdown": "híya = small, hath = time",
       "notes": ""
     },
     {
-      "láadan": "híyamesh",
+      "laadan": "híyamesh",
       "english": "narrow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "híya = small, mesh = across",
+      "breakdown": "híya = small, mesh = across",
       "notes": ""
     },
     {
-      "láadan": "hizh",
+      "laadan": "hizh",
       "english": "lime",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hizh",
+      "laadan": "hizh",
       "english": "these",
       "description": "Demonstrative pronoun: several",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hizh",
+      "laadan": "hizh",
       "english": "those",
       "description": "Demonstrative pronoun: several",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hizhethed",
+      "laadan": "hizhethed",
       "english": "those",
       "description": "Demonstrative pronoun: several",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hizhethoma",
+      "laadan": "hizhethoma",
       "english": "these",
       "description": "Demonstrative pronoun: several",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hob",
+      "laadan": "hob",
       "english": "butter",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoberídan",
+      "laadan": "hoberídan",
       "english": "great-aunt",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hod",
+      "laadan": "hod",
       "english": "stomach",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoda",
+      "laadan": "hoda",
       "english": "apology; pardon me; phrase to indicate that you regret whatever it is that you find yourself obliged to do -- like interrupting someone (see hóoda)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hodáath",
+      "laadan": "hodáath",
       "english": "bowels",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hodáath",
+      "laadan": "hodáath",
       "english": "intestines",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hodo",
+      "laadan": "hodo",
       "english": "tulip",
       "description": "flower",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hohal",
+      "laadan": "hohal",
       "english": "office",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hohal",
+      "laadan": "hohal",
       "english": "workplace",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hohama",
+      "laadan": "hohama",
       "english": "glory",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hohathad",
+      "laadan": "hohathad",
       "english": "all-power",
       "description": "without the feature 'male'",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hohathad",
+      "laadan": "hohathad",
       "english": "omnipotence",
       "description": "without the feature 'male'",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "holanemid",
+      "laadan": "holanemid",
       "english": "wolf",
       "description": "noun, the animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hom",
+      "laadan": "hom",
       "english": "nectar",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "homana",
+      "laadan": "homana",
       "english": "dessert",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "hom = nectar, ana = food",
+      "breakdown": "hom = nectar, ana = food",
       "notes": ""
     },
     {
-      "láadan": "homana",
+      "laadan": "homana",
       "english": "nectar food",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "hom = nectar, ana = food",
+      "breakdown": "hom = nectar, ana = food",
       "notes": ""
     },
     {
-      "láadan": "homeyu",
+      "laadan": "homeyu",
       "english": "nectarine",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "hom = nectar, yu = fruit",
+      "breakdown": "hom = nectar, yu = fruit",
       "notes": ""
     },
     {
-      "láadan": "hon",
+      "laadan": "hon",
       "english": "west",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "honáal",
+      "laadan": "honáal",
       "english": "hours between midnight and dawn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Honesháal",
+      "laadan": "Honesháal",
       "english": "Tuesday",
       "description": "West Day",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hóo",
+      "laadan": "hóo",
       "english": "mattress",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hóoda",
+      "laadan": "hóoda",
       "english": "apology; excuse me; phrase to indicate that you need to leave a particular location (see hoda)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoówith",
+      "laadan": "hoówith",
       "english": "granddaughter",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoówithid",
+      "laadan": "hoówithid",
       "english": "grandson",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hosh",
+      "laadan": "hosh",
       "english": "feather",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hosherídan",
+      "laadan": "hosherídan",
       "english": "great niece",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoth",
+      "laadan": "hoth",
       "english": "place",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoth",
+      "laadan": "hoth",
       "english": "place",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoth waha",
+      "laadan": "hoth waha",
       "english": "anywhere",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hoth = place, waha = any",
+      "breakdown": "hoth = place, waha = any",
       "notes": ""
     },
     {
-      "láadan": "hothal",
+      "laadan": "hothal",
       "english": "to be good",
       "description": "said of place",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hothul",
+      "laadan": "hothul",
       "english": "grandmother",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hothulewoth",
+      "laadan": "hothulewoth",
       "english": "momilies",
       "description": "some piece of knowledge or lore that has been passed from mother to daughter for at least two generations",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hóya",
+      "laadan": "hóya",
       "english": "to be beautiful",
       "description": "said of place",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hoyo",
+      "laadan": "hoyo",
       "english": "tail",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hozhazh",
+      "laadan": "hozhazh",
       "english": "airport",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hu",
+      "laadan": "hu",
       "english": "boss",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hu",
+      "laadan": "hu",
       "english": "ruler",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hubod",
+      "laadan": "hubod",
       "english": "edge",
       "description": "sharp",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "huhéthe",
+      "laadan": "huhéthe",
       "english": "boss-clean",
       "description": "probably the highest level of cleaning you would need  (See also: éthe; háawithéthe; mudahéthe; onidahéthe; thóohéthe)",
       "classification": "noun",
-      "wordBreakdown": "hu = boss, éthe = clean",
+      "breakdown": "hu = boss, éthe = clean",
       "notes": ""
     },
     {
-      "láadan": "huhéthe",
+      "laadan": "huhéthe",
       "english": "to be boss-clean",
       "description": "probably the highest level of cleaning you would need  (See also: éthe; háawithéthe; mudahéthe; onidahéthe; thóohéthe)",
       "classification": "intransitive verb",
-      "wordBreakdown": "hu = boss, éthe = clean",
+      "breakdown": "hu = boss, éthe = clean",
       "notes": ""
     },
     {
-      "láadan": "huhid",
+      "laadan": "huhid",
       "english": "king",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "hu = boss, -id = male",
+      "breakdown": "hu = boss, -id = male",
       "notes": ""
     },
     {
-      "láadan": "hulehul",
+      "laadan": "hulehul",
       "english": "for sure (an emphatic; strong positive)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hum",
+      "laadan": "hum",
       "english": "knife",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "huma",
+      "laadan": "huma",
       "english": "to be sharp",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "humazho",
+      "laadan": "humazho",
       "english": "to whistle",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "humazho",
+      "laadan": "humazho",
       "english": "whistle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "huma = sharp, zho = sound",
+      "breakdown": "huma = sharp, zho = sound",
       "notes": ""
     },
     {
-      "láadan": "humazhomid",
+      "laadan": "humazhomid",
       "english": "guinea pig",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "humazho = whistle, mid = creature",
+      "breakdown": "humazho = whistle, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "humesh",
+      "laadan": "humesh",
       "english": "to cut",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "hun",
+      "laadan": "hun",
       "english": "north",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Hunesháal",
+      "laadan": "Hunesháal",
       "english": "Wednesday",
       "description": "North Day",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "husháana",
+      "laadan": "husháana",
       "english": "painful menstruation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "husháana",
+      "laadan": "husháana",
       "english": "to menstruate painfully",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "huthil",
+      "laadan": "huthil",
       "english": "kudzu",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "húumid",
+      "laadan": "húumid",
       "english": "owl hoo",
       "description": "onomatopoeia",
       "classification": "noun",
-      "wordBreakdown": "húu = the sound an owl makes, mid = creature",
+      "breakdown": "húu = the sound an owl makes, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "i",
+      "laadan": "i",
       "english": "and",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "i",
+      "laadan": "i",
       "english": "and",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ib",
+      "laadan": "ib",
       "english": "against",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ib",
+      "laadan": "ib",
       "english": "crime",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibádi",
+      "laadan": "ibádi",
       "english": "to accuse",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibálh",
+      "laadan": "ibálh",
       "english": "criminal",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibath",
+      "laadan": "ibath",
       "english": "to scratch",
       "description": "ib=against + bath=fingernail",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibáyóodi",
+      "laadan": "ibáyóodi",
       "english": "to confess",
       "description": "literally: to accuse oneself",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibo",
+      "laadan": "ibo",
       "english": "exhaustion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibo",
+      "laadan": "ibo",
       "english": "to exhaust oneself",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibolh",
+      "laadan": "ibolh",
       "english": "(negative) exhaustion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ibolh",
+      "laadan": "ibolh",
       "english": "to exhaust with negative connotation",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "iboshara",
+      "laadan": "iboshara",
       "english": "burnout",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "iboth",
+      "laadan": "iboth",
       "english": "scratch",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "id",
+      "laadan": "id",
       "english": "and then",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "id",
+      "laadan": "id",
       "english": "and-then",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "idon",
+      "laadan": "idon",
       "english": "brush",
       "description": "for hair",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihe",
+      "laadan": "ihe",
       "english": "before",
       "description": "in space",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihe",
+      "laadan": "ihe",
       "english": "in front of",
       "description": "in space",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihé",
+      "laadan": "ihé",
       "english": "before (in space); in front of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihée",
+      "laadan": "ihée",
       "english": "after (in space); behind",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihée",
+      "laadan": "ihée",
       "english": "after",
       "description": "in space",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ihée",
+      "laadan": "ihée",
       "english": "behind",
       "description": "in space",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "íi",
+      "laadan": "íi",
       "english": "also",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "íizha",
+      "laadan": "íizha",
       "english": "although",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "il",
+      "laadan": "il",
       "english": "to look at",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "il",
+      "laadan": "il",
       "english": "to observe",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "il",
+      "laadan": "il",
       "english": "to pay attention to",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "il",
+      "laadan": "il",
       "english": "to see",
       "description": "Active seeing; which includes looking; watching; observing; and paying active attention to something visually. I am watching you. (see lAad oyinan; passive seeing)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "il",
+      "laadan": "il",
       "english": "to watch",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ilá",
+      "laadan": "ilá",
       "english": "spectator",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ílhi",
+      "laadan": "ílhi",
       "english": "disgust",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ílhilh",
+      "laadan": "ílhilh",
       "english": "disgust and disapproval",
       "description": "disgust with pejorative overtones",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ili",
+      "laadan": "ili",
       "english": "water",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ili",
+      "laadan": "ili",
       "english": "water",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ili",
+      "laadan": "ili",
       "english": "water",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ilihede",
+      "laadan": "ilihede",
       "english": "rice",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "ili = water, ede = grain",
+      "breakdown": "ili = water, ede = grain",
       "notes": ""
     },
     {
-      "láadan": "ilimeda",
+      "laadan": "ilimeda",
       "english": "lettuce",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "ili = water, meda = vegetable",
+      "breakdown": "ili = water, meda = vegetable",
       "notes": ""
     },
     {
-      "láadan": "ilisháad",
+      "laadan": "ilisháad",
       "english": "swim",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ilisháad",
+      "laadan": "ilisháad",
       "english": "to swim",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "iliwush",
+      "laadan": "iliwush",
       "english": "mop",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "iliyeb",
+      "laadan": "iliyeb",
       "english": "urine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ilu",
+      "laadan": "ilu",
       "english": "hose",
       "description": "for liquids",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "iluli",
+      "laadan": "iluli",
       "english": "blood vessel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "im",
+      "laadan": "im",
       "english": "to travel",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "imedim",
+      "laadan": "imedim",
       "english": "suitcase",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "in",
+      "laadan": "in",
       "english": "to exist",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ina",
+      "laadan": "ina",
       "english": "sleep",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ina",
+      "laadan": "ina",
       "english": "to sleep",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "inad",
+      "laadan": "inad",
       "english": "pants",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "inad",
+      "laadan": "inad",
       "english": "trousers",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ishid",
+      "laadan": "ishid",
       "english": "digit",
       "description": "fingers; toes",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ishida",
+      "laadan": "ishida",
       "english": "gloves",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "ishid = fingers/toes, -da = for",
+      "breakdown": "ishid = fingers/toes, -da = for",
       "notes": ""
     },
     {
-      "láadan": "ishida",
+      "laadan": "ishida",
       "english": "mittens",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "ishid = fingers/toes, -da = for",
+      "breakdown": "ishid = fingers/toes, -da = for",
       "notes": ""
     },
     {
-      "láadan": "ishida",
+      "laadan": "ishida",
       "english": "socks",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "ishid = fingers/toes, -da = for",
+      "breakdown": "ishid = fingers/toes, -da = for",
       "notes": ""
     },
     {
-      "láadan": "ishida",
+      "laadan": "ishida",
       "english": "stockings",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "ishid = fingers/toes, -da = for",
+      "breakdown": "ishid = fingers/toes, -da = for",
       "notes": ""
     },
     {
-      "láadan": "ishidi",
+      "laadan": "ishidi",
       "english": "to chatter",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ishish",
+      "laadan": "ishish",
       "english": "to fidget",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ith",
+      "laadan": "ith",
       "english": "light",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ithedal",
+      "laadan": "ithedal",
       "english": "lamp",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ithedal",
+      "laadan": "ithedal",
       "english": "light",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ithedal",
+      "laadan": "ithedal",
       "english": "light making object",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "íthi",
+      "laadan": "íthi",
       "english": "to be high",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "íthi",
+      "laadan": "íthi",
       "english": "to be tall",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "izh",
+      "laadan": "izh",
       "english": "but",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "izh",
+      "laadan": "izh",
       "english": "but",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "la",
+      "laadan": "la",
       "english": "I",
       "description": "1st person: singular: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láa",
+      "laadan": "láa",
       "english": "perception",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad",
+      "laadan": "láad",
       "english": "to perceive",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad",
+      "laadan": "láad",
       "english": "to perceive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad óoyonan",
+      "laadan": "láad óoyonan",
       "english": "to perceive with the mouth",
       "description": "Passive tasting. The dinner tastes good to me. (see lóoyo; active taste)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad óoyonan",
+      "laadan": "láad óoyonan",
       "english": "to taste",
       "description": "Passive tasting. The dinner tastes good to me. (see lóoyo; active taste)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyanan",
+      "laadan": "láad oyanan",
       "english": "to feel something on your skin",
       "description": "Passive feeling. The silk feels good to me. (see dama; active touch)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyanan",
+      "laadan": "láad oyanan",
       "english": "to perceive with the skin",
       "description": "Passive feeling. The silk feels good to me. (see dama; active touch)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyinan",
+      "laadan": "láad oyinan",
       "english": "to look",
       "description": "Passive seeing. I see the flower. (see il; active seeing)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyinan",
+      "laadan": "láad oyinan",
       "english": "to perceive with the eyes",
       "description": "Passive seeing. I see the flower. (see il; active seeing)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyinan",
+      "laadan": "láad oyinan",
       "english": "to see",
       "description": "Passive seeing. I see the flower. (see il; active seeing)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyonan",
+      "laadan": "láad oyonan",
       "english": "to perceive with the nose",
       "description": "Passive smelling. The candle smells good to me. (see shu; active smell)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyonan",
+      "laadan": "láad oyonan",
       "english": "to smell",
       "description": "Passive smelling. The candle smells good to me. (see shu; active smell)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyunan",
+      "laadan": "láad oyunan",
       "english": "to hear",
       "description": "Passive hearing. The band sounds good to me. (see ma; active listen)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láad oyunan",
+      "laadan": "láad oyunan",
       "english": "to perceive with the ears",
       "description": "Passive hearing. The band sounds good to me. (see ma; active listen)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láadá",
+      "laadan": "láadá",
       "english": "perceiver",
       "description": "the one who perceives",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Láadan",
+      "laadan": "Láadan",
       "english": "Láadan",
       "description": "perception language",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láadom",
+      "laadan": "láadom",
       "english": "to recognize",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láahomá",
+      "laadan": "láahomá",
       "english": "perception teacher",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láashod",
+      "laadan": "láashod",
       "english": "meditation room",
       "description": "room where one goes to meditate and attain new perceptions of the world and themselves",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "láashod",
+      "laadan": "láashod",
       "english": "perception room",
       "description": "room where one goes to meditate and attain new perceptions of the world and themselves",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ladinime",
+      "laadan": "ladinime",
       "english": "to interact",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ladinime",
+      "laadan": "ladinime",
       "english": "to interact",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "laheb",
+      "laadan": "laheb",
       "english": "spice",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Lahila",
+      "laadan": "Lahila",
       "english": "Deity",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Lahila",
+      "laadan": "Lahila",
       "english": "Holy-One",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lal",
+      "laadan": "lal",
       "english": "milk",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalal",
+      "laadan": "lalal",
       "english": "mother's milk",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalen",
+      "laadan": "lalen",
       "english": "guitar",
       "description": "musical instrument",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalewida",
+      "laadan": "lalewida",
       "english": "to be pregnant joyfully",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lali",
+      "laadan": "lali",
       "english": "rain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lali",
+      "laadan": "lali",
       "english": "to rain",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lali",
+      "laadan": "lali",
       "english": "to rain",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalidáan",
+      "laadan": "lalidáan",
       "english": "poem",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalidáaná",
+      "laadan": "lalidáaná",
       "english": "poet",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalilom",
+      "laadan": "lalilom",
       "english": "sound of rain on the roof",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalimilom",
+      "laadan": "lalimilom",
       "english": "sound of rain on leaves",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalom",
+      "laadan": "lalom",
       "english": "to sing",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lalom",
+      "laadan": "lalom",
       "english": "to sing",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lam",
+      "laadan": "lam",
       "english": "health",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lam",
+      "laadan": "lam",
       "english": "to be healthy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lámáhel",
+      "laadan": "lámáhel",
       "english": "to carve",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lámáhel",
+      "laadan": "lámáhel",
       "english": "to sculpt",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lámála",
+      "laadan": "lámála",
       "english": "to caress",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lámála",
+      "laadan": "lámála",
       "english": "to stroke",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lami",
+      "laadan": "lami",
       "english": "number",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lami",
+      "laadan": "lami",
       "english": "numeral",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lamith",
+      "laadan": "lamith",
       "english": "to count",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lamith",
+      "laadan": "lamith",
       "english": "to count",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lamithá",
+      "laadan": "lamithá",
       "english": "accountant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lan",
+      "laadan": "lan",
       "english": "friend",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lan",
+      "laadan": "lan",
       "english": "we",
       "description": "1st person: many: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lanemid",
+      "laadan": "lanemid",
       "english": "dog",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "lan = friend, mid = creature",
+      "breakdown": "lan = friend, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "lash",
+      "laadan": "lash",
       "english": "indifference",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lath",
+      "laadan": "lath",
       "english": "to be celibate by choice",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lawida",
+      "laadan": "lawida",
       "english": "to be pregnant",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lawith",
+      "laadan": "lawith",
       "english": "saint",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "laya",
+      "laadan": "laya",
       "english": "red",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "laya",
+      "laadan": "laya",
       "english": "to be red",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "layun",
+      "laadan": "layun",
       "english": "orange",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "layun",
+      "laadan": "layun",
       "english": "to be orange",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lazh",
+      "laadan": "lazh",
       "english": "we",
       "description": "1st person: several: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "le",
+      "laadan": "le",
       "english": "I",
       "description": "1st person: singular: neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leb",
+      "laadan": "leb",
       "english": "enemy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "led",
+      "laadan": "led",
       "english": "harmony in the home",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lée-",
+      "laadan": "lée-",
       "english": "",
       "description": "meta-",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "léeli",
+      "laadan": "léeli",
       "english": "daffodil",
       "description": "flower",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "léeli",
+      "laadan": "léeli",
       "english": "jonquil",
       "description": "flower",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "léeli",
+      "laadan": "léeli",
       "english": "narcissus",
       "description": "flower",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lehina",
+      "laadan": "lehina",
       "english": "lilac",
       "description": "the flower; bush",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lel",
+      "laadan": "lel",
       "english": "seaweed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "léli",
+      "laadan": "léli",
       "english": "to be yellow",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "léli",
+      "laadan": "léli",
       "english": "yellow",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lelith",
+      "laadan": "lelith",
       "english": "algae",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lemadama",
+      "laadan": "lemadama",
       "english": "to cuddle",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lemamid",
+      "laadan": "lemamid",
       "english": "deer",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lemamidid",
+      "laadan": "lemamidid",
       "english": "stag",
       "description": "animal, male deer",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "len",
+      "laadan": "len",
       "english": "we",
       "description": "1st person: many: neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lenedi",
+      "laadan": "lenedi",
       "english": "to us",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leneth",
+      "laadan": "leneth",
       "english": "us",
       "description": "1st person; many; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lenetha",
+      "laadan": "lenetha",
       "english": "our",
       "description": "by reason of birth",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lenetho",
+      "laadan": "lenetho",
       "english": "our",
       "description": "",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lenethoth",
+      "laadan": "lenethoth",
       "english": "our",
       "description": "other; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leth",
+      "laadan": "leth",
       "english": "me",
       "description": "1st person; singular; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyan",
+      "laadan": "leyan",
       "english": "brown",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyi",
+      "laadan": "leyi",
       "english": "blue",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyidalatham",
+      "laadan": "leyidalatham",
       "english": "blueberry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyóo",
+      "laadan": "leyóo",
       "english": "myself",
       "description": "1st person; singular; neutral; reflexive pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyóon",
+      "laadan": "leyóon",
       "english": "ourselves",
       "description": "1st person; many; neutral; reflexive pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "leyóozh",
+      "laadan": "leyóozh",
       "english": "ourselves",
       "description": "1st person; several; neutral; reflexive pronoun",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lezh",
+      "laadan": "lezh",
       "english": "ourselves",
       "description": "1st person; several; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lh- or -lh or -lh-",
+      "laadan": "lh- or -lh or -lh-",
       "english": "bad",
       "description": "bad (intentionally) <infix> The pejorative element lh can always be added to a word to give it a negative connotation; so long as it precedes or follows a vowel and does not violate the rules of the Laadan sound system by creating a forbidden cluster. The addition of lh need not create an actual new word; for example; awith  means baby-to use instead lhawith (or awithelh) means only something like the darned baby and is ordinarily a temporary addition. But it is very handy indeed. We are indebted to the Navajo language for this device.",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lha",
+      "laadan": "lha",
       "english": "sin",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhada",
+      "laadan": "lhada",
       "english": "ridicule",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "lh- = bad, ada = laugh",
+      "breakdown": "lh- = bad, ada = laugh",
       "notes": ""
     },
     {
-      "láadan": "lhada",
+      "laadan": "lhada",
       "english": "scorn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "lh- = bad, ada = laugh",
+      "breakdown": "lh- = bad, ada = laugh",
       "notes": ""
     },
     {
-      "láadan": "lheb",
+      "laadan": "lheb",
       "english": "enemy",
       "description": "with pejorative overtones",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhebe",
+      "laadan": "lhebe",
       "english": "hatred",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhebe",
+      "laadan": "lhebe",
       "english": "she/it/he",
       "description": "3rd person; singular; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lheben",
+      "laadan": "lheben",
       "english": "they",
       "description": "3rd person; many; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhebezh",
+      "laadan": "lhebezh",
       "english": "they",
       "description": "3rd person; several; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhed",
+      "laadan": "lhed",
       "english": "discord in the home",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhele",
+      "laadan": "lhele",
       "english": "I",
       "description": "1st person; singular; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhelen",
+      "laadan": "lhelen",
       "english": "we",
       "description": "1st person; many; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhelezh",
+      "laadan": "lhelezh",
       "english": "we",
       "description": "1st person; several; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhene",
+      "laadan": "lhene",
       "english": "you",
       "description": "2nd person; singular; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhenen",
+      "laadan": "lhenen",
       "english": "you",
       "description": "2nd person; many; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhenezh",
+      "laadan": "lhenezh",
       "english": "you",
       "description": "2nd person; several; despised",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhezhub",
+      "laadan": "lhezhub",
       "english": "noxious insect",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhobom",
+      "laadan": "lhobom",
       "english": "to rape",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhoho",
+      "laadan": "lhoho",
       "english": "shame",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhu",
+      "laadan": "lhu",
       "english": "poison",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhu",
+      "laadan": "lhu",
       "english": "to poison",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lhud",
+      "laadan": "lhud",
       "english": "debt",
       "description": "with pejorative overtones",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "li",
+      "laadan": "li",
       "english": "I",
       "description": "1st person; singular; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "líithi",
+      "laadan": "líithi",
       "english": "to be white",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "líithi",
+      "laadan": "líithi",
       "english": "white",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "líithin",
+      "laadan": "líithin",
       "english": "gray",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "líithin",
+      "laadan": "líithin",
       "english": "to be gray",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lila",
+      "laadan": "lila",
       "english": "to female-sexual-act",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lila",
+      "laadan": "lila",
       "english": "to female-sexual-act",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lilahá",
+      "laadan": "lilahá",
       "english": "lover (female only - not used to refer to males)",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lilathun",
+      "laadan": "lilathun",
       "english": "massage",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lilathun",
+      "laadan": "lilathun",
       "english": "massage",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lili",
+      "laadan": "lili",
       "english": "to be wet",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lili",
+      "laadan": "lili",
       "english": "to be wet",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liliháaláa",
+      "laadan": "liliháaláa",
       "english": "labia majora & minora",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "limlim",
+      "laadan": "limlim",
       "english": "bell",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lin",
+      "laadan": "lin",
       "english": "we",
       "description": "1st person; many; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liri",
+      "laadan": "liri",
       "english": "to be colored",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liri",
+      "laadan": "liri",
       "english": "to be colored",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liri",
+      "laadan": "liri",
       "english": "to have color",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liri",
+      "laadan": "liri",
       "english": "to have color",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lish",
+      "laadan": "lish",
       "english": "to lightning",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lishenal",
+      "laadan": "lishenal",
       "english": "vividly",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lishid",
+      "laadan": "lishid",
       "english": "to sign",
       "description": "as in ASL",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lishidá",
+      "laadan": "lishidá",
       "english": "signer",
       "description": "as in ASL",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lith",
+      "laadan": "lith",
       "english": "a thought",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lith",
+      "laadan": "lith",
       "english": "to think",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lithewil",
+      "laadan": "lithewil",
       "english": "hypothesis",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liyen",
+      "laadan": "liyen",
       "english": "green",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "liyen",
+      "laadan": "liyen",
       "english": "to be green",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lizh",
+      "laadan": "lizh",
       "english": "we",
       "description": "1st person; several; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lo",
+      "laadan": "lo",
       "english": "to rejoice",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lob",
+      "laadan": "lob",
       "english": "to fill",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lob",
+      "laadan": "lob",
       "english": "to fill up",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lod",
+      "laadan": "lod",
       "english": "household",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lóda",
+      "laadan": "lóda",
       "english": "to be pregnant wearily",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lohil",
+      "laadan": "lohil",
       "english": "to watch internally",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loláad",
+      "laadan": "loláad",
       "english": "to perceive internally",
       "description": "; to feel a mental state or emotion; perceive with the heart (metaphorically). Passive internal feeling. I feel sad. (see náril; active internal feeling)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loláad lhohoth",
+      "laadan": "loláad lhohoth",
       "english": "to be ashamed",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loláad lhohoth",
+      "laadan": "loláad lhohoth",
       "english": "to perceive one's shame",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loláad óoyanan",
+      "laadan": "loláad óoyanan",
       "english": "to be aware of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loláad óoyanan",
+      "laadan": "loláad óoyanan",
       "english": "to sense",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolehoth",
+      "laadan": "lolehoth",
       "english": "community place",
       "description": "building and grounds of a place intended to nurture the needs of the people who belong",
       "classification": "noun",
-      "wordBreakdown": "lol = feeling of togetherness, hoth = place",
+      "breakdown": "lol = feeling of togetherness, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "lolh",
+      "laadan": "lolh",
       "english": "an oppressive lol",
       "description": "a negative sense of community; togetherness; sisterhood; fellowship; belonging; cohesiveness; you belong but to your severe detriment; for instance being forced to give up valued aspects of yourself to be accepted by the community. (see lol)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolin",
+      "laadan": "lolin",
       "english": "assembly",
       "description": "of people",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolin",
+      "laadan": "lolin",
       "english": "gathering",
       "description": "of people",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolin",
+      "laadan": "lolin",
       "english": "rocking chair",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolin",
+      "laadan": "lolin",
       "english": "to assemble",
       "description": "of people",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lolin",
+      "laadan": "lolin",
       "english": "to gather",
       "description": "of people",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lom",
+      "laadan": "lom",
       "english": "song",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lom",
+      "laadan": "lom",
       "english": "song",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lometha",
+      "laadan": "lometha",
       "english": "song that belongs to her by birth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "lom = song, -tha = possession by birth",
+      "breakdown": "lom = song, -tha = possession by birth",
       "notes": ""
     },
     {
-      "láadan": "lóolo",
+      "laadan": "lóolo",
       "english": "to be slow",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lóolo",
+      "laadan": "lóolo",
       "english": "to be slow",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lóothi",
+      "laadan": "lóothi",
       "english": "to be black and white",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lóoyo",
+      "laadan": "lóoyo",
       "english": "to taste",
       "description": "Active tasting. I am tasting the batter. (see láad óoyonan; passive taste)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lorolo",
+      "laadan": "lorolo",
       "english": "thunder",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "losh",
+      "laadan": "losh",
       "english": "credit",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "losh",
+      "laadan": "losh",
       "english": "money",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loshá",
+      "laadan": "loshá",
       "english": "banker",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loshebelid",
+      "laadan": "loshebelid",
       "english": "banker",
       "description": "financial bank",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loshehalid",
+      "laadan": "loshehalid",
       "english": "auction",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loth",
+      "laadan": "loth",
       "english": "information",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lothel",
+      "laadan": "lothel",
       "english": "to know",
       "description": "not said of people",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lowitheláad",
+      "laadan": "lowitheláad",
       "english": "to feel another's feelings",
       "description": "to feel; as if directly; another's feelings (pain/joy/ anger/grief/surprise/ etc.); to be empathetic; without the separation implied in empathy",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyada",
+      "laadan": "loyada",
       "english": "to yearn",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyada",
+      "laadan": "loyada",
       "english": "to yearn for",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyan",
+      "laadan": "loyan",
       "english": "intuition",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyo",
+      "laadan": "loyo",
       "english": "black",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyo",
+      "laadan": "loyo",
       "english": "to be black",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyodalatham",
+      "laadan": "loyodalatham",
       "english": "blackberry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "loyu",
+      "laadan": "loyu",
       "english": "to be dark-colored",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lu",
+      "laadan": "lu",
       "english": "please; polite phrase",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "chicken",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "duck",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "fowl",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "goose",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "poultry",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lub",
+      "laadan": "lub",
       "english": "poultry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "luben",
+      "laadan": "luben",
       "english": "map",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lud",
+      "laadan": "lud",
       "english": "debt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ludá",
+      "laadan": "ludá",
       "english": "debtor",
       "description": "person in debt",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ludi",
+      "laadan": "ludi",
       "english": "to be female",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ludihá",
+      "laadan": "ludihá",
       "english": "female",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "luhili",
+      "laadan": "luhili",
       "english": "blood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lul",
+      "laadan": "lul",
       "english": "vagina",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lula",
+      "laadan": "lula",
       "english": "purple",
       "description": "color",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lula",
+      "laadan": "lula",
       "english": "to be purple",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lulin",
+      "laadan": "lulin",
       "english": "cradle",
       "description": "lul+lin",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lush",
+      "laadan": "lush",
       "english": "mystery",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Lushede",
+      "laadan": "Lushede",
       "english": "deity",
       "description": "informal address",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Lushede",
+      "laadan": "Lushede",
       "english": "goddess",
       "description": "informal address",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lushimá",
+      "laadan": "lushimá",
       "english": "homosexual female",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lushimá",
+      "laadan": "lushimá",
       "english": "lesbian",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "luth",
+      "laadan": "luth",
       "english": "to rock",
       "description": "of babies",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "lúul",
+      "laadan": "lúul",
       "english": "guardian",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "luwili",
+      "laadan": "luwili",
       "english": "birth-blood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ma",
+      "laadan": "ma",
       "english": "to hear",
       "description": "Active hearing. I am listening for the buzzer. (see láad oyunan; passive hear)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ma",
+      "laadan": "ma",
       "english": "to listen",
       "description": "Active hearing. I am listening for the buzzer. (see láad oyunan; passive hear)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ma",
+      "laadan": "ma",
       "english": "to listen to",
       "description": "Active hearing. I am listening for the buzzer. (see láad oyunan; passive hear)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "máa",
+      "laadan": "máa",
       "english": "egg",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "máa",
+      "laadan": "máa",
       "english": "egg",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "máan",
+      "laadan": "máan",
       "english": "salt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "máanan",
+      "laadan": "máanan",
       "english": "to be salty",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mad",
+      "laadan": "mad",
       "english": "to hide an emotion or aspect of self",
       "description": "mirror image of dam",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "madoni",
+      "laadan": "madoni",
       "english": "to plant",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "maha",
+      "laadan": "maha",
       "english": "sexual desire",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mahanal",
+      "laadan": "mahanal",
       "english": "desiringly",
       "description": "NOT a negative term",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mahanal",
+      "laadan": "mahanal",
       "english": "lustfully",
       "description": "NOT a negative term",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mahela",
+      "laadan": "mahela",
       "english": "creative urge",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mahin",
+      "laadan": "mahin",
       "english": "cooking pot",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mahina",
+      "laadan": "mahina",
       "english": "flower",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mal",
+      "laadan": "mal",
       "english": "nut-tree",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "malu",
+      "laadan": "malu",
       "english": "salt marsh",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mar",
+      "laadan": "mar",
       "english": "absence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mar",
+      "laadan": "mar",
       "english": "to be absent",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "maradal",
+      "laadan": "maradal",
       "english": "gap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "maradal",
+      "laadan": "maradal",
       "english": "hole",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mari",
+      "laadan": "mari",
       "english": "island",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "math",
+      "laadan": "math",
       "english": "building",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mathom",
+      "laadan": "mathom",
       "english": "knick-knack",
       "description": "Tolkien loanword",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mathom",
+      "laadan": "mathom",
       "english": "useless object",
       "description": "Tolkien loanword",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mathul",
+      "laadan": "mathul",
       "english": "mother",
       "description": "intimate informal term; but not Mama (see: ethul; shathul)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mazh",
+      "laadan": "mazh",
       "english": "automobile",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mazh",
+      "laadan": "mazh",
       "english": "car",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "me-",
+      "laadan": "me-",
       "english": "",
       "description": "plural marker; plural morpheme used at the beginning of verbs and words that correspond to English adjectives; always the first prefix in the word (beautiful women = mewoháya wowith)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "meda",
+      "laadan": "meda",
       "english": "vegetable",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "medalayun",
+      "laadan": "medalayun",
       "english": "carrot",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "meda = vegetable, layun = orange color",
+      "breakdown": "meda = vegetable, layun = orange color",
       "notes": ""
     },
     {
-      "láadan": "meén",
+      "laadan": "meén",
       "english": "sugar",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "meénan",
+      "laadan": "meénan",
       "english": "to be sweet",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "meénaná",
+      "laadan": "meénaná",
       "english": "sweetener",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "meén = sugar",
+      "breakdown": "meén = sugar",
       "notes": ""
     },
     {
-      "láadan": "méesh",
+      "laadan": "méesh",
       "english": "pleasure",
       "description": "not said of sexual pleasure",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "méeshim",
+      "laadan": "méeshim",
       "english": "pleasure",
       "description": "sexual",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "méhéna",
+      "laadan": "méhéna",
       "english": "compassion despite negative circumstances",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mel",
+      "laadan": "mel",
       "english": "paper",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mela",
+      "laadan": "mela",
       "english": "ocean",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mela",
+      "laadan": "mela",
       "english": "sea",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "meláanin",
+      "laadan": "meláanin",
       "english": "birch tree",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yáanin = tree",
+      "breakdown": "yáanin = tree",
       "notes": ""
     },
     {
-      "láadan": "melahá",
+      "laadan": "melahá",
       "english": "ocean-dweller",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "mela = ocean, -á = doer",
+      "breakdown": "mela = ocean, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "meloth",
+      "laadan": "meloth",
       "english": "evidence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "loth = information",
+      "breakdown": "loth = information",
       "notes": ""
     },
     {
-      "láadan": "memazh",
+      "laadan": "memazh",
       "english": "train",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "me- = plural, mazh = car",
+      "breakdown": "me- = plural, mazh = car",
       "notes": ""
     },
     {
-      "láadan": "ména",
+      "laadan": "ména",
       "english": "compassion for good reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "menedebe",
+      "laadan": "menedebe",
       "english": "to be many",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "menedebe",
+      "laadan": "menedebe",
       "english": "to be many  (never change form or add case marker)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "menedebenil",
+      "laadan": "menedebenil",
       "english": "among (many)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "menedebosh",
+      "laadan": "menedebosh",
       "english": "bundle of sticks",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "me- = plural, nede = one, bosh = wood",
+      "breakdown": "me- = plural, nede = one, bosh = wood",
       "notes": ""
     },
     {
-      "láadan": "menedebosh",
+      "laadan": "menedebosh",
       "english": "faggot",
       "description": "bundle of sticks",
       "classification": "noun",
-      "wordBreakdown": "me- = plural, nede = one, bosh = wood",
+      "breakdown": "me- = plural, nede = one, bosh = wood",
       "notes": ""
     },
     {
-      "láadan": "merod",
+      "laadan": "merod",
       "english": "billion",
       "description": 1000000000,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mesh",
+      "laadan": "mesh",
       "english": "across",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mesh",
+      "laadan": "mesh",
       "english": "to be across",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "methid",
+      "laadan": "methid",
       "english": "rope",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "méwith",
+      "laadan": "méwith",
       "english": "crowd",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mezh",
+      "laadan": "mezh",
       "english": "powder",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mezhel",
+      "laadan": "mezhel",
       "english": "to grind",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mi",
+      "laadan": "mi",
       "english": "leaf",
       "description": "as in leaf of a tree; not a page in a book",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mid",
+      "laadan": "mid",
       "english": "animal",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mid",
+      "laadan": "mid",
       "english": "creature",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mid",
+      "laadan": "mid",
       "english": "creature",
       "description": "any animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mid",
+      "laadan": "mid",
       "english": "leaf",
       "description": "of a tree",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "midemath",
+      "laadan": "midemath",
       "english": "stable",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miháabe",
+      "laadan": "miháabe",
       "english": "page",
       "description": "of book",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mihí",
+      "laadan": "mihí",
       "english": "to be small",
       "description": "area",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "míi",
+      "laadan": "míi",
       "english": "amazement; to be amazed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "míi",
+      "laadan": "míi",
       "english": "to be amazed",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "míili",
+      "laadan": "míili",
       "english": "radiance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "míirile",
+      "laadan": "míirile",
       "english": "awed silence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mime",
+      "laadan": "mime",
       "english": "to ask",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mime",
+      "laadan": "mime",
       "english": "to ask",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mime",
+      "laadan": "mime",
       "english": "to ask",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miméne",
+      "laadan": "miméne",
       "english": "bedding",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miméne",
+      "laadan": "miméne",
       "english": "coverings",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "min",
+      "laadan": "min",
       "english": "eating utensil",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mina",
+      "laadan": "mina",
       "english": "to move",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mina",
+      "laadan": "mina",
       "english": "to move",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mína",
+      "laadan": "mína",
       "english": "compassion for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "minidibi",
+      "laadan": "minidibi",
       "english": "et cetera",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miwith",
+      "laadan": "miwith",
       "english": "city",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miwith",
+      "laadan": "miwith",
       "english": "town",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "miwithá",
+      "laadan": "miwithá",
       "english": "city-dweller",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mo",
+      "laadan": "mo",
       "english": "furniture",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "modem",
+      "laadan": "modem",
       "english": "modem",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "modi",
+      "laadan": "modi",
       "english": "to be ugly",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "móna",
+      "laadan": "móna",
       "english": "compassion for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mud",
+      "laadan": "mud",
       "english": "mushroom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "muda",
+      "laadan": "muda",
       "english": "pig",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "muda",
+      "laadan": "muda",
       "english": "pig",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mudahéthe",
+      "laadan": "mudahéthe",
       "english": "pig-clean",
       "description": "the state of your teenager's room; to be used when teenager says it's clean; mom!; and mom responds well; yeah; pig-clean! (with apologies to poor slandered pigs; who we know are very clean animals)  (See also: éthe; háawithéthe; huhéthe; onidahéthe; thóohéthe)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "mudahéthe",
+      "laadan": "mudahéthe",
       "english": "to be pig-clean",
       "description": "the state of your teenager's room; to be used when teenager says it's clean; mom!; and mom responds well; yeah; pig-clean! (with apologies to poor slandered pigs; who we know are very clean animals)  (See also: éthe; háawithéthe; huhéthe; onidahéthe; thóohéthe)",
       "classification": "intransitive verb",
-      "wordBreakdown": "muda = pig, éthe = clean",
+      "breakdown": "muda = pig, éthe = clean",
       "notes": ""
     },
     {
-      "láadan": "muhum",
+      "laadan": "muhum",
       "english": "scissors",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "múna",
+      "laadan": "múna",
       "english": "compassion for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "na",
+      "laadan": "na",
       "english": "you",
       "description": "2nd person; singular; beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "na-",
+      "laadan": "na-",
       "english": "to start to",
       "description": "Duration Marker: prefix for 'to start to' Verb (see also 'no-'. 'ná-'; 'ne-'; 'nó-')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "na-",
+      "laadan": "na-",
       "english": "to start to",
       "description": "",
       "classification": "duration marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ná-",
+      "laadan": "ná-",
       "english": "to continue to",
       "description": "Duration Marker: prefix for 'to continue to' Verb (see also 'na-'. 'no-'; 'ne-'; 'nó-')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ná-",
+      "laadan": "ná-",
       "english": "to continue to",
       "description": "",
       "classification": "duration marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náal",
+      "laadan": "náal",
       "english": "night",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nab",
+      "laadan": "nab",
       "english": "bramble",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náheb",
+      "laadan": "náheb",
       "english": "to decrease",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nahin",
+      "laadan": "nahin",
       "english": "to become",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nan",
+      "laadan": "nan",
       "english": "you",
       "description": "2nd person; many; beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nanáal",
+      "laadan": "nanáal",
       "english": "sunset",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náraheb",
+      "laadan": "náraheb",
       "english": "to increase",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náril",
+      "laadan": "náril",
       "english": "to feel internally",
       "description": "to fix your internal attention actively upon something; to-continue-to-present-time. Active internal feeling. I am feeling angry. (see loláad; passive internal feeling)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nárilim",
+      "laadan": "nárilim",
       "english": "to quest internally",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nasháal",
+      "laadan": "nasháal",
       "english": "dawn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nasháal",
+      "laadan": "nasháal",
       "english": "sunrise",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nath",
+      "laadan": "nath",
       "english": "price",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "natha",
+      "laadan": "natha",
       "english": "your",
       "description": "2nd person; singular; beloved; by reason of birth",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nathá",
+      "laadan": "nathá",
       "english": "buyer",
       "description": "professional buyer",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náwí",
+      "laadan": "náwí",
       "english": "growth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "náwí",
+      "laadan": "náwí",
       "english": "to grow",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "naya",
+      "laadan": "naya",
       "english": "to nurture",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "naya",
+      "laadan": "naya",
       "english": "to take care of",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "naya",
+      "laadan": "naya",
       "english": "to take care of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nayadi",
+      "laadan": "nayadi",
       "english": "blessing",
       "description": "general term (ath=benison)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nayadithal",
+      "laadan": "nayadithal",
       "english": "encouragement",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nayadithal",
+      "laadan": "nayadithal",
       "english": "to encourage",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nayahá",
+      "laadan": "nayahá",
       "english": "care-giver",
       "description": "caretaker of people",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nazh",
+      "laadan": "nazh",
       "english": "you",
       "description": "2nd person; severa;: beloved",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ne",
+      "laadan": "ne",
       "english": "you",
       "description": "2nd person; singular; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ne-",
+      "laadan": "ne-",
       "english": "to repeat",
       "description": "Duration Marker: prefix for 'to repeat' (see also 'na-'. 'ná-'; 'no-'; 'nó-')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ne-",
+      "laadan": "ne-",
       "english": "to repeat",
       "description": "",
       "classification": "duration marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neda",
+      "laadan": "neda",
       "english": "only",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nede",
+      "laadan": "nede",
       "english": "one",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nede",
+      "laadan": "nede",
       "english": "one",
       "description": 1,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "néde",
+      "laadan": "néde",
       "english": "to want",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "néde",
+      "laadan": "néde",
       "english": "to want",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedebe",
+      "laadan": "nedebe",
       "english": "to be few",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedebe",
+      "laadan": "nedebe",
       "english": "to be few; to be several",
       "description": "never change form or add case marker",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedebe",
+      "laadan": "nedebe",
       "english": "to be several",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedebenil",
+      "laadan": "nedebenil",
       "english": "among (few/several)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedebosh",
+      "laadan": "nedebosh",
       "english": "stick",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedeloth",
+      "laadan": "nedeloth",
       "english": "fact",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nédeshub",
+      "laadan": "nédeshub",
       "english": "intent",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nédeshubel",
+      "laadan": "nédeshubel",
       "english": "motivation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedethab",
+      "laadan": "nedethab",
       "english": "eleven",
       "description": 11,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nedeya",
+      "laadan": "nedeya",
       "english": "first",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "née",
+      "laadan": "née",
       "english": "to be alien",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "néehá",
+      "laadan": "néehá",
       "english": "alien",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nehena",
+      "laadan": "nehena",
       "english": "contentment despite negative circumstances",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nem",
+      "laadan": "nem",
       "english": "pearl",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nemeháalish",
+      "laadan": "nemeháalish",
       "english": "clitoris",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nen",
+      "laadan": "nen",
       "english": "you",
       "description": "2nd person; many; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neneth",
+      "laadan": "neneth",
       "english": "you",
       "description": "2nd person; many; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neril",
+      "laadan": "neril",
       "english": "to wait",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neril",
+      "laadan": "neril",
       "english": "wait",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neth",
+      "laadan": "neth",
       "english": "you",
       "description": "2nd person; singular; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neyóo",
+      "laadan": "neyóo",
       "english": "yourself",
       "description": "2nd person; singular; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neyóon",
+      "laadan": "neyóon",
       "english": "yourselves",
       "description": "2nd person; many; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "neyóozh",
+      "laadan": "neyóozh",
       "english": "yourselves",
       "description": "2nd person; several; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nezh",
+      "laadan": "nezh",
       "english": "you",
       "description": "2nd person; several; neutral",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nezheth",
+      "laadan": "nezheth",
       "english": "you",
       "description": "2nd person; several; neutral; object",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ni",
+      "laadan": "ni",
       "english": "cup",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ni",
+      "laadan": "ni",
       "english": "you",
       "description": "2nd person; singular; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nib",
+      "laadan": "nib",
       "english": "eight",
       "description": 8,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nibethab",
+      "laadan": "nibethab",
       "english": "eighteen",
       "description": 18,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nil",
+      "laadan": "nil",
       "english": "inside",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nil",
+      "laadan": "nil",
       "english": "inside",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nilewod",
+      "laadan": "nilewod",
       "english": "tampon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nime",
+      "laadan": "nime",
       "english": "be willing; will (not future tense)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nime",
+      "laadan": "nime",
       "english": "to be willing",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nin",
+      "laadan": "nin",
       "english": "causal",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nin",
+      "laadan": "nin",
       "english": "to cause",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nin",
+      "laadan": "nin",
       "english": "to cause",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nin",
+      "laadan": "nin",
       "english": "you",
       "description": "2nd person; many; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nina",
+      "laadan": "nina",
       "english": "contentment for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "niná",
+      "laadan": "niná",
       "english": "the one responsible",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ninálh",
+      "laadan": "ninálh",
       "english": "the one to blame",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nish",
+      "laadan": "nish",
       "english": "weed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nith",
+      "laadan": "nith",
       "english": "frost",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nithedim",
+      "laadan": "nithedim",
       "english": "refrigerator",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nithedimethóo",
+      "laadan": "nithedimethóo",
       "english": "refrigerator guest",
       "description": "a guest who shows up unannounced; comes on in & helps herself to whatever's in the 'fridge -- and that's a good thing  (See also: thóo; áathethóo; shineshidethóo; widadithethóo)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nizh",
+      "laadan": "nizh",
       "english": "you",
       "description": "2nd person; several; honored",
       "classification": "pronoun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "no-",
+      "laadan": "no-",
       "english": "to finish",
       "description": "Duration Marker: prefix for 'to finish'; completion (see also 'na-'. 'ná-'; 'ne-'; 'nó-')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "no-",
+      "laadan": "no-",
       "english": "to finish",
       "description": "to complete",
       "classification": "duration marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nó-",
+      "laadan": "nó-",
       "english": "to cease to",
       "description": "Duration Marker: prefix for 'to cease to' VERB (see also 'na-'. 'ná-'; 'ne-'; 'no-')",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nó-",
+      "laadan": "nó-",
       "english": "to cease to",
       "description": "",
       "classification": "duration marker",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nodal",
+      "laadan": "nodal",
       "english": "edge",
       "description": "non-sharp",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nohadal",
+      "laadan": "nohadal",
       "english": "to hem",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nohodáath",
+      "laadan": "nohodáath",
       "english": "rectum",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nol",
+      "laadan": "nol",
       "english": "on; upon",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "noline",
+      "laadan": "noline",
       "english": "angel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nolob",
+      "laadan": "nolob",
       "english": "to become full",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nona",
+      "laadan": "nona",
       "english": "contentment for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nonede",
+      "laadan": "nonede",
       "english": "a",
       "description": "the final one; the last one",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nonede",
+      "laadan": "nonede",
       "english": "the final one",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nonede",
+      "laadan": "nonede",
       "english": "the last one",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nóowid",
+      "laadan": "nóowid",
       "english": "to be big and little",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nori",
+      "laadan": "nori",
       "english": "to send",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nosháad",
+      "laadan": "nosháad",
       "english": "arrival",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nosháad",
+      "laadan": "nosháad",
       "english": "to arrive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nótháa",
+      "laadan": "nótháa",
       "english": "to cease to thrive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nu",
+      "laadan": "nu",
       "english": "here",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nu",
+      "laadan": "nu",
       "english": "here",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nu",
+      "laadan": "nu",
       "english": "here",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nub",
+      "laadan": "nub",
       "english": "mode",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "núháam",
+      "laadan": "núháam",
       "english": "to feel oneself cared for",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "núháam",
+      "laadan": "núháam",
       "english": "to feel oneself cherished",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "núháam",
+      "laadan": "núháam",
       "english": "to feel oneself nurtured by someone",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nuna",
+      "laadan": "nuna",
       "english": "contentment for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "nuthul",
+      "laadan": "nuthul",
       "english": "orphan",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "núu",
+      "laadan": "núu",
       "english": "there",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "núu",
+      "laadan": "núu",
       "english": "there",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "o",
+      "laadan": "o",
       "english": "around",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "o",
+      "laadan": "o",
       "english": "around",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oba",
+      "laadan": "oba",
       "english": "body",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oba",
+      "laadan": "oba",
       "english": "body",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obadom",
+      "laadan": "obadom",
       "english": "to body-remember",
       "description": "like remembering how to ride a bicycle",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéda",
+      "laadan": "obahéda",
       "english": "bodily secretion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthe",
+      "laadan": "obahéthe",
       "english": "a clean body",
       "description": "see obahéthewod; obahéthethib",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthe",
+      "laadan": "obahéthe",
       "english": "to clean ones body",
       "description": "see obahéthewod; obahéthethib",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthethib",
+      "laadan": "obahéthethib",
       "english": "shower",
       "description": "taking a shower, see obahéthe; obahéthewod",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthethib",
+      "laadan": "obahéthethib",
       "english": "to take a shower",
       "description": "see obahéthe; obahéthewod",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthewod",
+      "laadan": "obahéthewod",
       "english": "bath",
       "description": "see obahéthe; obahéthethib",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthewod",
+      "laadan": "obahéthewod",
       "english": "to bathe",
       "description": "see obahéthe; obahéthethib",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obahéthewod",
+      "laadan": "obahéthewod",
       "english": "to take a bath",
       "description": "see obahéthe; obahéthethib",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obe",
+      "laadan": "obe",
       "english": "through",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obe",
+      "laadan": "obe",
       "english": "through",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obed",
+      "laadan": "obed",
       "english": "cause; reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obedi",
+      "laadan": "obedi",
       "english": "to body-learn",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obedi",
+      "laadan": "obedi",
       "english": "to learn a skill",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obée",
+      "laadan": "obée",
       "english": "during",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obée",
+      "laadan": "obée",
       "english": "during (I work during the night. -> Bíi hal le náaleya obée wa.)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obeham",
+      "laadan": "obeham",
       "english": "altar",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obeth",
+      "laadan": "obeth",
       "english": "neighbor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "o = around, beth = home",
+      "breakdown": "o = around, beth = home",
       "notes": ""
     },
     {
-      "láadan": "obeyal",
+      "laadan": "obeyal",
       "english": "gold",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "obom",
+      "laadan": "obom",
       "english": "condom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "o = around, bom = penis",
+      "breakdown": "o = around, bom = penis",
       "notes": ""
     },
     {
-      "láadan": "od",
+      "laadan": "od",
       "english": "cloth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oda",
+      "laadan": "oda",
       "english": "arm",
       "description": "the body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odá",
+      "laadan": "odá",
       "english": "weaver",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odama",
+      "laadan": "odama",
       "english": "lip",
       "description": "of the mouth",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odama",
+      "laadan": "odama",
       "english": "lips",
       "description": "of the mouth",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odámála",
+      "laadan": "odámála",
       "english": "to caress with the lips",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odámála",
+      "laadan": "odámála",
       "english": "to kiss",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odayáaninetha",
+      "laadan": "odayáaninetha",
       "english": "branch",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odith",
+      "laadan": "odith",
       "english": "tongue",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odithámála",
+      "laadan": "odithámála",
       "english": "to caress with the tongue",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "odobeyal",
+      "laadan": "odobeyal",
       "english": "cloth-of-gold",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ódon",
+      "laadan": "ódon",
       "english": "cheese",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oham",
+      "laadan": "oham",
       "english": "love for that which is holy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oham",
+      "laadan": "oham",
       "english": "to love",
       "description": "love for that which is holy",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohamedi",
+      "laadan": "ohamedi",
       "english": "prayer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohehena",
+      "laadan": "ohehena",
       "english": "respect despite negative circumstances",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohena",
+      "laadan": "ohena",
       "english": "respect for good reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohina",
+      "laadan": "ohina",
       "english": "respect for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Oho",
+      "laadan": "Oho",
       "english": "you're welcome (polite phrase)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohona",
+      "laadan": "ohona",
       "english": "respect for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ohuna",
+      "laadan": "ohuna",
       "english": "respect for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ol",
+      "laadan": "ol",
       "english": "to store",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olanin",
+      "laadan": "olanin",
       "english": "to practice",
       "description": "ulanin=to study",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olim",
+      "laadan": "olim",
       "english": "heaven",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olim",
+      "laadan": "olim",
       "english": "paradise",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olimeha",
+      "laadan": "olimeha",
       "english": "in heaven",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olin",
+      "laadan": "olin",
       "english": "forest",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olin",
+      "laadan": "olin",
       "english": "woods",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olob",
+      "laadan": "olob",
       "english": "blow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olob",
+      "laadan": "olob",
       "english": "hit",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olob",
+      "laadan": "olob",
       "english": "strike",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olob",
+      "laadan": "olob",
       "english": "trauma",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olobeshara",
+      "laadan": "olobeshara",
       "english": "depression as result of major trauma",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oloth",
+      "laadan": "oloth",
       "english": "skill",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "olowod",
+      "laadan": "olowod",
       "english": "group",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "om",
+      "laadan": "om",
       "english": "to teach",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oma",
+      "laadan": "oma",
       "english": "hand",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oma",
+      "laadan": "oma",
       "english": "hand",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "omá",
+      "laadan": "omá",
       "english": "teacher",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "om = to teach",
+      "breakdown": "om = to teach",
       "notes": ""
     },
     {
-      "láadan": "omamid",
+      "laadan": "omamid",
       "english": "ape",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "oma = hand, mid = creature",
+      "breakdown": "oma = hand, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "omid",
+      "laadan": "omid",
       "english": "horse",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "o = around, mid = creature",
+      "breakdown": "o = around, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "on",
+      "laadan": "on",
       "english": "head",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ona",
+      "laadan": "ona",
       "english": "face",
       "description": "body part",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ona",
+      "laadan": "ona",
       "english": "face",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onabel",
+      "laadan": "onabel",
       "english": "mask",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ona = face",
+      "breakdown": "ona = face",
       "notes": ""
     },
     {
-      "láadan": "onabel",
+      "laadan": "onabel",
       "english": "to mask",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onelal",
+      "laadan": "onelal",
       "english": "cream",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onethud",
+      "laadan": "onethud",
       "english": "antler",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onethud",
+      "laadan": "onethud",
       "english": "horn",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onida",
+      "laadan": "onida",
       "english": "family",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onida",
+      "laadan": "onida",
       "english": "family",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onidahéthe",
+      "laadan": "onidahéthe",
       "english": "family-clean",
       "description": "the usual state of affairs  (See also: éthe; háawithéthe; huhéthe; mudahéthe; thóohéthe)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "onidahéthe",
+      "laadan": "onidahéthe",
       "english": "to be family-clean",
       "description": "the usual state of affairs  (See also: éthe; háawithéthe; huhéthe; mudahéthe; thóohéthe)",
       "classification": "intransitive verb",
-      "wordBreakdown": "onida = family, éthe = clean",
+      "breakdown": "onida = family, éthe = clean",
       "notes": ""
     },
     {
-      "láadan": "onin",
+      "laadan": "onin",
       "english": "nurse",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oób",
+      "laadan": "oób",
       "english": "to jump",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óob",
+      "laadan": "óob",
       "english": "oven",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoba",
+      "laadan": "óoba",
       "english": "leg",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óobe",
+      "laadan": "óobe",
       "english": "along",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oódóo",
+      "laadan": "oódóo",
       "english": "bridge",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoha",
+      "laadan": "óoha",
       "english": "to be tired",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoha",
+      "laadan": "óoha",
       "english": "to be tired",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoha",
+      "laadan": "óoha",
       "english": "to be weary",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoha",
+      "laadan": "óoha",
       "english": "to be weary",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óol",
+      "laadan": "óol",
       "english": "moon",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óol",
+      "laadan": "óol",
       "english": "moon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoletham",
+      "laadan": "óoletham",
       "english": "coven",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoletham",
+      "laadan": "óoletham",
       "english": "worship circle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óolewil",
+      "laadan": "óolewil",
       "english": "menstrual blood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óolewod",
+      "laadan": "óolewod",
       "english": "sanitary napkin",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoloó",
+      "laadan": "óoloó",
       "english": "moth",
       "description": "animal, butterfly=áalaá pattern using moon=óol",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óom",
+      "laadan": "óom",
       "english": "to mourn",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óom",
+      "laadan": "óom",
       "english": "to mourn",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoma",
+      "laadan": "óoma",
       "english": "foot",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óomasháad",
+      "laadan": "óomasháad",
       "english": "walk",
       "description": "go on/by foot",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óomi",
+      "laadan": "óomi",
       "english": "shoe",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óosholan",
+      "laadan": "óosholan",
       "english": "alone with grief",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óotha",
+      "laadan": "óotha",
       "english": "soul",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óothadama",
+      "laadan": "óothadama",
       "english": "rapport",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óothadama",
+      "laadan": "óothadama",
       "english": "to experience rapport",
       "description": "(AH)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óothanuthul",
+      "laadan": "óothanuthul",
       "english": "spiritual orphanhood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óothanuthul",
+      "laadan": "óothanuthul",
       "english": "to be utterly bereft of a spiritual community",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óothasháal",
+      "laadan": "óothasháal",
       "english": "regular self-time",
       "description": "daily; weekly; or monthly",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowa",
+      "laadan": "óowa",
       "english": "fire",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowa",
+      "laadan": "óowa",
       "english": "fire",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowáanin",
+      "laadan": "óowáanin",
       "english": "redwood",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowabo",
+      "laadan": "óowabo",
       "english": "volcano",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowabobin",
+      "laadan": "óowabobin",
       "english": "volcanic crater",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óowamid",
+      "laadan": "óowamid",
       "english": "dragon",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "óowa = fire, mid = creature",
+      "breakdown": "óowa = fire, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "óoya",
+      "laadan": "óoya",
       "english": "heart",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyaáláan",
+      "laadan": "óoyaáláan",
       "english": "heartbeat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyaáláan",
+      "laadan": "óoyaáláan",
       "english": "pulse",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyaha oma",
+      "laadan": "óoyaha oma",
       "english": "palm of the hand",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyahonetha",
+      "laadan": "óoyahonetha",
       "english": "mind",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyasháal",
+      "laadan": "óoyasháal",
       "english": "time of greatest energy each day",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óoyo",
+      "laadan": "óoyo",
       "english": "mouth",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óozh",
+      "laadan": "óozh",
       "english": "comset",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "óozhá",
+      "laadan": "óozhá",
       "english": "comset technician",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osh",
+      "laadan": "osh",
       "english": "to weave",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osháana",
+      "laadan": "osháana",
       "english": "menstrual",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osháana",
+      "laadan": "osháana",
       "english": "menstrual",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osháana",
+      "laadan": "osháana",
       "english": "menstruation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osháana",
+      "laadan": "osháana",
       "english": "to menstruate",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "osháana",
+      "laadan": "osháana",
       "english": "to menstruate",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oshetham",
+      "laadan": "oshetham",
       "english": "wreath",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oth",
+      "laadan": "oth",
       "english": "to be important",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Othe",
+      "laadan": "Othe",
       "english": "Amen",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Othe",
+      "laadan": "Othe",
       "english": "end of prayer phrase",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Othe",
+      "laadan": "Othe",
       "english": "Selah",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "othel",
+      "laadan": "othel",
       "english": "blessed place",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "othel",
+      "laadan": "othel",
       "english": "holy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "othel",
+      "laadan": "othel",
       "english": "to be blessed",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owa",
+      "laadan": "owa",
       "english": "hot",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owa",
+      "laadan": "owa",
       "english": "to be hot",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owa",
+      "laadan": "owa",
       "english": "to be warm",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owa",
+      "laadan": "owa",
       "english": "to be warm",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owáano",
+      "laadan": "owáano",
       "english": "therefore",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owahúuzh",
+      "laadan": "owahúuzh",
       "english": "blanket",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owe",
+      "laadan": "owe",
       "english": "dress",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owe",
+      "laadan": "owe",
       "english": "gown",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owehid",
+      "laadan": "owehid",
       "english": "men's clothing",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owehid",
+      "laadan": "owehid",
       "english": "men's garment",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "owo",
+      "laadan": "owo",
       "english": "labia",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oya",
+      "laadan": "oya",
       "english": "flesh",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oya",
+      "laadan": "oya",
       "english": "skin",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyabod",
+      "laadan": "oyabod",
       "english": "outline",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyabod",
+      "laadan": "oyabod",
       "english": "silhouette",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyada",
+      "laadan": "oyada",
       "english": "to itch",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyi",
+      "laadan": "oyi",
       "english": "eye",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyimahina",
+      "laadan": "oyimahina",
       "english": "violet",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyo",
+      "laadan": "oyo",
       "english": "nose",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "oyu",
+      "laadan": "oyu",
       "english": "ear",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ozh",
+      "laadan": "ozh",
       "english": "dream",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ozh",
+      "laadan": "ozh",
       "english": "to dream",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ozhi",
+      "laadan": "ozhi",
       "english": "melon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ra",
+      "laadan": "ra",
       "english": "no",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ra",
+      "laadan": "ra",
       "english": "no; not (interjection); To make a sentence negative; put ra right after the verb.",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ra",
+      "laadan": "ra",
       "english": "not",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ra-",
+      "laadan": "ra-",
       "english": "non",
       "description": "non-",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráahedethi",
+      "laadan": "ráahedethi",
       "english": "to be empathically impaired",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráahedethi",
+      "laadan": "ráahedethi",
       "english": "to be unable to feel lowitheláad",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráahedethilh",
+      "laadan": "ráahedethilh",
       "english": "to be deliberately empathically impaired",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráahedethilh",
+      "laadan": "ráahedethilh",
       "english": "to be unwilling to feel lowitheláad",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráalehale",
+      "laadan": "ráalehale",
       "english": "to be musically or euphonically deprived",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ráatham",
+      "laadan": "ráatham",
       "english": "command room",
       "description": "for war",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabalh",
+      "laadan": "rabalh",
       "english": "reek",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabalh",
+      "laadan": "rabalh",
       "english": "stink",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabalh",
+      "laadan": "rabalh",
       "english": "to reek",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabalh",
+      "laadan": "rabalh",
       "english": "to stink",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabalin",
+      "laadan": "rabalin",
       "english": "to be young",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, balin = to be young",
+      "breakdown": "ra = non-, balin = to be young",
       "notes": ""
     },
     {
-      "láadan": "raban",
+      "laadan": "raban",
       "english": "to take away from",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, ban = to give",
+      "breakdown": "ra = non-, ban = to give",
       "notes": ""
     },
     {
-      "láadan": "rabinilh",
+      "laadan": "rabinilh",
       "english": "gift with strings attached",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, bini = gift",
+      "breakdown": "ra = not, bini = gift",
       "notes": ""
     },
     {
-      "láadan": "rabo",
+      "laadan": "rabo",
       "english": "flat plain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, bo = mountain",
+      "breakdown": "ra = not, bo = mountain",
       "notes": ""
     },
     {
-      "láadan": "rabo",
+      "laadan": "rabo",
       "english": "plain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, bo = mountain",
+      "breakdown": "ra = not, bo = mountain",
       "notes": ""
     },
     {
-      "láadan": "rabobosh",
+      "laadan": "rabobosh",
       "english": "floor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rabohí",
+      "laadan": "rabohí",
       "english": "to be long",
       "description": "length",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, bohí = to be short",
+      "breakdown": "ra = non-, bohí = to be short",
       "notes": ""
     },
     {
-      "láadan": "raboósh",
+      "laadan": "raboósh",
       "english": "straight",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, boósh = curve",
+      "breakdown": "ra = not, boósh = curve",
       "notes": ""
     },
     {
-      "láadan": "raboósh",
+      "laadan": "raboósh",
       "english": "to be straight",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, boósh = to be curved",
+      "breakdown": "ra = non-, boósh = to be curved",
       "notes": ""
     },
     {
-      "láadan": "rad",
+      "laadan": "rad",
       "english": "node",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radal",
+      "laadan": "radal",
       "english": "nothing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dal = thing",
+      "breakdown": "ra = not, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "radama",
+      "laadan": "radama",
       "english": "to actively refrain from touching",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radama",
+      "laadan": "radama",
       "english": "to avoiding touch",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radama",
+      "laadan": "radama",
       "english": "to non-touch",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radamalh",
+      "laadan": "radamalh",
       "english": "to non-touch with evil intent",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radazh",
+      "laadan": "radazh",
       "english": "to be firm",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dazh = to be soft",
+      "breakdown": "ra = non-, dazh = to be soft",
       "notes": ""
     },
     {
-      "láadan": "radazh",
+      "laadan": "radazh",
       "english": "to be hard",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dazh = to be soft",
+      "breakdown": "ra = non-, dazh = to be soft",
       "notes": ""
     },
     {
-      "láadan": "radéela",
+      "laadan": "radéela",
       "english": "non-garden",
       "description": "glitz without beauty; a place that has much flash and glitter and ornament; but no beauty",
       "classification": "noun",
-      "wordBreakdown": "ra = not, déela = garden",
+      "breakdown": "ra = not, déela = garden",
       "notes": ""
     },
     {
-      "láadan": "raden",
+      "laadan": "raden",
       "english": "without",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radena",
+      "laadan": "radena",
       "english": "unfriendliness for good reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dena = friendliness for good reasons",
+      "breakdown": "ra = not, dena = friendliness for good reasons",
       "notes": ""
     },
     {
-      "láadan": "radezh",
+      "laadan": "radezh",
       "english": "difficult",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "radezh",
+      "laadan": "radezh",
       "english": "to be difficult",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dazh = to be soft",
+      "breakdown": "ra = non-, dazh = to be soft",
       "notes": ""
     },
     {
-      "láadan": "radiídin",
+      "laadan": "radiídin",
       "english": "non-holiday",
       "description": "holiday more work than it is worth; a time allegedly a holiday but actually so much a burden because of work and preparations that it is a dreaded occasion; especially when there are too many guests and none of them help",
       "classification": "noun",
-      "wordBreakdown": "ra = not, diídin = holiday",
+      "breakdown": "ra = not, diídin = holiday",
       "notes": ""
     },
     {
-      "láadan": "radimil",
+      "laadan": "radimil",
       "english": "to be plain",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dimil = to be lavish",
+      "breakdown": "ra = non-, dimil = to be lavish",
       "notes": ""
     },
     {
-      "láadan": "radimil",
+      "laadan": "radimil",
       "english": "to be simple",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dimil = to be lavish",
+      "breakdown": "ra = non-, dimil = to be lavish",
       "notes": ""
     },
     {
-      "láadan": "radimil",
+      "laadan": "radimil",
       "english": "to be unadorned",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dimil = to be lavish",
+      "breakdown": "ra = non-, dimil = to be lavish",
       "notes": ""
     },
     {
-      "láadan": "radina",
+      "laadan": "radina",
       "english": "unfriendliness for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dina = frustration without reason",
+      "breakdown": "ra = not, dina = frustration without reason",
       "notes": ""
     },
     {
-      "láadan": "rado",
+      "laadan": "rado",
       "english": "to be weak",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, do = to be strong",
+      "breakdown": "ra = non-, do = to be strong",
       "notes": ""
     },
     {
-      "láadan": "radodelh",
+      "laadan": "radodelh",
       "english": "non-interface",
       "description": "a situation which has not one single point in common on which to base interaction; often used of personal relationships",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dodel = interface",
+      "breakdown": "ra = not, dodel = interface",
       "notes": ""
     },
     {
-      "láadan": "radona",
+      "laadan": "radona",
       "english": "unfriendliness for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dona = friendliness for foolish reasons",
+      "breakdown": "ra = not, dona = friendliness for foolish reasons",
       "notes": ""
     },
     {
-      "láadan": "raduna",
+      "laadan": "raduna",
       "english": "unfriendliness for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, duna = friendliness for bad reasons",
+      "breakdown": "ra = not, duna = friendliness for bad reasons",
       "notes": ""
     },
     {
-      "láadan": "raduth",
+      "laadan": "raduth",
       "english": "to non-use",
       "description": "to deliberately deprive someone of any useful function in the world; as in enforced retirement or when a human being is kept as a plaything or a pet",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, duth = to use",
+      "breakdown": "ra = non-, duth = to use",
       "notes": ""
     },
     {
-      "láadan": "radutha",
+      "laadan": "radutha",
       "english": "to not-heal",
       "description": "medicine or treatment which does not heal",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, dutha = to heal",
+      "breakdown": "ra = non-, dutha = to heal",
       "notes": ""
     },
     {
-      "láadan": "raduthahá",
+      "laadan": "raduthahá",
       "english": "not-healer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, dutha = medicine, -á = doer",
+      "breakdown": "ra = not, dutha = medicine, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "raduthahálh",
+      "laadan": "raduthahálh",
       "english": "non-healer with evil intent",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ra = not, dutha = medicine, -á = doer, -lh = bad",
+      "breakdown": "ra = not, ra = not, dutha = medicine, -á = doer, -lh = bad",
       "notes": ""
     },
     {
-      "láadan": "raháana",
+      "laadan": "raháana",
       "english": "insomnia",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, áana = sleep",
+      "breakdown": "ra = not, áana = sleep",
       "notes": ""
     },
     {
-      "láadan": "rahabelhid",
+      "laadan": "rahabelhid",
       "english": "to exile",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahabelhidá",
+      "laadan": "rahabelhidá",
       "english": "exile",
       "description": "an exiled person",
       "classification": "noun",
-      "wordBreakdown": "ra = not, habelid = to inhabit, -á = doer",
+      "breakdown": "ra = not, habelid = to inhabit, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "rahabelhidá",
+      "laadan": "rahabelhidá",
       "english": "outcast",
       "description": "an exiled person",
       "classification": "noun",
-      "wordBreakdown": "ra = not, habelid = to inhabit, -á = doer",
+      "breakdown": "ra = not, habelid = to inhabit, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "rahadidad",
+      "laadan": "rahadidad",
       "english": "never",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahadihad",
+      "laadan": "rahadihad",
       "english": "never",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahahí",
+      "laadan": "rahahí",
       "english": "to be long-lived",
       "description": "time",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, hahí = to be brief",
+      "breakdown": "ra = non-, hahí = to be brief",
       "notes": ""
     },
     {
-      "láadan": "rahahí",
+      "laadan": "rahahí",
       "english": "to be temporally extensive",
       "description": "time",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, hahí = to be brief",
+      "breakdown": "ra = non-, hahí = to be brief",
       "notes": ""
     },
     {
-      "láadan": "rahana",
+      "laadan": "rahana",
       "english": "famine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ana = food",
+      "breakdown": "ra = not, ana = food",
       "notes": ""
     },
     {
-      "láadan": "rahana",
+      "laadan": "rahana",
       "english": "junk food",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ana = food",
+      "breakdown": "ra = not, ana = food",
       "notes": ""
     },
     {
-      "láadan": "rahath",
+      "laadan": "rahath",
       "english": "never",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raheb",
+      "laadan": "raheb",
       "english": "a hoard",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raheb",
+      "laadan": "raheb",
       "english": "to hoard",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raheb",
+      "laadan": "raheb",
       "english": "up",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raheb",
+      "laadan": "raheb",
       "english": "up",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahed",
+      "laadan": "rahed",
       "english": "gadget",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ed = tool",
+      "breakdown": "ra = not, ed = tool",
       "notes": ""
     },
     {
-      "láadan": "rahed",
+      "laadan": "rahed",
       "english": "useless non-tool",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ed = tool",
+      "breakdown": "ra = not, ed = tool",
       "notes": ""
     },
     {
-      "láadan": "rahéeda",
+      "laadan": "rahéeda",
       "english": "accursed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, héeda = holy",
+      "breakdown": "ra = not, héeda = holy",
       "notes": ""
     },
     {
-      "láadan": "rahéeda",
+      "laadan": "rahéeda",
       "english": "to be accursed",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, héeda = to be holy",
+      "breakdown": "ra = non-, héeda = to be holy",
       "notes": ""
     },
     {
-      "láadan": "rahéeda",
+      "laadan": "rahéeda",
       "english": "to be unholy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, héeda = to be holy",
+      "breakdown": "ra = non-, héeda = to be holy",
       "notes": ""
     },
     {
-      "láadan": "rahéeda",
+      "laadan": "rahéeda",
       "english": "unholy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, héeda = holy",
+      "breakdown": "ra = not, héeda = holy",
       "notes": ""
     },
     {
-      "láadan": "rahéedan",
+      "laadan": "rahéedan",
       "english": "to mistranslate",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahéelhedan",
+      "laadan": "rahéelhedan",
       "english": "to deliberately mistranslate with evil intent",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahéena",
+      "laadan": "rahéena",
       "english": "non-heart-sibling",
       "description": "one so entirely incompatible with another that there is no hope of ever achieving any kind of understanding or anything more than a truce; and no hope of ever making such a one understand why; (does not mean enemy)",
       "classification": "noun",
-      "wordBreakdown": "ra = not, héena = sibling of the heart",
+      "breakdown": "ra = not, héena = sibling of the heart",
       "notes": ""
     },
     {
-      "láadan": "rahen",
+      "laadan": "rahen",
       "english": "misunderstanding",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, en = to understand",
+      "breakdown": "ra = not, en = to understand",
       "notes": ""
     },
     {
-      "láadan": "rahen",
+      "laadan": "rahen",
       "english": "to misunderstand",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahesh",
+      "laadan": "rahesh",
       "english": "to be irresponsible",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, áhesh = to be responsible",
+      "breakdown": "ra = non-, áhesh = to be responsible",
       "notes": ""
     },
     {
-      "láadan": "rahéthe",
+      "laadan": "rahéthe",
       "english": "to be dirty",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, éthe = to be clean",
+      "breakdown": "ra = non-, éthe = to be clean",
       "notes": ""
     },
     {
-      "láadan": "rahib",
+      "laadan": "rahib",
       "english": "non-crime",
       "description": "a terrible thing done because it's necessary but for which there is no blame because there is no choice (never an accident);",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ib = crime",
+      "breakdown": "ra = not, ib = crime",
       "notes": ""
     },
     {
-      "láadan": "rahil",
+      "laadan": "rahil",
       "english": "to ignore",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahil",
+      "laadan": "rahil",
       "english": "to non-attend",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahil",
+      "laadan": "rahil",
       "english": "to withhold attention",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahilh",
+      "laadan": "rahilh",
       "english": "to ignore with evil intent",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahilh",
+      "laadan": "rahilh",
       "english": "to non-attend with evil intent",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahilh",
+      "laadan": "rahilh",
       "english": "to withhold attention with evil intent",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahith",
+      "laadan": "rahith",
       "english": "darkness",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, ith = light",
+      "breakdown": "ra = not, ith = light",
       "notes": ""
     },
     {
-      "láadan": "rahíya",
+      "laadan": "rahíya",
       "english": "to be big",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, híya = to be small",
+      "breakdown": "ra = non-, híya = to be small",
       "notes": ""
     },
     {
-      "láadan": "rahíya",
+      "laadan": "rahíya",
       "english": "to be large",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, híya = to be small",
+      "breakdown": "ra = non-, híya = to be small",
       "notes": ""
     },
     {
-      "láadan": "rahíyamesh",
+      "laadan": "rahíyamesh",
       "english": "wide",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, híyamesh = narrow",
+      "breakdown": "ra = not, híyamesh = narrow",
       "notes": ""
     },
     {
-      "láadan": "rahíyamesh",
+      "laadan": "rahíyamesh",
       "english": "wide",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahobeth",
+      "laadan": "rahobeth",
       "english": "non-neighbor",
       "description": "one who lives nearby but does not fulfill a neighbor's role (not necessarily pejorative)",
       "classification": "noun",
-      "wordBreakdown": "ra = not, obeth = neighbor",
+      "breakdown": "ra = not, obeth = neighbor",
       "notes": ""
     },
     {
-      "láadan": "rahobeyal",
+      "laadan": "rahobeyal",
       "english": "fool's gold",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, obeyal = gold",
+      "breakdown": "ra = not, obeyal = gold",
       "notes": ""
     },
     {
-      "láadan": "rahol",
+      "laadan": "rahol",
       "english": "to squander",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahol",
+      "laadan": "rahol",
       "english": "to waste",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahom",
+      "laadan": "rahom",
       "english": "to non-teach",
       "description": "to deliberately fill students' minds with empty data or false information; (can be used only of persons in a teacher/student relationship);",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, om = to teach",
+      "breakdown": "ra = non-, om = to teach",
       "notes": ""
     },
     {
-      "láadan": "rahoth",
+      "laadan": "rahoth",
       "english": "nowhere",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not, hoth = place",
+      "breakdown": "ra = not, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "rahoth",
+      "laadan": "rahoth",
       "english": "nowhere",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rahowa",
+      "laadan": "rahowa",
       "english": "to be cold",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, owa = to be hot",
+      "breakdown": "ra = non-, owa = to be hot",
       "notes": ""
     },
     {
-      "láadan": "rahu",
+      "laadan": "rahu",
       "english": "to be closed",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, u = to be open",
+      "breakdown": "ra = non-, u = to be open",
       "notes": ""
     },
     {
-      "láadan": "rahub",
+      "laadan": "rahub",
       "english": "irritant substance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rahulh",
+      "laadan": "rahulh",
       "english": "slave",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raláad",
+      "laadan": "raláad",
       "english": "to non-perceive",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raláadá",
+      "laadan": "raláadá",
       "english": "non-perceiver",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raláadá",
+      "laadan": "raláadá",
       "english": "one who fails to perceive",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raláadálh",
+      "laadan": "raláadálh",
       "english": "non-perceiver with evil intent",
       "description": "one who fails to perceive deliberately and with evil intent",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raláadálh",
+      "laadan": "raláadálh",
       "english": "one who fails to perceive deliberately and with evil intent",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralaheb",
+      "laadan": "ralaheb",
       "english": "something bland",
       "description": "like warm spit; repulsively bland and blah",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralaheb",
+      "laadan": "ralaheb",
       "english": "something utterly spiceless",
       "description": "like warm spit; repulsively bland and blah",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralali",
+      "laadan": "ralali",
       "english": "drought",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralámálha",
+      "laadan": "ralámálha",
       "english": "tactile deprivation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralath",
+      "laadan": "ralath",
       "english": "to be celibate not by choice",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, lath = to be celibate by choice",
+      "breakdown": "ra = non-, lath = to be celibate by choice",
       "notes": ""
     },
     {
-      "láadan": "ralée-",
+      "laadan": "ralée-",
       "english": "",
       "description": "non-meta ; something absurdly or dangerously narrow in scope or range",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ralh",
+      "laadan": "ralh",
       "english": "rape",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralh",
+      "laadan": "ralh",
       "english": "to rape",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ralhewedeth",
+      "laadan": "ralhewedeth",
       "english": "to obfuscate",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ralhoham",
+      "laadan": "ralhoham",
       "english": "love for evil",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raliha",
+      "laadan": "raliha",
       "english": "pitcher",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralili",
+      "laadan": "ralili",
       "english": "to be dry",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, lili = to be wet",
+      "breakdown": "ra = non-, lili = to be wet",
       "notes": ""
     },
     {
-      "láadan": "ralith",
+      "laadan": "ralith",
       "english": "to deliberately refrain from thinking about something",
       "description": "to deliberately refrain from thinking about something; to wall it off in one's mind by deliberate act",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ralith",
+      "laadan": "ralith",
       "english": "to wall something off in one’s mind",
       "description": "to deliberately refrain from thinking about something; to wall it off in one's mind by deliberate act",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ralod",
+      "laadan": "ralod",
       "english": "anarchy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralóolo",
+      "laadan": "ralóolo",
       "english": "to be fast",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, lóolo = to be slow",
+      "breakdown": "ra = non-, lóolo = to be slow",
       "notes": ""
     },
     {
-      "láadan": "ralorolo",
+      "laadan": "ralorolo",
       "english": "non-thunder",
       "description": "much talk and commotion from one (or more) with no real knowledge of what they're talking about or trying to do; something like hot air but more so",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ralosh",
+      "laadan": "ralosh",
       "english": "bankruptcy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raloth",
+      "laadan": "raloth",
       "english": "ignorance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ram",
+      "laadan": "ram",
       "english": "presence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ramaha",
+      "laadan": "ramaha",
       "english": "absence of sexual desire",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raména",
+      "laadan": "raména",
       "english": "callousness for good reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raména",
+      "laadan": "raména",
       "english": "to be callous",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "raména",
+      "laadan": "raména",
       "english": "to disregard",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramihí",
+      "laadan": "ramihí",
       "english": "to be large",
       "description": "area",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, mihí = to be small",
+      "breakdown": "ra = non-, mihí = to be small",
       "notes": ""
     },
     {
-      "láadan": "ramíili",
+      "laadan": "ramíili",
       "english": "evil",
       "description": "theological",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ramíilide",
+      "laadan": "ramíilide",
       "english": "from evil (theological)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramime",
+      "laadan": "ramime",
       "english": "to refrain from asking",
       "description": "out of courtesy or kindness",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, mime = to ask",
+      "breakdown": "ra = non-, mime = to ask",
       "notes": ""
     },
     {
-      "láadan": "ramimelh",
+      "laadan": "ramimelh",
       "english": "to refrain from asking with evil intent",
       "description": "especially when it is clear that someone badly wants the other to ask",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, mime = to ask, -lh = bad",
+      "breakdown": "ra = non-, mime = to ask, -lh = bad",
       "notes": ""
     },
     {
-      "láadan": "ramína",
+      "laadan": "ramína",
       "english": "callousness for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ramína",
+      "laadan": "ramína",
       "english": "to be callous for no reason",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramína",
+      "laadan": "ramína",
       "english": "to disregard for no reason",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramóna",
+      "laadan": "ramóna",
       "english": "callousness for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ramóna",
+      "laadan": "ramóna",
       "english": "to be callous for foolish reasons",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramóna",
+      "laadan": "ramóna",
       "english": "to disregard for foolish reasons",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramúna",
+      "laadan": "ramúna",
       "english": "callousness for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ramúna",
+      "laadan": "ramúna",
       "english": "to be callous for bad reasons",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ramúna",
+      "laadan": "ramúna",
       "english": "to disregard for bad reasons",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ran",
+      "laadan": "ran",
       "english": "typewriter",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rana",
+      "laadan": "rana",
       "english": "beverage",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rana",
+      "laadan": "rana",
       "english": "beverage",
       "description": "rilin=to drink",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rana",
+      "laadan": "rana",
       "english": "drink",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rana",
+      "laadan": "rana",
       "english": "drink",
       "description": "rilin=to drink",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rana",
+      "laadan": "rana",
       "english": "to drink",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ranahá",
+      "laadan": "ranahá",
       "english": "alcoholic",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ranahá",
+      "laadan": "ranahá",
       "english": "drinker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ranal",
+      "laadan": "ranal",
       "english": "no how; in no way",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ranem",
+      "laadan": "ranem",
       "english": "non-pearl",
       "description": "an ugly resentment or situation which worsens & festers; an ugly thing one builds layer by layer as an oyster does a pearl; such as a festering hatred to which one pays attention",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raneran",
+      "laadan": "raneran",
       "english": "computer printer",
       "description": "computer",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "raneran",
+      "laadan": "raneran",
       "english": "printer",
       "description": "computer",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rani",
+      "laadan": "rani",
       "english": "non-cup",
       "description": "a hollow accomplishment; something one acquires or receives or accomplishes but is empty of all satisfaction",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ranil",
+      "laadan": "ranil",
       "english": "out",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ranil",
+      "laadan": "ranil",
       "english": "outside",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ranil",
+      "laadan": "ranil",
       "english": "outside",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "ranil",
+      "laadan": "ranil",
       "english": "outside; out",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ranime",
+      "laadan": "ranime",
       "english": "to be unwilling",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, nime = to be willing",
+      "breakdown": "ra = non-, nime = to be willing",
       "notes": ""
     },
     {
-      "láadan": "ranonede",
+      "laadan": "ranonede",
       "english": "to be infinite",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, nonede = the last one",
+      "breakdown": "ra = non-, nonede = the last one",
       "notes": ""
     },
     {
-      "láadan": "rarilh",
+      "laadan": "rarilh",
       "english": "to deliberately refrain from recording",
       "description": "for example; the failure throughout history to record the accomplishments of women",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rarulh",
+      "laadan": "rarulh",
       "english": "non-synergy",
       "description": "that which when combined only makes things worse; less efficient; etc.",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rasha",
+      "laadan": "rasha",
       "english": "discord",
       "description": "not discord in the home",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashe",
+      "laadan": "rashe",
       "english": "to torment",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rasheb",
+      "laadan": "rasheb",
       "english": "resistence to change",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashelh",
+      "laadan": "rashelh",
       "english": "to torture",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rashelith",
+      "laadan": "rashelith",
       "english": "worry",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashenidal",
+      "laadan": "rashenidal",
       "english": "bureaucracy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashida",
+      "laadan": "rashida",
       "english": "non-game",
       "description": "a cruel playing that is a game only for the dominant player with the power to force others to participate",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashim",
+      "laadan": "rashim",
       "english": "celibacy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashimá",
+      "laadan": "rashimá",
       "english": "a celibate person",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "argument",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "fight",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "quarrel",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "to argue",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, shon = peace",
+      "breakdown": "ra = non-, shon = peace",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "to fight",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, shon = peace",
+      "breakdown": "ra = non-, shon = peace",
       "notes": ""
     },
     {
-      "láadan": "rashon",
+      "laadan": "rashon",
       "english": "to quarrel",
       "description": "not used of an 'argument' in a theory or an equation or a proposition",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, shon = peace",
+      "breakdown": "ra = non-, shon = peace",
       "notes": ""
     },
     {
-      "láadan": "rashonelh",
+      "laadan": "rashonelh",
       "english": "war",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashonelhá",
+      "laadan": "rashonelhá",
       "english": "aggressor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rashonelhá",
+      "laadan": "rashonelhá",
       "english": "attacker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathal",
+      "laadan": "rathal",
       "english": "to be bad",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, thal = good",
+      "breakdown": "ra = non-, thal = good",
       "notes": ""
     },
     {
-      "láadan": "rathena",
+      "laadan": "rathena",
       "english": "despair for good reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathina",
+      "laadan": "rathina",
       "english": "despair for no reason",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathom",
+      "laadan": "rathom",
       "english": "non-pillow",
       "description": "one who lures another to trust and rely on them but has no intention of following through; a lean on me so I can step aside and let you fall person",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathona",
+      "laadan": "rathona",
       "english": "despair for foolish reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathóo",
+      "laadan": "rathóo",
       "english": "non-guest",
       "description": "someone who comes to visit knowing perfectly well that they are intruding and causing difficulty",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rathuna",
+      "laadan": "rathuna",
       "english": "despair for bad reasons",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawan",
+      "laadan": "rawan",
       "english": "chest",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawedeth",
+      "laadan": "rawedeth",
       "english": "to be murky",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, wedeth = to be clear",
+      "breakdown": "ra = non-, wedeth = to be clear",
       "notes": ""
     },
     {
-      "láadan": "rawedeth",
+      "laadan": "rawedeth",
       "english": "to be obscure",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, wedeth = to be clear",
+      "breakdown": "ra = non-, wedeth = to be clear",
       "notes": ""
     },
     {
-      "láadan": "raweshalh",
+      "laadan": "raweshalh",
       "english": "non-gestalt",
       "description": "a collection of parts with no relationship other than coincidence; a perverse choice of items to call a set; especially when used as evidence",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawihi",
+      "laadan": "rawihi",
       "english": "emotionlessness",
       "description": "NOT a complimentary term",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawíi",
+      "laadan": "rawíi",
       "english": "to be dead",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, wíi = to be alive",
+      "breakdown": "ra = non-, wíi = to be alive",
       "notes": ""
     },
     {
-      "láadan": "rawith",
+      "laadan": "rawith",
       "english": "nobody",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawoho",
+      "laadan": "rawoho",
       "english": "none",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawoho",
+      "laadan": "rawoho",
       "english": "none; not at all",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rawoho",
+      "laadan": "rawoho",
       "english": "not at all",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawóobaná",
+      "laadan": "rawóobaná",
       "english": "barren one",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rawóobaná",
+      "laadan": "rawóobaná",
       "english": "to be barren",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, wóoban = to give birth",
+      "breakdown": "ra = non-, wóoban = to give birth",
       "notes": ""
     },
     {
-      "láadan": "rayide",
+      "laadan": "rayide",
       "english": "anorexia",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rayide",
+      "laadan": "rayide",
       "english": "to be anorexic",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, yide = hunger",
+      "breakdown": "ra = non-, yide = hunger",
       "notes": ""
     },
     {
-      "láadan": "rayil",
+      "laadan": "rayil",
       "english": "above",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rayil",
+      "laadan": "rayil",
       "english": "above",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rayil",
+      "laadan": "rayil",
       "english": "to be above",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "ra = non-, yil = to be under",
+      "breakdown": "ra = non-, yil = to be under",
       "notes": ""
     },
     {
-      "láadan": "rayil",
+      "laadan": "rayil",
       "english": "to be above",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Rayilesháal",
+      "laadan": "Rayilesháal",
       "english": "Friday",
       "description": "Above Day",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "rayom",
+      "laadan": "rayom",
       "english": "danger",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "razh",
+      "laadan": "razh",
       "english": "vehicle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ra = not",
+      "breakdown": "ra = not",
       "notes": ""
     },
     {
-      "láadan": "redeb",
+      "laadan": "redeb",
       "english": "to find",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "réele",
+      "laadan": "réele",
       "english": "harbor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ren",
+      "laadan": "ren",
       "english": "carpet",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ren",
+      "laadan": "ren",
       "english": "rug",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "resh",
+      "laadan": "resh",
       "english": "wasp",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ri",
+      "laadan": "ri",
       "english": "to keep records",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ri",
+      "laadan": "ri",
       "english": "to record",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ridadem",
+      "laadan": "ridadem",
       "english": "camcorder",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ridadem",
+      "laadan": "ridadem",
       "english": "camera",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ridadem",
+      "laadan": "ridadem",
       "english": "VCR",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ríibib",
+      "laadan": "ríibib",
       "english": "frog",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ril",
+      "laadan": "ril",
       "english": "now",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ril",
+      "laadan": "ril",
       "english": "now",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ril",
+      "laadan": "ril",
       "english": "present",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ril",
+      "laadan": "ril",
       "english": "present time; now (Time Auxiliary)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ril i aril irilrili",
+      "laadan": "ril i aril irilrili",
       "english": "forevermore",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rile",
+      "laadan": "rile",
       "english": "silence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "riledim",
+      "laadan": "riledim",
       "english": "silent refusal to discuss rilehum",
       "description": "a purposeful refusal to communicate",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilehana",
+      "laadan": "rilehana",
       "english": "silence that is comfortable and natural",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilehum",
+      "laadan": "rilehum",
       "english": "silence that is a purposeful refusal to communicate",
       "description": "with a denial that it's even happening (see rilhehum)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilelh",
+      "laadan": "rilelh",
       "english": "malicious silence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilerahum",
+      "laadan": "rilerahum",
       "english": "silence acutely painful to you",
       "description": "but the other person seems totally unaware",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilerashum",
+      "laadan": "rilerashum",
       "english": "silence imposed by internal force of will because all words are wrong words and silence is the sole defense against disintegration",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilhedim",
+      "laadan": "rilhedim",
       "english": "malicious silent refusal to discuss rilhehum",
       "description": "a purposeful refusal to communicate",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilhehum",
+      "laadan": "rilhehum",
       "english": "malicious silence that is a purposeful refusal to communicate",
       "description": "with a denial that it's even happening (see rilehum)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilherahum",
+      "laadan": "rilherahum",
       "english": "malicious silence acutely painful to you",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilin",
+      "laadan": "rilin",
       "english": "to drink",
       "description": "rana=drink; noun",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilin",
+      "laadan": "rilin",
       "english": "to drink",
       "description": "rana=drink; noun",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilinehoth",
+      "laadan": "rilinehoth",
       "english": "bar",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "rilin = to drink, hoth = place",
+      "breakdown": "rilin = to drink, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "rilrili",
+      "laadan": "rilrili",
       "english": "hypothetical",
       "description": "",
       "classification": "tense",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rilrili",
+      "laadan": "rilrili",
       "english": "hypothetical; would; might; let's suppose (Time Auxiliary)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rim",
+      "laadan": "rim",
       "english": "shoulder",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rimáayo",
+      "laadan": "rimáayo",
       "english": "cape",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rimáayo",
+      "laadan": "rimáayo",
       "english": "cloak",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rimel",
+      "laadan": "rimel",
       "english": "copier",
       "description": "like Xerox",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rimel",
+      "laadan": "rimel",
       "english": "copier machine",
       "description": "like Xerox",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rin",
+      "laadan": "rin",
       "english": "plate",
       "description": "dish",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "riweth",
+      "laadan": "riweth",
       "english": "to keep track of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rizho",
+      "laadan": "rizho",
       "english": "tape recorder",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ro",
+      "laadan": "ro",
       "english": "weather",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ro",
+      "laadan": "ro",
       "english": "weather",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ro-",
+      "laadan": "ro-",
       "english": "wild",
       "description": "wild (rothil=wild vine; romid=wild animal)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rod",
+      "laadan": "rod",
       "english": "million",
       "description": 1000000,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rohoro",
+      "laadan": "rohoro",
       "english": "storm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "romid",
+      "laadan": "romid",
       "english": "wild animal",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "mid = creature",
+      "breakdown": "mid = creature",
       "notes": ""
     },
     {
-      "láadan": "róo",
+      "laadan": "róo",
       "english": "harvest",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "róohá",
+      "laadan": "róohá",
       "english": "gatherer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "róo = harvest, -á = doer",
+      "breakdown": "róo = harvest, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "róohá",
+      "laadan": "róohá",
       "english": "harvester",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "róo = harvest, -á = doer",
+      "breakdown": "róo = harvest, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "róomath",
+      "laadan": "róomath",
       "english": "barn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "róo = harvest, math = building",
+      "breakdown": "róo = harvest, math = building",
       "notes": ""
     },
     {
-      "láadan": "rosh",
+      "laadan": "rosh",
       "english": "sun",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rosh",
+      "laadan": "rosh",
       "english": "sun",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rothil",
+      "laadan": "rothil",
       "english": "wild vine",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ru",
+      "laadan": "ru",
       "english": "synergy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ruhob",
+      "laadan": "ruhob",
       "english": "to be deep",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ruhobehal",
+      "laadan": "ruhobehal",
       "english": "deep career",
       "description": "the career you take after your mid-life crisis  (see didehal; shawithehal)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ruhobehal",
+      "laadan": "ruhobehal",
       "english": "middle career",
       "description": "the career you take after your mid-life crisis  (see didehal; shawithehal)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rul",
+      "laadan": "rul",
       "english": "cat",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rul",
+      "laadan": "rul",
       "english": "cat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rulelo",
+      "laadan": "rulelo",
       "english": "to purr",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rulelo",
+      "laadan": "rulelo",
       "english": "to purr",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rum",
+      "laadan": "rum",
       "english": "hip",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rumad",
+      "laadan": "rumad",
       "english": "to cover",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rumad",
+      "laadan": "rumad",
       "english": "to hide",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rumad",
+      "laadan": "rumad",
       "english": "to put away",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rumadoni",
+      "laadan": "rumadoni",
       "english": "to bury",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rumi",
+      "laadan": "rumi",
       "english": "shadow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rush",
+      "laadan": "rush",
       "english": "to be final",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rush",
+      "laadan": "rush",
       "english": "to be last",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rushi",
+      "laadan": "rushi",
       "english": "wine",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rushihá",
+      "laadan": "rushihá",
       "english": "vintner",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "rushi = wine",
+      "breakdown": "rushi = wine",
       "notes": ""
     },
     {
-      "láadan": "rúsho",
+      "laadan": "rúsho",
       "english": "to be bitter",
       "description": "to taste",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "rúshomeénan",
+      "laadan": "rúshomeénan",
       "english": "bittersweet",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "rúsho = to be bitter, meén = sugar",
+      "breakdown": "rúsho = to be bitter, meén = sugar",
       "notes": ""
     },
     {
-      "láadan": "rúu",
+      "laadan": "rúu",
       "english": "to lie down",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sha",
+      "laadan": "sha",
       "english": "harmony",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sha",
+      "laadan": "sha",
       "english": "harmony",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sha",
+      "laadan": "sha",
       "english": "to be in harmony",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sha",
+      "laadan": "sha",
       "english": "to be in harmony",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháad",
+      "laadan": "sháad",
       "english": "to come",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháad",
+      "laadan": "sháad",
       "english": "to come",
       "description": "differentiated by the 'source' or 'goal' marker on the following noun",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháad",
+      "laadan": "sháad",
       "english": "to go",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháad",
+      "laadan": "sháad",
       "english": "to go",
       "description": "differentiated by the 'source' or 'goal' marker on the following noun",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháadehul",
+      "laadan": "sháadehul",
       "english": "growth through transcendence",
       "description": "either of a person; a non-human; or thing (for example; an organization; or a city; or a sect)",
       "classification": "noun",
-      "wordBreakdown": "sháad = to come, -hul = to an extreme degree",
+      "breakdown": "sháad = to come, -hul = to an extreme degree",
       "notes": ""
     },
     {
-      "láadan": "sháadoni",
+      "laadan": "sháadoni",
       "english": "to quest for truth",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháal",
+      "laadan": "sháal",
       "english": "day",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sháam",
+      "laadan": "sháam",
       "english": "psalm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shad",
+      "laadan": "shad",
       "english": "to be perfect",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shad",
+      "laadan": "shad",
       "english": "to be pure",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shadon",
+      "laadan": "shadon",
       "english": "conforming to the harmony of the universe",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shadon",
+      "laadan": "shadon",
       "english": "honor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shadon",
+      "laadan": "shadon",
       "english": "truth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shahina",
+      "laadan": "shahina",
       "english": "rose",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shal",
+      "laadan": "shal",
       "english": "courtesy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shal",
+      "laadan": "shal",
       "english": "manners",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shala",
+      "laadan": "shala",
       "english": "grief with reason; with blame; and not futile",
       "description": "see: shama; shana; shara; shina",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sham",
+      "laadan": "sham",
       "english": "love for the child of one's body; presupposing neither love nor respect nor their absence",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sham",
+      "laadan": "sham",
       "english": "to love",
       "description": "love for the child of one's body; presupposing neither love nor respect nor their absence",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shama",
+      "laadan": "shama",
       "english": "grief with reason; but with no blame; and futile",
       "description": "see: shala; shana; shara; shina",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shamid",
+      "laadan": "shamid",
       "english": "domestic animal",
       "description": "animal",
       "classification": "",
-      "wordBreakdown": "sha = harmony, mid = creature",
+      "breakdown": "sha = harmony, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "shan",
+      "laadan": "shan",
       "english": "five",
       "description": 5,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shana",
+      "laadan": "shana",
       "english": "grief with reason; but with no blame and not futile",
       "description": "see: shala; shama; shara; shina",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shane",
+      "laadan": "shane",
       "english": "to be downy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shane",
+      "laadan": "shane",
       "english": "to be furry",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shanemid",
+      "laadan": "shanemid",
       "english": "rabbit",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shane = to be furry, mid = creature",
+      "breakdown": "shane = to be furry, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "shanethab",
+      "laadan": "shanethab",
       "english": "fifteen",
       "description": 15,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shara",
+      "laadan": "shara",
       "english": "grief with reason; with blame; and futile",
       "description": "see: shala; shama; shana; shina",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shasho",
+      "laadan": "shasho",
       "english": "connection",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shathul",
+      "laadan": "shathul",
       "english": "mother",
       "description": "formal term; honored mother (see: mathul; ethul)",
       "classification": "noun",
-      "wordBreakdown": "sha = harmony, thul = parent",
+      "breakdown": "sha = harmony, thul = parent",
       "notes": ""
     },
     {
-      "láadan": "shawith",
+      "laadan": "shawith",
       "english": "elder",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "sha = harmony, with = person",
+      "breakdown": "sha = harmony, with = person",
       "notes": ""
     },
     {
-      "láadan": "shawith",
+      "laadan": "shawith",
       "english": "honored adult",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "sha = harmony, with = person",
+      "breakdown": "sha = harmony, with = person",
       "notes": ""
     },
     {
-      "láadan": "shawithehal",
+      "laadan": "shawithehal",
       "english": "elder career",
       "description": "the work you do after youve officially retired  (see didehal; ruhobehal)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shawithehal",
+      "laadan": "shawithehal",
       "english": "retired career",
       "description": "the work you do after youve officially retired  (see didehal; ruhobehal)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "she",
+      "laadan": "she",
       "english": "to comfort",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shé",
+      "laadan": "shé",
       "english": "with regard to (loanword)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheb",
+      "laadan": "sheb",
       "english": "change",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheb",
+      "laadan": "sheb",
       "english": "change",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheb",
+      "laadan": "sheb",
       "english": "to change",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheb",
+      "laadan": "sheb",
       "english": "to change",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheba",
+      "laadan": "sheba",
       "english": "widow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shebasheb",
+      "laadan": "shebasheb",
       "english": "death",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "sheb = change",
+      "breakdown": "sheb = change",
       "notes": ""
     },
     {
-      "láadan": "shebehatheshun",
+      "laadan": "shebehatheshun",
       "english": "change-of-life ritual",
       "description": "all coming-of-age rituals and change-of-life rituals; rite of passage",
       "classification": "noun",
-      "wordBreakdown": "sheb = change, hath = time, shun = ceremony",
+      "breakdown": "sheb = change, hath = time, shun = ceremony",
       "notes": ""
     },
     {
-      "láadan": "shebehatheshun",
+      "laadan": "shebehatheshun",
       "english": "coming-of-age ritual",
       "description": "all coming-of-age rituals and change-of-life rituals; rite of passage",
       "classification": "noun",
-      "wordBreakdown": "sheb = change, hath = time, shun = ceremony",
+      "breakdown": "sheb = change, hath = time, shun = ceremony",
       "notes": ""
     },
     {
-      "láadan": "shebehatheshun",
+      "laadan": "shebehatheshun",
       "english": "rite of passage",
       "description": "all coming-of-age rituals and change-of-life rituals; rite of passage",
       "classification": "noun",
-      "wordBreakdown": "sheb = change, hath = time, shun = ceremony",
+      "breakdown": "sheb = change, hath = time, shun = ceremony",
       "notes": ""
     },
     {
-      "láadan": "shée",
+      "laadan": "shée",
       "english": "desert",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shéeba",
+      "laadan": "shéeba",
       "english": "earthworm",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "shée = desert",
+      "breakdown": "shée = desert",
       "notes": ""
     },
     {
-      "láadan": "shehá",
+      "laadan": "shehá",
       "english": "comforter",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shehéeda",
+      "laadan": "shehéeda",
       "english": "holy day",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "héeda = holy",
+      "breakdown": "héeda = holy",
       "notes": ""
     },
     {
-      "láadan": "shel",
+      "laadan": "shel",
       "english": "to be rigorous",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shelalen",
+      "laadan": "shelalen",
       "english": "dulcimer",
       "description": "musical instrument",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheni",
+      "laadan": "sheni",
       "english": "intersection",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shenidal",
+      "laadan": "shenidal",
       "english": "network",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "sheni = intersection, dal = thing",
+      "breakdown": "sheni = intersection, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "sherídan",
+      "laadan": "sherídan",
       "english": "niece",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheshi",
+      "laadan": "sheshi",
       "english": "sand",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sheshihoth",
+      "laadan": "sheshihoth",
       "english": "beach",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "sheshi = sand, hoth = place",
+      "breakdown": "sheshi = sand, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "shi",
+      "laadan": "shi",
       "english": "to please",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shida",
+      "laadan": "shida",
       "english": "game",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shidi",
+      "laadan": "shidi",
       "english": "to be together",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shili",
+      "laadan": "shili",
       "english": "mist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "copulation",
       "description": "abstract and completely neutral term",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "sex",
       "description": "abstract and completely neutral term",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "to copulate",
       "description": "abstract and completely neutral term",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "to engage in sex",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "to engage in sex",
       "description": "abstract and completely neutral term",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shim",
+      "laadan": "shim",
       "english": "to sexual act",
       "description": "abstract and completely neutral term",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shimá",
+      "laadan": "shimá",
       "english": "copulater",
       "description": "cannot mean lover",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shimá",
+      "laadan": "shimá",
       "english": "one who performs a sexual act",
       "description": "cannot mean lover",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shin",
+      "laadan": "shin",
       "english": "to be two",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shin",
+      "laadan": "shin",
       "english": "two",
       "description": 2,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shina",
+      "laadan": "shina",
       "english": "grief without reason or blame; not futile",
       "description": "see: shala; shama; shana; shara",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinehal",
+      "laadan": "shinehal",
       "english": "computer",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shin = two, hal = work",
+      "breakdown": "shin = two, hal = work",
       "notes": ""
     },
     {
-      "láadan": "shinehóowith",
+      "laadan": "shinehóowith",
       "english": "great granddaughter",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinehothul",
+      "laadan": "shinehothul",
       "english": "great grandmother",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinenil",
+      "laadan": "shinenil",
       "english": "between",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shineshid",
+      "laadan": "shineshid",
       "english": "to be invited",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shineshidethóo",
+      "laadan": "shineshidethóo",
       "english": "invited guest",
       "description": "See also: thóo; áathethóo; nithedimethóo; widadithethóo",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinethab",
+      "laadan": "shinethab",
       "english": "twelve",
       "description": 12,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shineya",
+      "laadan": "shineya",
       "english": "second",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shiniledal",
+      "laadan": "shiniledal",
       "english": "middle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinishidi",
+      "laadan": "shinishidi",
       "english": "couple",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinishin",
+      "laadan": "shinishin",
       "english": "calculator",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinóoya",
+      "laadan": "shinóoya",
       "english": "to be creative",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shinóoya",
+      "laadan": "shinóoya",
       "english": "to be fertile",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shishid",
+      "laadan": "shishid",
       "english": "united",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shishidebeth",
+      "laadan": "shishidebeth",
       "english": "nation",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sho",
+      "laadan": "sho",
       "english": "to be heavy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shod",
+      "laadan": "shod",
       "english": "room",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóda",
+      "laadan": "shóda",
       "english": "to feel cut off due to family responsibilities",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóda",
+      "laadan": "shóda",
       "english": "to feel housebound",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shol",
+      "laadan": "shol",
       "english": "absence-of-pain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sholalan",
+      "laadan": "sholalan",
       "english": "alone in a crowd of people",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sholalan",
+      "laadan": "sholalan",
       "english": "to be alone in a crowd of people",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "sholan",
+      "laadan": "sholan",
       "english": "to be alone",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shon",
+      "laadan": "shon",
       "english": "peace",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shoná",
+      "laadan": "shoná",
       "english": "peacemaker",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shon = peace",
+      "breakdown": "shon = peace",
       "notes": ""
     },
     {
-      "láadan": "shonida",
+      "laadan": "shonida",
       "english": "tribe",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóo",
+      "laadan": "shóo",
       "english": "to come to pass",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóo",
+      "laadan": "shóo",
       "english": "to happen",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóoban",
+      "laadan": "shóoban",
       "english": "to enable",
       "description": "remove barriers & provide encourage (SH)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóoban",
+      "laadan": "shóoban",
       "english": "to help make happen",
       "description": "remove barriers & provide encourage (SH)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóod",
+      "laadan": "shóod",
       "english": "busy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóod",
+      "laadan": "shóod",
       "english": "to be busy",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shóodal",
+      "laadan": "shóodal",
       "english": "news",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Shósho",
+      "laadan": "Shósho",
       "english": "Magic Granny",
       "description": "character in stories",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shoth",
+      "laadan": "shoth",
       "english": "predicate",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shoth",
+      "laadan": "shoth",
       "english": "predicate",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shoya",
+      "laadan": "shoya",
       "english": "animal skin",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shoya",
+      "laadan": "shoya",
       "english": "hide",
       "description": "animal skin",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shu",
+      "laadan": "shu",
       "english": "to smell",
       "description": "Active smelling. I am smelling the perfume. (see láad oyonan passive smell)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shu",
+      "laadan": "shu",
       "english": "to sniff",
       "description": "Active smelling. I am smelling the perfume. (see láad oyonan passive smell)",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shub",
+      "laadan": "shub",
       "english": "to do",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shub",
+      "laadan": "shub",
       "english": "to do",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shud",
+      "laadan": "shud",
       "english": "to be poor",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shulhe",
+      "laadan": "shulhe",
       "english": "to be inappropriate",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shulhe",
+      "laadan": "shulhe",
       "english": "to be wrong for",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shulhe",
+      "laadan": "shulhe",
       "english": "to not fit",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shulin",
+      "laadan": "shulin",
       "english": "to overflow",
       "description": "as water does",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shum",
+      "laadan": "shum",
       "english": "air",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shum",
+      "laadan": "shum",
       "english": "air",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shumáad",
+      "laadan": "shumáad",
       "english": "to fly",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "shu = air",
+      "breakdown": "shu = air",
       "notes": ""
     },
     {
-      "láadan": "shumath",
+      "laadan": "shumath",
       "english": "tower",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shum = air, math = building",
+      "breakdown": "shum = air, math = building",
       "notes": ""
     },
     {
-      "láadan": "shumezh",
+      "laadan": "shumezh",
       "english": "to sift",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "mezh = powder",
+      "breakdown": "mezh = powder",
       "notes": ""
     },
     {
-      "láadan": "shun",
+      "laadan": "shun",
       "english": "ceremony",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shun",
+      "laadan": "shun",
       "english": "ritual",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shun = ritual, obahéthewod = bath",
+      "breakdown": "shun = ritual, obahéthewod = bath",
       "notes": ""
     },
     {
-      "láadan": "shunobahéthe",
+      "laadan": "shunobahéthe",
       "english": "ritual bath",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "shunobahéthe",
+      "laadan": "shunobahéthe",
       "english": "to ritually bathe",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "tháa",
+      "laadan": "tháa",
       "english": "to do well",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "tháa",
+      "laadan": "tháa",
       "english": "to thrive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thaáhel",
+      "laadan": "thaáhel",
       "english": "to get by",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "tháa = to do well, -hel = to a trivial degree",
+      "breakdown": "tháa = to do well, -hel = to a trivial degree",
       "notes": ""
     },
     {
-      "láadan": "thab",
+      "laadan": "thab",
       "english": "ten",
       "description": 10,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabebath",
+      "laadan": "thabebath",
       "english": "sixty",
       "description": 60,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabebath i nede",
+      "laadan": "thabebath i nede",
       "english": "sixty-one",
       "description": 61,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabebim",
+      "laadan": "thabebim",
       "english": "forty",
       "description": 40,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabebóo",
+      "laadan": "thabebóo",
       "english": "thirty",
       "description": 30,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabebud",
+      "laadan": "thabebud",
       "english": "ninty",
       "description": 90,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabenib",
+      "laadan": "thabenib",
       "english": "eighty",
       "description": 80,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabeshan",
+      "laadan": "thabeshan",
       "english": "fifty",
       "description": 50,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabeshin",
+      "laadan": "thabeshin",
       "english": "twenty",
       "description": 20,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabeya",
+      "laadan": "thabeya",
       "english": "tenth",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thabum",
+      "laadan": "thabum",
       "english": "seventy",
       "description": 70,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thad",
+      "laadan": "thad",
       "english": "to be able",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thad",
+      "laadan": "thad",
       "english": "to be able",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thade",
+      "laadan": "thade",
       "english": "birthday",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thahoma",
+      "laadan": "thahoma",
       "english": "fist",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "oma = hand",
+      "breakdown": "oma = hand",
       "notes": ""
     },
     {
-      "láadan": "thahoma",
+      "laadan": "thahoma",
       "english": "to fist",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "fine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "good",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "satisfactory",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be fine",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be fine",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be good",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be good",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be satisfactory",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thal",
+      "laadan": "thal",
       "english": "to be satisfactory",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thaledan",
+      "laadan": "thaledan",
       "english": "gospel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thal = good, dan = language",
+      "breakdown": "thal = good, dan = language",
       "notes": ""
     },
     {
-      "láadan": "tham",
+      "laadan": "tham",
       "english": "circle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thamehal",
+      "laadan": "thamehal",
       "english": "globe",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle",
+      "breakdown": "tham = circle",
       "notes": ""
     },
     {
-      "láadan": "thamehal",
+      "laadan": "thamehal",
       "english": "planet",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle",
+      "breakdown": "tham = circle",
       "notes": ""
     },
     {
-      "láadan": "thamehal",
+      "laadan": "thamehal",
       "english": "sphere",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle",
+      "breakdown": "tham = circle",
       "notes": ""
     },
     {
-      "láadan": "thamehaledal",
+      "laadan": "thamehaledal",
       "english": "asteroid",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thamehal = planet, dal = thing",
+      "breakdown": "thamehal = planet, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "thamehib",
+      "laadan": "thamehib",
       "english": "to squeeze",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thamerili",
+      "laadan": "thamerili",
       "english": "to wring",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thamerili",
+      "laadan": "thamerili",
       "english": "to wring",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thamesho",
+      "laadan": "thamesho",
       "english": "to wrap",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thamewud",
+      "laadan": "thamewud",
       "english": "arc",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle, wud = part",
+      "breakdown": "tham = circle, wud = part",
       "notes": ""
     },
     {
-      "láadan": "thameyul",
+      "laadan": "thameyul",
       "english": "tornado",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle, yul = wind",
+      "breakdown": "tham = circle, yul = wind",
       "notes": ""
     },
     {
-      "láadan": "than",
+      "laadan": "than",
       "english": "underground",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thazh",
+      "laadan": "thazh",
       "english": "inherited",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thazh",
+      "laadan": "thazh",
       "english": "to inherit",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thé-",
+      "laadan": "thé-",
       "english": "to be about to",
       "description": "about-to-VERB any minute prefix",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thed",
+      "laadan": "thed",
       "english": "far",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thed",
+      "laadan": "thed",
       "english": "to be far",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thede",
+      "laadan": "thede",
       "english": "jewel",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thée-",
+      "laadan": "thée-",
       "english": "to be about to",
       "description": "about-to-VERB; potentially; but not any minute",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "théewóoban",
+      "laadan": "théewóoban",
       "english": "soon to give birth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thée- = about to, wóoban = give birth",
+      "breakdown": "thée- = about to, wóoban = give birth",
       "notes": ""
     },
     {
-      "láadan": "théewóoban",
+      "laadan": "théewóoban",
       "english": "to be soon to give birth",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thehena",
+      "laadan": "thehena",
       "english": "happiness despite negative circumstances",
       "description": "to be joyful; to be happy (thena; thina; thona; thuma= joy]",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thehena",
+      "laadan": "thehena",
       "english": "joy despite negative circumstances",
       "description": "to be joyful; to be happy (thena; thina; thona; thuma= joy]",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thehena",
+      "laadan": "thehena",
       "english": "to be happy despite negative circumstances",
       "description": "to be joyful; to be happy (thena; thina; thona; thuma= joy]",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thehena",
+      "laadan": "thehena",
       "english": "to be joyful despite negative circumstances",
       "description": "to be joyful; to be happy (thena; thina; thona; thuma= joy]",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thel",
+      "laadan": "thel",
       "english": "to get",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thel",
+      "laadan": "thel",
       "english": "to obtain",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "théle",
+      "laadan": "théle",
       "english": "television",
       "description": "loan word",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "them",
+      "laadan": "them",
       "english": "need",
       "description": "need for/of",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "them",
+      "laadan": "them",
       "english": "to need",
       "description": "need for/of",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "then",
+      "laadan": "then",
       "english": "to break",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thena",
+      "laadan": "thena",
       "english": "happiness for good reasons",
       "description": "to be joyful; to be happy (thehena; thina; thona; thuna=joy)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thena",
+      "laadan": "thena",
       "english": "joy for good reasons",
       "description": "to be joyful; to be happy (thehena; thina; thona; thuna=joy)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thena",
+      "laadan": "thena",
       "english": "to be happy for good reasons",
       "description": "to be joyful; to be happy (thehena; thina; thona; thuna=joy)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thena",
+      "laadan": "thena",
       "english": "to be joyful for good reasons",
       "description": "to be joyful; to be happy (thehena; thina; thona; thuna=joy)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thenazho",
+      "laadan": "thenazho",
       "english": "to purr",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "theni",
+      "laadan": "theni",
       "english": "interruption",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thera",
+      "laadan": "thera",
       "english": "Earth",
       "description": "loan word",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thera",
+      "laadan": "thera",
       "english": "Terra",
       "description": "loan word",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thesh",
+      "laadan": "thesh",
       "english": "herb",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "théwóoban",
+      "laadan": "théwóoban",
       "english": "on the point of giving birth",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thée- = about to, wóoban = give birth",
+      "breakdown": "thée- = about to, wóoban = give birth",
       "notes": ""
     },
     {
-      "láadan": "thezh",
+      "laadan": "thezh",
       "english": "sorrel",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thi",
+      "laadan": "thi",
       "english": "to have",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thi",
+      "laadan": "thi",
       "english": "to have",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thib",
+      "laadan": "thib",
       "english": "stand up",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thib",
+      "laadan": "thib",
       "english": "to rise up",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thibá",
+      "laadan": "thibá",
       "english": "wall",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thibeb",
+      "laadan": "thibeb",
       "english": "cooking utensil",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thid",
+      "laadan": "thid",
       "english": "string",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thid",
+      "laadan": "thid",
       "english": "thread",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thid",
+      "laadan": "thid",
       "english": "to string",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thid",
+      "laadan": "thid",
       "english": "to thread",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thihá",
+      "laadan": "thihá",
       "english": "owner",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thihá",
+      "laadan": "thihá",
       "english": "possessor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thil",
+      "laadan": "thil",
       "english": "vine",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thili",
+      "laadan": "thili",
       "english": "fish",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thili",
+      "laadan": "thili",
       "english": "fish",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thina",
+      "laadan": "thina",
       "english": "happiness for no reason",
       "description": "thehena; thena; thona; thuna=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thina",
+      "laadan": "thina",
       "english": "joy for no reason",
       "description": "thehena; thena; thona; thuna=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thina",
+      "laadan": "thina",
       "english": "to be happy for no reason",
       "description": "thehena; thena; thona; thuna=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thina",
+      "laadan": "thina",
       "english": "to be joyful for no reason",
       "description": "thehena; thena; thona; thuna=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thizh",
+      "laadan": "thizh",
       "english": "pie",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thó-",
+      "laadan": "thó-",
       "english": "to have just",
       "description": "to-have-just-VERBED prefix",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thob",
+      "laadan": "thob",
       "english": "one thousand",
       "description": 1000,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thob i nede",
+      "laadan": "thob i nede",
       "english": "one thousand and one",
       "description": 1001,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thod",
+      "laadan": "thod",
       "english": "to write",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thod",
+      "laadan": "thod",
       "english": "written",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thode",
+      "laadan": "thode",
       "english": "writing implement",
       "description": "short form of dalethodewan",
       "classification": "noun",
-      "wordBreakdown": "thod = to write",
+      "breakdown": "thod = to write",
       "notes": ""
     },
     {
-      "láadan": "thol",
+      "laadan": "thol",
       "english": "breast",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thom",
+      "laadan": "thom",
       "english": "pillow",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thom",
+      "laadan": "thom",
       "english": "pillow",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thoma",
+      "laadan": "thoma",
       "english": "near",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thon",
+      "laadan": "thon",
       "english": "seed",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thona",
+      "laadan": "thona",
       "english": "happiness for foolish reasons",
       "description": "thehena; thena; thina; thuna=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thona",
+      "laadan": "thona",
       "english": "joy for foolish reasons",
       "description": "thehena; thena; thina; thuna=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thona",
+      "laadan": "thona",
       "english": "to be happy for foolish reasons",
       "description": "thehena; thena; thina; thuna=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thona",
+      "laadan": "thona",
       "english": "to be joyful for foolish reasons",
       "description": "thehena; thena; thina; thuna=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thóo",
+      "laadan": "thóo",
       "english": "guest",
       "description": "See also: áathethóo; nithedimethóo; shineshidethóo; widadithethóo",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thóohéthe",
+      "laadan": "thóohéthe",
       "english": "guest-clean",
       "description": "the level of cleaning you need to do for guests  (See also: éthe; háawithéthe; huhéthe; mudahéthe; onidahéthe)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thóohéthe",
+      "laadan": "thóohéthe",
       "english": "to be guest-clean",
       "description": "the level of cleaning you need to do for guests  (See also: éthe; háawithéthe; huhéthe; mudahéthe; onidahéthe)",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thosh",
+      "laadan": "thosh",
       "english": "sky",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thosh",
+      "laadan": "thosh",
       "english": "sky",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thówóoban",
+      "laadan": "thówóoban",
       "english": "to have just given birth",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thu",
+      "laadan": "thu",
       "english": "honey",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thud",
+      "laadan": "thud",
       "english": "bone",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuhá",
+      "laadan": "thuhá",
       "english": "apiarist",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuhá",
+      "laadan": "thuhá",
       "english": "beekeeper",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuhal",
+      "laadan": "thuhal",
       "english": "candy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thu = honey",
+      "breakdown": "thu = honey",
       "notes": ""
     },
     {
-      "láadan": "thuhul",
+      "laadan": "thuhul",
       "english": "charisma",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thu = honey",
+      "breakdown": "thu = honey",
       "notes": ""
     },
     {
-      "láadan": "thuhul",
+      "laadan": "thuhul",
       "english": "charm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "thu = honey",
+      "breakdown": "thu = honey",
       "notes": ""
     },
     {
-      "láadan": "thul",
+      "laadan": "thul",
       "english": "parent",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thul",
+      "laadan": "thul",
       "english": "parent",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thulana",
+      "laadan": "thulana",
       "english": "soup",
       "description": "food",
       "classification": "",
-      "wordBreakdown": "thul = parent, ana = food",
+      "breakdown": "thul = parent, ana = food",
       "notes": ""
     },
     {
-      "láadan": "thun",
+      "laadan": "thun",
       "english": "muscle",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuna",
+      "laadan": "thuna",
       "english": "happiness for bad reasons",
       "description": "thehena; thena; thina; thona=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuna",
+      "laadan": "thuna",
       "english": "joy for bad reasons",
       "description": "thehena; thena; thina; thona=joy",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuna",
+      "laadan": "thuna",
       "english": "to be happy for bad reasons",
       "description": "thehena; thena; thina; thona=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuna",
+      "laadan": "thuna",
       "english": "to be joyful for bad reasons",
       "description": "thehena; thena; thina; thona=joy",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuwebe",
+      "laadan": "thuwebe",
       "english": "mead",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuyu",
+      "laadan": "thuyu",
       "english": "apricot",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "thuzh",
+      "laadan": "thuzh",
       "english": "cake",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "u",
+      "laadan": "u",
       "english": "to be open",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ub",
+      "laadan": "ub",
       "english": "balm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ub",
+      "laadan": "ub",
       "english": "soothing substance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ubath",
+      "laadan": "ubath",
       "english": "to scratch an itch",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ud",
+      "laadan": "ud",
       "english": "stone",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ud",
+      "laadan": "ud",
       "english": "stone",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "udadem",
+      "laadan": "udadem",
       "english": "statue",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ud = stone, dadem = picture",
+      "breakdown": "ud = stone, dadem = picture",
       "notes": ""
     },
     {
-      "láadan": "udath",
+      "laadan": "udath",
       "english": "noon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "udathihée",
+      "laadan": "udathihée",
       "english": "afternoon",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "udath = noon, ihée = after",
+      "breakdown": "udath = noon, ihée = after",
       "notes": ""
     },
     {
-      "láadan": "udemeda",
+      "laadan": "udemeda",
       "english": "potato",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "ud = stone, meda = vegetable",
+      "breakdown": "ud = stone, meda = vegetable",
       "notes": ""
     },
     {
-      "láadan": "udólo",
+      "laadan": "udólo",
       "english": "lava",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "udoya",
+      "laadan": "udoya",
       "english": "carapace",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ud = stone, oya = skin",
+      "breakdown": "ud = stone, oya = skin",
       "notes": ""
     },
     {
-      "láadan": "udoya",
+      "laadan": "udoya",
       "english": "hull",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ud = stone, oya = skin",
+      "breakdown": "ud = stone, oya = skin",
       "notes": ""
     },
     {
-      "láadan": "udoya",
+      "laadan": "udoya",
       "english": "shell",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "ud = stone, oya = skin",
+      "breakdown": "ud = stone, oya = skin",
       "notes": ""
     },
     {
-      "láadan": "uhud",
+      "laadan": "uhud",
       "english": "nuisance",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uhudemid",
+      "laadan": "uhudemid",
       "english": "tick",
       "description": "animal, insect",
       "classification": "noun",
-      "wordBreakdown": "uhud = nuisance, mid = creature",
+      "breakdown": "uhud = nuisance, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "uhudeshara",
+      "laadan": "uhudeshara",
       "english": "depression as result of small event",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "uhud = nuisance",
+      "breakdown": "uhud = nuisance",
       "notes": ""
     },
     {
-      "láadan": "uhudezhub",
+      "laadan": "uhudezhub",
       "english": "tick",
       "description": "animal, insect",
       "classification": "noun",
-      "wordBreakdown": "uhud = nuisance, zhub = insect",
+      "breakdown": "uhud = nuisance, zhub = insect",
       "notes": ""
     },
     {
-      "láadan": "ul",
+      "laadan": "ul",
       "english": "hope",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ul",
+      "laadan": "ul",
       "english": "to hope",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ulanin",
+      "laadan": "ulanin",
       "english": "to study",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ulhad",
+      "laadan": "ulhad",
       "english": "to betray",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ulin",
+      "laadan": "ulin",
       "english": "school",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "um",
+      "laadan": "um",
       "english": "seven",
       "description": 7,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ume",
+      "laadan": "ume",
       "english": "to be abundant",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "ume",
+      "laadan": "ume",
       "english": "to be full",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "umeloláad",
+      "laadan": "umeloláad",
       "english": "to visualize",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "umeloláad",
+      "laadan": "umeloláad",
       "english": "visualization",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "umethab",
+      "laadan": "umethab",
       "english": "seventeen",
       "description": 17,
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "un",
+      "laadan": "un",
       "english": "to lead somebody",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "un",
+      "laadan": "un",
       "english": "to lead something",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uná",
+      "laadan": "uná",
       "english": "leader",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uná",
+      "laadan": "uná",
       "english": "queen",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uná",
+      "laadan": "uná",
       "english": "ruler",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "unáhid",
+      "laadan": "unáhid",
       "english": "king",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "une",
+      "laadan": "une",
       "english": "to wear",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "urahu",
+      "laadan": "urahu",
       "english": "gate",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uth",
+      "laadan": "uth",
       "english": "brain",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uthemid",
+      "laadan": "uthemid",
       "english": "whale",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "uth = brain, mid = creature",
+      "breakdown": "uth = brain, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "úushili",
+      "laadan": "úushili",
       "english": "fog",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuya",
+      "laadan": "úuya",
       "english": "to feel pain",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuya",
+      "laadan": "úuya",
       "english": "to feel pain",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuya",
+      "laadan": "úuya",
       "english": "to hurt",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuya",
+      "laadan": "úuya",
       "english": "to hurt",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuzh",
+      "laadan": "úuzh",
       "english": "sheet bedding",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "úuzh",
+      "laadan": "úuzh",
       "english": "sheets",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uzh",
+      "laadan": "uzh",
       "english": "character",
       "description": "of notation or alphabet",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "uzh",
+      "laadan": "uzh",
       "english": "symbol",
       "description": "of notation or alphabet",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wa",
+      "laadan": "wa",
       "english": "I have perceived it myself",
       "description": "known to X because perceived by X (externally or internally) (evidence morpheme): The reason I claim that what I'm saying is true is that I have perceived it myself",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "waá",
+      "laadan": "waá",
       "english": "I assume this is false because I distrust the source",
       "description": "assumed false by X because X distrusts source (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wáa",
+      "laadan": "wáa",
       "english": "I assume this is true because I trust the source",
       "description": "assumed true by X because X trusts source (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "waálh",
+      "laadan": "waálh",
       "english": "I assume this is false because I distrust the source and I assume evil intent",
       "description": "assumed false by speaker because source is not trusted and evil intent by source is assumed; assumed false by X because X distrusts source and X suspects source of acting with evil intent (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "waha",
+      "laadan": "waha",
       "english": "any",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "waludal",
+      "laadan": "waludal",
       "english": "sewage plant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "waludal",
+      "laadan": "waludal",
       "english": "waste water plant",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wam",
+      "laadan": "wam",
       "english": "calm",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wam",
+      "laadan": "wam",
       "english": "to be calm",
       "description": "as of water; wind",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wam",
+      "laadan": "wam",
       "english": "to be placid",
       "description": "as of water; wind",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wam",
+      "laadan": "wam",
       "english": "to be still",
       "description": "as of water; wind",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wan",
+      "laadan": "wan",
       "english": "back",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "we",
+      "laadan": "we",
       "english": "I have perceived it in a dream",
       "description": "perceived by speaker in a dream; perceived by X in a dream (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "web",
+      "laadan": "web",
       "english": "liver",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "webe",
+      "laadan": "webe",
       "english": "beer",
       "description": "food, wéebe=ale",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "webehá",
+      "laadan": "webehá",
       "english": "brewer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "webesh",
+      "laadan": "webesh",
       "english": "hops",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wedeth",
+      "laadan": "wedeth",
       "english": "to be clear",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wée",
+      "laadan": "wée",
       "english": "cry",
       "description": "of babies",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wée",
+      "laadan": "wée",
       "english": "to cry",
       "description": "of babies",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéebe",
+      "laadan": "wéebe",
       "english": "ale",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéedan",
+      "laadan": "wéedan",
       "english": "to read",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéehoth",
+      "laadan": "wéehoth",
       "english": "library",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wéedan = to read, hoth = place",
+      "breakdown": "wéedan = to read, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "wehe",
+      "laadan": "wehe",
       "english": "market",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wehe",
+      "laadan": "wehe",
       "english": "store",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wehebuth",
+      "laadan": "wehebuth",
       "english": "a gathering of stores",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "buth = to gather, wehe = store",
+      "breakdown": "buth = to gather, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "wehebuth",
+      "laadan": "wehebuth",
       "english": "mall",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "buth = to gather, wehe = store",
+      "breakdown": "buth = to gather, wehe = store",
       "notes": ""
     },
     {
-      "láadan": "wehebuthebod",
+      "laadan": "wehebuthebod",
       "english": "strip-mall",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "buth = to gather, wehe = store, bod = line",
+      "breakdown": "buth = to gather, wehe = store, bod = line",
       "notes": ""
     },
     {
-      "láadan": "wéhená",
+      "laadan": "wéhená",
       "english": "gratitude despite negative circumstances",
       "description": "see: wéná; wíná; wóná; wúná",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéhená",
+      "laadan": "wéhená",
       "english": "to be grateful despite negative circumstances",
       "description": "see: wéná; wíná; wóná; wúná",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wem",
+      "laadan": "wem",
       "english": "to lose",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weman",
+      "laadan": "weman",
       "english": "winter",
       "description": "season",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wemen",
+      "laadan": "wemen",
       "english": "spring",
       "description": "season",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wemon",
+      "laadan": "wemon",
       "english": "autumn",
       "description": "season",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéná",
+      "laadan": "wéná",
       "english": "gratitude for good reasons",
       "description": "see: wéhená; wíná; wóná; wúná",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wéná",
+      "laadan": "wéná",
       "english": "to be grateful for good reasons",
       "description": "see: wéhená; wíná; wóná; wúná",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wésha",
+      "laadan": "wésha",
       "english": "geshalt",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wesháana",
+      "laadan": "wesháana",
       "english": "menstruation",
       "description": "to menstruate late",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wesháana",
+      "laadan": "wesháana",
       "english": "to menstruate late",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "path",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "path",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "road",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "road",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "track",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "track",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "way",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "weth",
+      "laadan": "weth",
       "english": "way",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wethalehale",
+      "laadan": "wethalehale",
       "english": "melody",
       "description": "literally; music path",
       "classification": "noun",
-      "wordBreakdown": "weth = path, alehale = music",
+      "breakdown": "weth = path, alehale = music",
       "notes": ""
     },
     {
-      "láadan": "wetham",
+      "laadan": "wetham",
       "english": "to make a turn",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wetham",
+      "laadan": "wetham",
       "english": "to turn",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wetham",
+      "laadan": "wetham",
       "english": "turn",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "tham = circle",
+      "breakdown": "tham = circle",
       "notes": ""
     },
     {
-      "láadan": "wethene",
+      "laadan": "wethene",
       "english": "direction",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wi",
+      "laadan": "wi",
       "english": "It is self-evident",
       "description": "an evidential meaning The reason I claim that what I'm saying is true is because it's self-evident; everybody can see that it's true; or everybody is in agreement that it's true.; known to X because self-evident (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wi",
+      "laadan": "wi",
       "english": "life",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wí",
+      "laadan": "wí",
       "english": "life",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wida",
+      "laadan": "wida",
       "english": "to carry",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wida",
+      "laadan": "wida",
       "english": "to carry",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widáahith",
+      "laadan": "widáahith",
       "english": "wire",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widadith",
+      "laadan": "widadith",
       "english": "telephone",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wida = to carry, dith = voice",
+      "breakdown": "wida = to carry, dith = voice",
       "notes": ""
     },
     {
-      "láadan": "widadithethóo",
+      "laadan": "widadithethóo",
       "english": "phone guest",
       "description": "a guest who calls before they come  (See also: thóo; áathethóo; nithedimethóo; shineshidethóo)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widahath",
+      "laadan": "widahath",
       "english": "when  1) Bíi lalom le widahath hal le wa. I sing when I work. 2) Bíi widahath hal le; lalom le wa. When I work; I sing.",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widahoth",
+      "laadan": "widahoth",
       "english": "where",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widahuth",
+      "laadan": "widahuth",
       "english": "why  Bíi widahuth eril náhal with; lothel ra le wa. Why the woman kept working; I don't know.",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widaweth",
+      "laadan": "widaweth",
       "english": "how  : Bíi widaweth aril mebedi háawith; lothel ra le wa. How the children will learn; I don't know.",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widazhad",
+      "laadan": "widazhad",
       "english": "to be pregnant late in term and eager for the end",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "widom",
+      "laadan": "widom",
       "english": "to hold",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wihi",
+      "laadan": "wihi",
       "english": "emotion",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wihi",
+      "laadan": "wihi",
       "english": "emotion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíi",
+      "laadan": "wíi",
       "english": "to be alive",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíi",
+      "laadan": "wíi",
       "english": "to be alive",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíi",
+      "laadan": "wíi",
       "english": "to be living",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíi",
+      "laadan": "wíi",
       "english": "to be living",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíitham",
+      "laadan": "wíitham",
       "english": "clergy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wíi = living, tham = circle",
+      "breakdown": "wíi = living, tham = circle",
       "notes": ""
     },
     {
-      "láadan": "wil",
+      "laadan": "wil",
       "english": "let there be...; would that...; may; let it be",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wil",
+      "laadan": "wil",
       "english": "optative mode; indicating an option or wish (Time Auxiliary)",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Wil sha",
+      "laadan": "Wil sha",
       "english": "greeting; (hello) Let there be harmony",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wili",
+      "laadan": "wili",
       "english": "creek",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wili",
+      "laadan": "wili",
       "english": "creek",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wili",
+      "laadan": "wili",
       "english": "river",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wili",
+      "laadan": "wili",
       "english": "river",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wilibod",
+      "laadan": "wilibod",
       "english": "list",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wili = river, bod = line",
+      "breakdown": "wili = river, bod = line",
       "notes": ""
     },
     {
-      "láadan": "wilidunedal",
+      "laadan": "wilidunedal",
       "english": "reservoir for fluids",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wili = river, dun = field, dal = thing",
+      "breakdown": "wili = river, dun = field, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "wilomina",
+      "laadan": "wilomina",
       "english": "to act",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wilomina",
+      "laadan": "wilomina",
       "english": "to perform",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wilominabelid",
+      "laadan": "wilominabelid",
       "english": "theater",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wilomina = to perform",
+      "breakdown": "wilomina = to perform",
       "notes": ""
     },
     {
-      "láadan": "wilominahoth",
+      "laadan": "wilominahoth",
       "english": "stage",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wilomina = to perform, hoth = place",
+      "breakdown": "wilomina = to perform, hoth = place",
       "notes": ""
     },
     {
-      "láadan": "wíná",
+      "laadan": "wíná",
       "english": "gratitude for no reason",
       "description": "see: wéhená; wéná; wóná; wúná",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíná",
+      "laadan": "wíná",
       "english": "to be grateful for no reason",
       "description": "see: wéhená; wéná; wóná; wúná",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wírabanenath",
+      "laadan": "wírabanenath",
       "english": "abortion",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wí = life, raban = to take away from",
+      "breakdown": "wí = life, raban = to take away from",
       "notes": ""
     },
     {
-      "láadan": "wírabanenath",
+      "laadan": "wírabanenath",
       "english": "to abort",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wírabanenath",
+      "laadan": "wírabanenath",
       "english": "to have an abortion",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wish",
+      "laadan": "wish",
       "english": "gas",
       "description": "oxygen; nitrogen; etc.",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "with",
+      "laadan": "with",
       "english": "adult",
       "description": "gender-neutral, but to specify a male person; add the masculine suffix '-id'",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "with",
+      "laadan": "with",
       "english": "person",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "with",
+      "laadan": "with",
       "english": "person",
       "description": "gender-neutral, but to specify a male person; add the masculine suffix '-id'",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "with",
+      "laadan": "with",
       "english": "woman",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "with",
+      "laadan": "with",
       "english": "woman",
       "description": "gender-neutral, but to specify a male person; add the masculine suffix '-id'",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "withelhebe",
+      "laadan": "withelhebe",
       "english": "hatred of women",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "with = woman, lh = intentionally bad",
+      "breakdown": "with = woman, lh = intentionally bad",
       "notes": ""
     },
     {
-      "láadan": "withelhebe",
+      "laadan": "withelhebe",
       "english": "misogyny",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "with = woman, lh = intentionally bad",
+      "breakdown": "with = woman, lh = intentionally bad",
       "notes": ""
     },
     {
-      "láadan": "withid",
+      "laadan": "withid",
       "english": "male person",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "with = person, -id = male",
+      "breakdown": "with = person, -id = male",
       "notes": ""
     },
     {
-      "láadan": "withid",
+      "laadan": "withid",
       "english": "man",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "with = person, -id = male",
+      "breakdown": "with = person, -id = male",
       "notes": ""
     },
     {
-      "láadan": "withidetho",
+      "laadan": "withidetho",
       "english": "male-identified",
       "description": "queer?\n* this word should be replaced by a word decided upon by a trans man.",
       "classification": "noun",
-      "wordBreakdown": "with = person, -id = male, -tho = possession  other",
+      "breakdown": "with = person, -id = male, -tho = possession  other",
       "notes": ""
     },
     {
-      "láadan": "wíyaáláan",
+      "laadan": "wíyaáláan",
       "english": "respiration rate",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wíyul = to breathe",
+      "breakdown": "wíyul = to breathe",
       "notes": ""
     },
     {
-      "láadan": "wíyul",
+      "laadan": "wíyul",
       "english": "to breathe",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wíyuleth",
+      "laadan": "wíyuleth",
       "english": "breath",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wíyul = to breathe",
+      "breakdown": "wíyul = to breathe",
       "notes": ""
     },
     {
-      "láadan": "wo",
+      "laadan": "wo",
       "english": "hypothetically",
       "description": "imagined or invented by speaker; hypothetical; imagined or invented by X; hypothetical (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wo-",
+      "laadan": "wo-",
       "english": "",
       "description": "changes a verb to an adjective; must be put on both verb and noun; after plural marker (beautiful woman = woháya wowith) Láadan has a form that is much like an English adjective + noun sequence; as in green tree or small child. You can take any sequence of verb and subject (remembering that adjectives are only ordinary verbs in Láadan) and but the marker wo- at the beginning of each one. Beautiful woman is thus woháya wowith. This is very useful; but it is a bit different from English; because it can only be used if you have just one verb. You cannot use this pattern to translate an English sequence like little red brick wall. To make your descriptive phrase plural; you would put the plural marker me- at the beginning of the verb; as always. Busy dragons would be mewoshOod wohOowamid.",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóbáan",
+      "laadan": "wóbáan",
       "english": "to bring to birth",
       "description": "the activity of a midwife or other person helping with the delivery of an infant",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "woban",
+      "laadan": "woban",
       "english": "birth",
       "description": "noun, origin; beginning",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wobanedan",
+      "laadan": "wobanedan",
       "english": "birth language",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "woban = birth",
+      "breakdown": "woban = birth",
       "notes": ""
     },
     {
-      "láadan": "wobanedan",
+      "laadan": "wobanedan",
       "english": "native tongue",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "woban = birth",
+      "breakdown": "woban = birth",
       "notes": ""
     },
     {
-      "láadan": "wobaneya",
+      "laadan": "wobaneya",
       "english": "at birth",
       "description": "time, at the time she was born",
       "classification": "noun",
-      "wordBreakdown": "woban = birth, -ya = time suffix",
+      "breakdown": "woban = birth, -ya = time suffix",
       "notes": ""
     },
     {
-      "láadan": "wobaneya",
+      "laadan": "wobaneya",
       "english": "birth",
       "description": "time, at the time she was born",
       "classification": "noun",
-      "wordBreakdown": "woban = birth, -ya = time suffix",
+      "breakdown": "woban = birth, -ya = time suffix",
       "notes": ""
     },
     {
-      "láadan": "wod",
+      "laadan": "wod",
       "english": "to sit",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wodama",
+      "laadan": "wodama",
       "english": "genitalia",
       "description": "body part, female; outer",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wodazhud",
+      "laadan": "wodazhud",
       "english": "matrix",
       "description": "in geology",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wodehahdo",
+      "laadan": "wodehahdo",
       "english": "meditate",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wodehahdo",
+      "laadan": "wodehahdo",
       "english": "to meditate",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wodehahdo",
+      "laadan": "wodehahdo",
       "english": "to sit in a meditative state",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "woho",
+      "laadan": "woho",
       "english": "all",
       "description": "don't change form or add case marker",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "woho",
+      "laadan": "woho",
       "english": "every",
       "description": "don't change form or add case marker",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohóoha",
+      "laadan": "wohóoha",
       "english": "experience of a place",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohóoha",
+      "laadan": "wohóoha",
       "english": "scene",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohóoha",
+      "laadan": "wohóoha",
       "english": "view",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohóol",
+      "laadan": "wohóol",
       "english": "genitalia",
       "description": "body part, all female genitalia & reproductive oragans",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohosheni",
+      "laadan": "wohosheni",
       "english": "to feel joined to",
       "description": "a word meaning the opposite of alienation; to feel joined to; part of someone or something without reservations or barriers",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohosheni",
+      "laadan": "wohosheni",
       "english": "to feel part of something",
       "description": "a word meaning the opposite of alienation; to feel joined to; part of someone or something without reservations or barriers",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohothul",
+      "laadan": "wohothul",
       "english": "ancestor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohothul",
+      "laadan": "wohothul",
       "english": "foremother",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wohothulewoth",
+      "laadan": "wohothulewoth",
       "english": "foremother wisdom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wom",
+      "laadan": "wom",
       "english": "throat",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "womedim",
+      "laadan": "womedim",
       "english": "neck",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "wom = neck, dim = container",
+      "breakdown": "wom = neck, dim = container",
       "notes": ""
     },
     {
-      "láadan": "womil",
+      "laadan": "womil",
       "english": "livestock",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "womilá",
+      "laadan": "womilá",
       "english": "breeder of animals",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "won",
+      "laadan": "won",
       "english": "handicap",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóná",
+      "laadan": "wóná",
       "english": "gratitude for foolish reasons",
       "description": "see: wéhená; wéná; wíná; wúná",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóná",
+      "laadan": "wóná",
       "english": "to be grateful for foolish reasons",
       "description": "see: wéhená; wéná; wíná; wúná",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wonewith",
+      "laadan": "wonewith",
       "english": "to be socially dyslexic",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wonewith",
+      "laadan": "wonewith",
       "english": "to be uncomprehending of the social signals of others",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóo",
+      "laadan": "wóo",
       "english": "but I know not of the validity",
       "description": "speaker has total lack of knowledge as to the validity; indicates that X states a total lack of know ledge as to the validity of the matter (evidence morpheme)",
       "classification": "evidence morpheme",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóoban",
+      "laadan": "wóoban",
       "english": "to bear",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóoban",
+      "laadan": "wóoban",
       "english": "to give birth",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóoban",
+      "laadan": "wóoban",
       "english": "to give birth",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wóobaná",
+      "laadan": "wóobaná",
       "english": "birth-giver",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "wóoban = to give birth",
+      "breakdown": "wóoban = to give birth",
       "notes": ""
     },
     {
-      "láadan": "wóoya",
+      "laadan": "wóoya",
       "english": "womb",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "woth",
+      "laadan": "woth",
       "english": "wisdom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wothá",
+      "laadan": "wothá",
       "english": "sage",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "woth = wisdom",
+      "breakdown": "woth = wisdom",
       "notes": ""
     },
     {
-      "láadan": "wothá",
+      "laadan": "wothá",
       "english": "wise person",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "woth = wisdom",
+      "breakdown": "woth = wisdom",
       "notes": ""
     },
     {
-      "láadan": "wothemid",
+      "laadan": "wothemid",
       "english": "mule",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "woth = wisdom, mid = creature",
+      "breakdown": "woth = wisdom, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "wothesh",
+      "laadan": "wothesh",
       "english": "sage",
       "description": "the herb",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wu",
+      "laadan": "wu",
       "english": "such a...; what a...",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wud",
+      "laadan": "wud",
       "english": "part",
       "description": "of a machine; etc",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wuman",
+      "laadan": "wuman",
       "english": "summer",
       "description": "season",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wúná",
+      "laadan": "wúná",
       "english": "gratitude for bad reasons",
       "description": "see: wúná; wéhená; wéná; wíná; wóná",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wúná",
+      "laadan": "wúná",
       "english": "to be grateful for bad reasons",
       "description": "see: wúná; wéhená; wéná; wíná; wóná",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "wush",
+      "laadan": "wush",
       "english": "broom",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáa-",
+      "laadan": "yáa-",
       "english": "teen",
       "description": "prefix to signify teenager; older but not full-grown creature (see á-; háa-)",
       "classification": "affix",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáalin",
+      "laadan": "yáalin",
       "english": "kelp",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáamid",
+      "laadan": "yáamid",
       "english": "teenage animal",
       "description": "older but not full-grown creature  (see ámid; háamid)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáanin",
+      "laadan": "yáanin",
       "english": "tree",
       "description": "plant",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáawith",
+      "laadan": "yáawith",
       "english": "teenager",
       "description": "older but not full-grown person  (see áwith; háawith)",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yáazh",
+      "laadan": "yáazh",
       "english": "goose",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "thirst",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "thirst; to thirst; to be thirsty; thirsting",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "to be thirsting",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "to be thirsty",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "to be thirsty",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yada",
+      "laadan": "yada",
       "english": "to thirst",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yahanesh",
+      "laadan": "yahanesh",
       "english": "enchantment",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yahanesh",
+      "laadan": "yahanesh",
       "english": "magic",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yahaneshá",
+      "laadan": "yahaneshá",
       "english": "magic-maker",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yahaneshá",
+      "laadan": "yahaneshá",
       "english": "witch",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yam",
+      "laadan": "yam",
       "english": "baking dish",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yan",
+      "laadan": "yan",
       "english": "analysis",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yan",
+      "laadan": "yan",
       "english": "to analyze",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yazh",
+      "laadan": "yazh",
       "english": "duck",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yeb",
+      "laadan": "yeb",
       "english": "kidney",
       "description": "body part",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yed",
+      "laadan": "yed",
       "english": "valley",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yem",
+      "laadan": "yem",
       "english": "sour",
       "description": "to taste",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yen",
+      "laadan": "yen",
       "english": "hat",
       "description": "clothing",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yéshile",
+      "laadan": "yéshile",
       "english": "to be bad and good",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yeth",
+      "laadan": "yeth",
       "english": "silver",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yib",
+      "laadan": "yib",
       "english": "solid",
       "description": "as opposed to gas or liquid",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yibom",
+      "laadan": "yibom",
       "english": "wax",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yib = solid, bom = oil",
+      "breakdown": "yib = solid, bom = oil",
       "notes": ""
     },
     {
-      "láadan": "yidan",
+      "laadan": "yidan",
       "english": "mercy",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yide",
+      "laadan": "yide",
       "english": "hunger",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yide",
+      "laadan": "yide",
       "english": "to be hungry",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yide",
+      "laadan": "yide",
       "english": "to hunger",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yil",
+      "laadan": "yil",
       "english": "below",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yil",
+      "laadan": "yil",
       "english": "to be below",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yil",
+      "laadan": "yil",
       "english": "to be under",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yil",
+      "laadan": "yil",
       "english": "to be under",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Yilesháal",
+      "laadan": "Yilesháal",
       "english": "Saturday",
       "description": "Below Day",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yime",
+      "laadan": "yime",
       "english": "run",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yime",
+      "laadan": "yime",
       "english": "to run",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yo",
+      "laadan": "yo",
       "english": "spaceship",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yob",
+      "laadan": "yob",
       "english": "coffee",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yob",
+      "laadan": "yob",
       "english": "coffee",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yod",
+      "laadan": "yod",
       "english": "to eat",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yod",
+      "laadan": "yod",
       "english": "to eat",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yod",
+      "laadan": "yod",
       "english": "to eat",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yoda",
+      "laadan": "yoda",
       "english": "spaceliner",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yo = spaceship",
+      "breakdown": "yo = spaceship",
       "notes": ""
     },
     {
-      "láadan": "yodá",
+      "laadan": "yodá",
       "english": "diner",
       "description": "one who eats",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yodá",
+      "laadan": "yodá",
       "english": "one who eats",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yodálh",
+      "laadan": "yodálh",
       "english": "glutton",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yodá = one who eats, -lh = bad",
+      "breakdown": "yodá = one who eats, -lh = bad",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "safe",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "safe",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "secure",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "secure",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "to be safe",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yom",
+      "laadan": "yom",
       "english": "to be secure",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yomedim",
+      "laadan": "yomedim",
       "english": "trunk",
       "description": "for storage",
       "classification": "noun",
-      "wordBreakdown": "yom = secure, dim = container",
+      "breakdown": "yom = secure, dim = container",
       "notes": ""
     },
     {
-      "láadan": "yon",
+      "laadan": "yon",
       "english": "government",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yoth",
+      "laadan": "yoth",
       "english": "will of mind",
       "description": "theological",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yu",
+      "laadan": "yu",
       "english": "fruit",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yu",
+      "laadan": "yu",
       "english": "fruit",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yudáan",
+      "laadan": "yudáan",
       "english": "morpheme",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yuhoya",
+      "laadan": "yuhoya",
       "english": "peel",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yuhoya",
+      "laadan": "yuhoya",
       "english": "peeling",
       "description": "noun",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yul",
+      "laadan": "yul",
       "english": "wind",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yulehul",
+      "laadan": "yulehul",
       "english": "hurricane",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yul = wind, -hul = to an extreme DEGREES()",
+      "breakdown": "yul = wind, -hul = to an extreme DEGREES()",
       "notes": ""
     },
     {
-      "láadan": "yulish",
+      "laadan": "yulish",
       "english": "feather",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yul = wind",
+      "breakdown": "yul = wind",
       "notes": ""
     },
     {
-      "láadan": "yuloma",
+      "laadan": "yuloma",
       "english": "wing",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yum",
+      "laadan": "yum",
       "english": "beetle",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yumal",
+      "laadan": "yumal",
       "english": "nut",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yun",
+      "laadan": "yun",
       "english": "orange",
       "description": "the fruit",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yurana",
+      "laadan": "yurana",
       "english": "cordial",
       "description": "the beverage",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "yushoya",
+      "laadan": "yushoya",
       "english": "rind",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "yu = fruit",
+      "breakdown": "yu = fruit",
       "notes": ""
     },
     {
-      "láadan": "zha",
+      "laadan": "zha",
       "english": "name",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zháa",
+      "laadan": "zháa",
       "english": "wrinkle",
       "description": "in skin",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zháadin",
+      "laadan": "zháadin",
       "english": "menopause",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zháa = wrinkle",
+      "breakdown": "zháa = wrinkle",
       "notes": ""
     },
     {
-      "láadan": "zháadin",
+      "laadan": "zháadin",
       "english": "to menopause",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zháahóowadin",
+      "laadan": "zháahóowadin",
       "english": "hot flash",
       "description": "menopause symptom",
       "classification": "noun",
-      "wordBreakdown": "zháadin = menopause, óowa = fire",
+      "breakdown": "zháadin = menopause, óowa = fire",
       "notes": ""
     },
     {
-      "láadan": "zhab",
+      "laadan": "zhab",
       "english": "enigma",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhab",
+      "laadan": "zhab",
       "english": "puzzle",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhala",
+      "laadan": "zhala",
       "english": "to regret with reason; with blame; and not futile",
       "description": "see: zhala; zhama; zhana; zhara; zhina",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhaláad",
+      "laadan": "zhaláad",
       "english": "to relinquish a cherished illusion",
       "description": "the act of relinquishing a cherished/ comforting/familiar illusion or frame of perception",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhaláad",
+      "laadan": "zhaláad",
       "english": "to relinquish a comforting illusion",
       "description": "the act of relinquishing a cherished/ comforting/familiar illusion or frame of perception",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhaláad",
+      "laadan": "zhaláad",
       "english": "to relinquish a familiar illusion",
       "description": "the act of relinquishing a cherished/ comforting/familiar illusion or frame of perception",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhama",
+      "laadan": "zhama",
       "english": "regret with reason; but with no blame; and futile",
       "description": "see: zhala; zhana; zhara; zhina",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhana",
+      "laadan": "zhana",
       "english": "regret with reason; but with no blame and not futile",
       "description": "see: zhala; zhama; zhara; zhina",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhara",
+      "laadan": "zhara",
       "english": "regret with reason; with blame; and futile",
       "description": "see: zhala; zhama; zhana; zhina",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhazh",
+      "laadan": "zhazh",
       "english": "airplane",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhe",
+      "laadan": "zhe",
       "english": "to be as",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhe",
+      "laadan": "zhe",
       "english": "to be like",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhe",
+      "laadan": "zhe",
       "english": "to be like",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhe",
+      "laadan": "zhe",
       "english": "to be similar to",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhebom",
+      "laadan": "zhebom",
       "english": "fat",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = similar to, bom = oil",
+      "breakdown": "zhe = similar to, bom = oil",
       "notes": ""
     },
     {
-      "láadan": "zhebom",
+      "laadan": "zhebom",
       "english": "grease",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = similar to, bom = oil",
+      "breakdown": "zhe = similar to, bom = oil",
       "notes": ""
     },
     {
-      "láadan": "zhedal",
+      "laadan": "zhedal",
       "english": "metaphor",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, dal = thing",
+      "breakdown": "zhe = like, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "zhedal",
+      "laadan": "zhedal",
       "english": "simile",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, dal = thing",
+      "breakdown": "zhe = like, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "zhedam",
+      "laadan": "zhedam",
       "english": "resemble",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, dam = to seem",
+      "breakdown": "zhe = like, dam = to seem",
       "notes": ""
     },
     {
-      "láadan": "zhedam",
+      "laadan": "zhedam",
       "english": "to be reminiscent of",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhedam",
+      "laadan": "zhedam",
       "english": "to resemble",
       "description": "",
       "classification": "",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhedi",
+      "laadan": "zhedi",
       "english": "agree",
       "description": "see also:zhelith; zheshub; zheláad; zhethob",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, di = say",
+      "breakdown": "zhe = like, di = say",
       "notes": ""
     },
     {
-      "láadan": "zhedi",
+      "laadan": "zhedi",
       "english": "to agree verbally",
       "description": "see also:zhelith; zheshub; zheláad; zhethob",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhehá",
+      "laadan": "zhehá",
       "english": "identical sibling",
       "description": "family member",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, -á = doer",
+      "breakdown": "zhe = like, -á = doer",
       "notes": ""
     },
     {
-      "láadan": "zheláad",
+      "laadan": "zheláad",
       "english": "consensus",
       "description": "see also:zhelith; zhedi; zheshub; zhethob",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, láad = to perceive",
+      "breakdown": "zhe = like, láad = to perceive",
       "notes": ""
     },
     {
-      "láadan": "zheláad",
+      "laadan": "zheláad",
       "english": "to consense",
       "description": "see also:zhelith; zhedi; zheshub; zhethob",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zheledal",
+      "laadan": "zheledal",
       "english": "identity",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, le = I, dal = thing",
+      "breakdown": "zhe = like, le = I, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "zheledal",
+      "laadan": "zheledal",
       "english": "self",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, le = I, dal = thing",
+      "breakdown": "zhe = like, le = I, dal = thing",
       "notes": ""
     },
     {
-      "láadan": "zheledam",
+      "laadan": "zheledam",
       "english": "persona",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, le = I, dam = to seem",
+      "breakdown": "zhe = like, le = I, dam = to seem",
       "notes": ""
     },
     {
-      "láadan": "zhelehal",
+      "laadan": "zhelehal",
       "english": "work identity",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, le = I, hal = work",
+      "breakdown": "zhe = like, le = I, hal = work",
       "notes": ""
     },
     {
-      "láadan": "zhelith",
+      "laadan": "zhelith",
       "english": "agree",
       "description": "see also: zhedi; zheshub; zheláad; zhethob",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, lith = thought",
+      "breakdown": "zhe = like, lith = thought",
       "notes": ""
     },
     {
-      "láadan": "zhelith",
+      "laadan": "zhelith",
       "english": "to think the same",
       "description": "agree, see also: zhedi; zheshub; zheláad; zhethob",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhesháana",
+      "laadan": "zhesháana",
       "english": "menstruation",
       "description": "to menstruate in sync with another woman",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhesháana",
+      "laadan": "zhesháana",
       "english": "to menstruate in sync with another woman",
       "description": "* change definition to be more inclusive",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "Zheshu",
+      "laadan": "Zheshu",
       "english": "Jesus of Nazareth",
       "description": "loan word",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zheshub",
+      "laadan": "zheshub",
       "english": "cooperation",
       "description": "see also:zhelith; zhedi; zheláad; zhethob",
       "classification": "noun",
-      "wordBreakdown": "zhe = like, shub = to do",
+      "breakdown": "zhe = like, shub = to do",
       "notes": ""
     },
     {
-      "láadan": "zheshub",
+      "laadan": "zheshub",
       "english": "to cooperate",
       "description": "see also:zhelith; zhedi; zheláad; zhethob",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhethalel",
+      "laadan": "zhethalel",
       "english": "to act as police",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhethalel",
+      "laadan": "zhethalel",
       "english": "to police",
       "description": "",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhethalelá",
+      "laadan": "zhethalelá",
       "english": "police officer",
       "description": "occupation",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhethob",
+      "laadan": "zhethob",
       "english": "agreement",
       "description": "see also:zhelith; zhedi; zheshub; zheláad",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhethob",
+      "laadan": "zhethob",
       "english": "written agreement  (see also:zhelith; zhedi; zheshub; zheláad)",
       "description": "see also:zhelith; zhedi; zheshub; zheláad",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhilhad",
+      "laadan": "zhilhad",
       "english": "prisoner",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhina",
+      "laadan": "zhina",
       "english": "regret without reason or blame; not futile",
       "description": "see: zhala; zhama; zhana; zhara",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhina",
+      "laadan": "zhina",
       "english": "to regret without reason or blame; not futile",
       "description": "see: zhala; zhama; zhana; zhara",
       "classification": "intransitive verb",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zho",
+      "laadan": "zho",
       "english": "sound",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zho",
+      "laadan": "zho",
       "english": "sound",
       "description": "audible",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhob",
+      "laadan": "zhob",
       "english": "machine",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zholh",
+      "laadan": "zholh",
       "english": "noise",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zho = sound",
+      "breakdown": "zho = sound",
       "notes": ""
     },
     {
-      "láadan": "zhomid",
+      "laadan": "zhomid",
       "english": "bee",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "zho = sound, mid = creature",
+      "breakdown": "zho = sound, mid = creature",
       "notes": ""
     },
     {
-      "láadan": "zhonal",
+      "laadan": "zhonal",
       "english": "aloud",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhorumi",
+      "laadan": "zhorumi",
       "english": "echo",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "zho = sound, rumi = shadow",
+      "breakdown": "zho = sound, rumi = shadow",
       "notes": ""
     },
     {
-      "láadan": "zhozhub",
+      "laadan": "zhozhub",
       "english": "bee",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "zho = sound, zhub = insect",
+      "breakdown": "zho = sound, zhub = insect",
       "notes": ""
     },
     {
-      "láadan": "zhu",
+      "laadan": "zhu",
       "english": "tea",
       "description": "food",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhub",
+      "laadan": "zhub",
       "english": "insect",
       "description": "",
       "classification": "core word",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhub",
+      "laadan": "zhub",
       "english": "insect",
       "description": "animal",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "zhuth",
+      "laadan": "zhuth",
       "english": "piano",
       "description": "musical instrument",
       "classification": "noun",
-      "wordBreakdown": "",
+      "breakdown": "",
       "notes": ""
     },
     {
-      "láadan": "therashenidal",
+      "laadan": "therashenidal",
       "english": "internet",
       "description": "technology",
       "classification": "noun",
-      "wordBreakdown": "thera = earth, shinedal = network",
+      "breakdown": "thera = earth, shinedal = network",
       "notes": "",
       "unofficial": "Unofficial - added by RWSS"
     },
     {
-      "láadan": "shinehaleshida",
+      "laadan": "shinehaleshida",
       "english": "computer game",
       "description": "technology",
       "classification": "noun",
-      "wordBreakdown": "shinehal = computer, shida = game",
+      "breakdown": "shinehal = computer, shida = game",
       "notes": "",
       "unofficial": "Unofficial - added by RWSS"
     },
     {
-      "láadan": "shinith",
+      "laadan": "shinith",
       "english": "electronic",
       "description": "technology",
       "classification": "noun",
-      "wordBreakdown": "shin = two, ith = light",
+      "breakdown": "shin = two, ith = light",
       "notes": "based on ezhahith for lightning bold (ezha = snake, hith = light). Add -dal to the end to make it 'electronic thing'.",
       "unofficial": "Unofficial - added by RWSS"
     },
     {
-      "láadan": "therashenidal",
+      "laadan": "therashenidal",
       "english": "email",
       "description": "technology",
       "classification": "noun",
-      "wordBreakdown": "thera = earth, shinedal = network",
+      "breakdown": "thera = earth, shinedal = network",
       "notes": "",
       "unofficial": "Unofficial - added by RWSS"
     },
     {
-      "láadan": "melimedi",
+      "laadan": "melimedi",
       "english": "mail",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "mel = paper, im = travel, di = talk",
+      "breakdown": "mel = paper, im = travel, di = talk",
       "notes": "",
       "unofficial": "Unofficial - added by RWSS"
     },
     {
-      "láadan": "shinithimedi",
+      "laadan": "shinithimedi",
       "english": "mail",
       "description": "",
       "classification": "noun",
-      "wordBreakdown": "shinith = electronic (unofficial), im = travel, di = talk",
+      "breakdown": "shinith = electronic (unofficial), im = travel, di = talk",
       "notes": "Maybe also 'shinimedi' (two-travel-talk) for this word.",
       "unofficial": "Unofficial - added by RWSS"
     }

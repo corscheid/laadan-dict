@@ -10,7 +10,7 @@ type Props = {
 const ListItem = ({ data }: Props) => (
   <Link href="/words/[id]" as={`/words/${data.id}`}>
     <a className={styles.listItemLink}>
-      <div className={styles.word}>{data["láadan"]}:</div>
+      <div className={styles.word}>{data["laadan"]}:</div>
       <div className={styles.english}>{data["english"]}</div>
     </a>
   </Link>

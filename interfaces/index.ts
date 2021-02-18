@@ -1,10 +1,10 @@
 export type Word = {
   id: string
-  láadan: string
+  laadan: string
   english: string
   description: string | number
   classification: string
-  wordBreakdown: string
+  breakdown: string
   notes: string
   unofficial?: string
 }
