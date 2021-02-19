@@ -34,9 +34,6 @@ export default function Navbar() {
               <a className="nav-link">Word List</a>
             </Link>
           </li>
-          <li className="nav-item">
-            <a className="nav-link" href="/api/words">API</a>
-          </li>
         </ul>
       </div>
     </nav>
