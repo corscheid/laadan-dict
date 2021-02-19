@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next'
 import { Word } from '../../interfaces'
 import Layout from '../../components/Layout'
 import ListDetail from '../../components/ListDetail'
-import { dictionaryData } from '../../utils/dictionary'
+import { API_URL } from '../../utils/environment'
 
 type Props = {
   item?: Word
@@ -33,8 +33,10 @@ export default StaticPropsDetail
 
 export const getStaticPaths: GetStaticPaths = async () => {
   // Get the paths we want to pre-render based on users
+  const response = await fetch(`${API_URL}/all`)
+  const dictionaryData: Word[] = await response.json().catch(e => console.log(e))
   const paths = dictionaryData.map((word) => ({
-    params: { id: word.id },
+    params: { id: word.id.toString() },
   }))
 
   // We'll pre-render only these paths at build time.
@@ -48,7 +50,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   try {
     const id = params?.id
-    const item = dictionaryData.find((data) => data.id === id)
+    const response = await fetch(`${API_URL}/all`)
+    const dictionaryData: Word[] = await response.json().catch(e => console.log(e))
+    const item = dictionaryData.find((data) => data.id.toString() === id)
     // By returning { props: item }, the StaticPropsDetail component
     // will receive `item` as a prop at build time
     return { props: { item } }

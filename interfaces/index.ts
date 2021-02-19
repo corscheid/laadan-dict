@@ -1,5 +1,5 @@
 export type Word = {
-  id: string
+  id: number
   laadan: string
   english: string
   description: string | number
