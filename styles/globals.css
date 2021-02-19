@@ -43,6 +43,12 @@ main {
   padding: 1em;
 }
 
+@media only screen and (max-width: 410px) {
+  .page-title {
+    font-size: 2rem;
+  }
+}
+
 .flex-container {
   display: flex;
   height: 100%;
@@ -50,8 +56,26 @@ main {
   justify-content: center;
 }
 
+.search-form {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
 .search-bar {
-  width: 400px !important;
+  width: 100% !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .search-form {
+    width: 75% !important;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .search-form {
+    width: 50% !important;
+  }
 }
 
 .search-bar:focus {
