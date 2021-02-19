@@ -27,10 +27,10 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
       <div className="container">
         <ul>
           <li>
-            <a href="https://laadanlanguage.com">Làadan Official Website</a>
+            <a href="https://laadanlanguage.com">Láadan Official Website</a>
           </li>
           <li>
-            <a href="#">About Làadan</a>
+            <a href="#">About Láadan</a>
           </li>
           <li>
             <a href="#">Resources</a>

@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">
       <Link href="/">
-        <a className="navbar-brand">Làadan Dictionary</a>
+        <a className="navbar-brand">Láadan Dictionary</a>
       </Link>
       <button
         className="navbar-toggler"
