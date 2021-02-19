@@ -2,9 +2,7 @@ import { useEffect, useState } from 'react'
 import Layout from '../components/Layout'
 import List from '../components/List'
 import { Word } from '../interfaces'
-// import { dictionaryData } from '../utils/dictionary'
-
-const API_URL: RequestInfo = 'http://localhost:8080/word/search'
+import { API_URL } from '../utils/environment'
 
 const IndexPage = () => {
   const initialText: string = ""
@@ -13,13 +11,8 @@ const IndexPage = () => {
   const [data, setData] = useState(initialData)
 
   const fetchData = async (newText: string) => {
-    console.log(`GET ${API_URL}/${newText}`)
-
     const response = await fetch(`${API_URL}/${text}`)
     const newData = await response.json().catch(e => console.log(e))
-
-    console.log({ newData })
-
     setText(newText)
     setData(newData)
   }
@@ -43,7 +36,10 @@ const IndexPage = () => {
         </form>
       </div>
       <div className="results">
-        {text && data.length > 0 && <List items={data.filter(w => (w.laadan.includes(text)) || w.english.includes(text))} />}
+        {
+          text && data.length > 0 &&
+          <List items={data.filter(w => (w.laadan.includes(text) || w.english.includes(text)))} />
+        }
       </div>
     </Layout>
   )
