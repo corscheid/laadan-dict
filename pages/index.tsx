@@ -11,7 +11,7 @@ const IndexPage = () => {
   const [data, setData] = useState(initialData)
 
   const fetchData = async (newText: string) => {
-    const response = await fetch(`${API_URL}/${text}`)
+    const response = await fetch(`${API_URL}/search/${text}`)
     const newData = await response.json().catch(e => console.log(e))
     setText(newText)
     setData(newData)
