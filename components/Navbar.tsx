@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav'
 export default function Navbar() {
   return (
     <NavBar expand="lg" className="navbar">
-      <NavBar.Brand href="#home">Láadan Dictionary</NavBar.Brand>
+      <NavBar.Brand href="/">Láadan Dictionary</NavBar.Brand>
       <NavBar.Toggle aria-controls="basic-navbar-nav" />
       <NavBar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
