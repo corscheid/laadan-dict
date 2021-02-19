@@ -1,4 +1,6 @@
 import { useEffect, useState } from 'react'
+import Form from 'react-bootstrap/Form'
+import FormControl from 'react-bootstrap/FormControl'
 import Layout from '../components/Layout'
 import List from '../components/List'
 import { Word } from '../interfaces'
@@ -23,17 +25,17 @@ const IndexPage = () => {
     <Layout title="Láadan Dictionary">
       <h1 className="page-title">Láadan ↔ English<br />Dictionary</h1>
       <div className="flex-container">
-        <form className="form search-form" onSubmit={e => { e.preventDefault() }}>
-          <input
+        <Form inline className="form search-form" onSubmit={e => { e.preventDefault() }}>
+          <FormControl
             id="search"
-            className="form-control search-bar"
+            className="form-control search-bar mr-sm-2"
             type="search"
             placeholder="Search"
             aria-label="Search"
             value={text}
             onChange={(e) => { fetchData(e.target.value) }}
           />
-        </form>
+        </Form>
       </div>
       <div className="results">
         {

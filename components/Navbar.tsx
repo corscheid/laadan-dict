@@ -1,41 +1,18 @@
-import Link from 'next/link'
+import NavBar from 'react-bootstrap/Navbar'
+import Nav from 'react-bootstrap/Nav'
 
 export default function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg">
-      <Link href="/">
-        <a className="navbar-brand">Láadan Dictionary</a>
-      </Link>
-      <button
-        className="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul className="navbar-nav mr-auto">
-          <li className="nav-item active">
-            <Link href="/">
-              <a className="nav-link">Home</a>
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link href="/about">
-              <a className="nav-link">About</a>
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link href="/words">
-              <a className="nav-link">Word List</a>
-            </Link>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <NavBar expand="lg" className="navbar">
+      <NavBar.Brand href="#home">Láadan Dictionary</NavBar.Brand>
+      <NavBar.Toggle aria-controls="basic-navbar-nav" />
+      <NavBar.Collapse id="basic-navbar-nav">
+        <Nav className="mr-auto">
+          <Nav.Link href="/">Home</Nav.Link>
+          <Nav.Link href="/about">About</Nav.Link>
+          <Nav.Link href="/words">Word List</Nav.Link>
+        </Nav>
+      </NavBar.Collapse>
+    </NavBar>
   )
 }
