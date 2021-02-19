@@ -3,23 +3,20 @@ import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Layout from '../components/Layout'
 import List from '../components/List'
-import { Word } from '../interfaces'
 import { API_URL } from '../utils/environment'
 
 const IndexPage = () => {
-  const initialText: string = ""
-  const initialData: Word[] = []
-  const [text, setText] = useState(initialText)
-  const [data, setData] = useState(initialData)
+  const [text, setText] = useState("")
+  const [data, setData] = useState([])
 
-  const fetchData = async (newText: string) => {
-    const response = await fetch(`${API_URL}/search/${text}`)
+  const fetchData = async (newText: string = "") => {
+    const response = await fetch(`${API_URL}/search/${newText}`)
     const newData = await response.json().catch(e => console.log(e))
     setText(newText)
     setData(newData)
   }
 
-  useEffect(() => { fetchData("") }, [])
+  useEffect(() => { fetchData() }, [])
 
   return (
     <Layout title="Láadan Dictionary">
@@ -40,7 +37,7 @@ const IndexPage = () => {
       <div className="results">
         {
           text && data.length > 0 &&
-          <List items={data.filter(w => (w.laadan.includes(text) || w.english.includes(text)))} />
+          <List items={data} />
         }
       </div>
     </Layout>
