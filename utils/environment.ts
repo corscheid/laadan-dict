@@ -1,1 +1,1 @@
-export const API_URL: RequestInfo = 'http://localhost:3000/api'
+export const API_URL: RequestInfo = '/api'
