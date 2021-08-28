@@ -1,30 +1,12 @@
-import { existsSync, promises } from 'fs'
 import { Word } from '../interfaces'
-
-const { readFile } = promises
-
-const laadan_dictionary_filepath = 'lib/dictionary_laadan-to-english_living.json'
-const encoding = 'utf-8'
-
-/**
- * Check existence of dictionary file
- */
-const checkDictFile = (): void => {
-  if (!existsSync(laadan_dictionary_filepath)) {
-    throw new Error('Could not load dictionary')
-  }
-}
+import { dictionary_laadan } from './dictionary_laadan'
 
 /**
  * GET all words
  * @returns array of all Words
  */
-export const getAllWords = async (): Promise<Word[]> => {
-  checkDictFile()
-  const json = await readFile(laadan_dictionary_filepath, encoding)
-  const words: Word[] = JSON.parse(json)
-  const wordsWithId = words.map((result, id) => ({ ...result, id }))
-  return wordsWithId
+export const getAllWords = (): Word[] => {
+  return dictionary_laadan
 }
 
 /**
@@ -32,9 +14,8 @@ export const getAllWords = async (): Promise<Word[]> => {
  * @param id unique identifier of Word
  * @returns Word with given id
  */
-export const getWordById = async (id: number): Promise<Word> => {
-  checkDictFile()
-  const allWords = await getAllWords()
+export const getWordById = (id: number): Word => {
+  const allWords = getAllWords()
   const result = allWords.filter(word => word.id === id)
   if (result.length < 1) {
     throw new Error("No result")
@@ -47,9 +28,8 @@ export const getWordById = async (id: number): Promise<Word> => {
  * @param name Láadan or English search input
  * @returns array of matching Words
  */
-export const getWordsByName = async (name: string): Promise<Word[]> => {
-  checkDictFile()
-  const allWords = await getAllWords()
+export const getWordsByName = (name: string): Word[] => {
+  const allWords = getAllWords()
   const results = allWords
     .filter(word => {
       if (word.laadan.toLowerCase() === name.toLowerCase()) return true

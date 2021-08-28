@@ -10,8 +10,8 @@ import { getAllWords } from '../../lib/dictionary'
  * @param _req Next API Request (not used)
  * @param res Next API Response containing array of all words
  */
-const handler = async (_req: NextApiRequest, res: NextApiResponse): Promise<void> => {
-  const result: Word[] = await getAllWords()
+const handler = (_req: NextApiRequest, res: NextApiResponse): void => {
+  const result: Word[] = getAllWords()
   res.status(200).json(result)
 }
 

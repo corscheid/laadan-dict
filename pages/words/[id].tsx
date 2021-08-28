@@ -29,9 +29,9 @@ const StaticPropsDetail = ({ item, errors }: Props) => {
 
 export default StaticPropsDetail
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export const getStaticPaths: GetStaticPaths = () => {
   // Get the paths we want to pre-render based on users
-  const dictionaryData: Word[] = await getAllWords()
+  const dictionaryData: Word[] = getAllWords()
   const paths = dictionaryData.map((_word, index) => ({ params: { id: index.toString() } }))
 
   // We'll pre-render only these paths at build time.
@@ -42,12 +42,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
 // This function gets called at build time on server-side.
 // It won't be called on client-side, so you can even do
 // direct database queries.
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = ({ params }) => {
   try {
     if (params == null) { throw new Error('Id must exist') }
     if (typeof params.id !== 'string') { throw new Error('Id must be string, not array') }
     const id: number = parseInt(params.id)
-    const item: Word = await getWordById(id)
+    const item: Word = getWordById(id)
     // By returning { props: item }, the StaticPropsDetail component
     // will receive `item` as a prop at build time
     return { props: { item } }

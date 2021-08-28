@@ -15,8 +15,8 @@ const WithStaticProps = ({ items }: Props) => (
   </Layout>
 )
 
-export const getStaticProps: GetStaticProps = async () => {
-  const items: Word[] = await getAllWords()
+export const getStaticProps: GetStaticProps = () => {
+  const items: Word[] = getAllWords()
   return { props: { items } }
 }
 

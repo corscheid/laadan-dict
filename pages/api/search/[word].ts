@@ -10,10 +10,10 @@ import { getWordsByName } from '../../../lib/dictionary'
  * @param req Next API Request with query
  * @param res Next API Response containing array of all matching Words
  */
-const handler = async (req: NextApiRequest, res: NextApiResponse): Promise<void> => {
+const handler = (req: NextApiRequest, res: NextApiResponse): void => {
   const { word } = req.query
   if (typeof word === 'string') {
-    const result: Word[] = await getWordsByName(word)
+    const result: Word[] = getWordsByName(word)
     res.status(200).json(result)
   }
 }
