@@ -24,6 +24,7 @@ const IndexPage = () => {
             aria-label="Search"
             value={text}
             onChange={(e) => { setText(e.target.value) }}
+            autoComplete="off"
           />
         </Form>
       </div>
