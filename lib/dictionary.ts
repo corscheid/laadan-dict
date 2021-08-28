@@ -38,7 +38,8 @@ export const getWordsByName = (name: string): Word[] => {
         .replace(';', '').replace(',', '').replace('.', '')
         .replace('(', '').replace(')', '')
         .split(' ')
-      if (words.includes(name)) return true
+        .map(w => w.toLowerCase())
+      if (words.includes(name.toLowerCase())) return true
       return false
     })
   return results
