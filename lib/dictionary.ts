@@ -16,16 +16,27 @@ const checkDictFile = (): void => {
 export const getAllWords = async (): Promise<Word[]> => {
   checkDictFile()
   const json = await readFile(laadan_dictionary_filepath, encoding)
-  const results: Word[] = JSON.parse(json)
-  return results
+  const words: Word[] = JSON.parse(json)
+  const wordsWithId = words.map((result, id) => ({ ...result, id }))
+  return wordsWithId
+}
+
+/** GET /api/search/:id */
+export const getWordById = async (id: number): Promise<Word> => {
+  checkDictFile()
+  const allWords = await getAllWords()
+  const result = allWords.filter(word => word.id === id)
+  if (result.length < 1) {
+    throw new Error("No result")
+  }
+  return result[0]
 }
 
 /** GET /api/search/:word */
 export const getWordsByName = async (name: string): Promise<Word[]> => {
   checkDictFile()
-  const json = await readFile(laadan_dictionary_filepath, encoding)
-  const dictionary: Word[] = JSON.parse(json)
-  const results = dictionary
+  const allWords = await getAllWords()
+  const results = allWords
     .filter(word => word.laadan.indexOf(name) !== -1 || word.english.indexOf(name) !== -1)
   return results
 }
