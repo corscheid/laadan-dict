@@ -1,5 +1,6 @@
 import React, { ReactNode } from 'react'
 import Head from 'next/head'
+import Link from 'next/link'
 import styles from './Layout.module.css'
 
 import Navbar from './Navbar'
@@ -31,13 +32,13 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
       <div className="container">
         <ul>
           <li>
-            <a href="https://laadanlanguage.com">Láadan Official Website</a>
+            <Link href="https://en.wikipedia.org/wiki/L%C3%A1adan"><a>About Láadan</a></Link>
           </li>
           <li>
-            <a href="#">About Láadan</a>
+            <Link href="https://laadanlanguage.com"><a>Láadan Official Website</a></Link>
           </li>
           <li>
-            <a href="#">Resources</a>
+            <Link href="https://laadanlanguage.com/community"><a>Láadan Language Forum</a></Link>
           </li>
         </ul>
       </div>

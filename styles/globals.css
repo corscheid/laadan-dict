@@ -41,6 +41,12 @@ html, body {
   padding: 1em;
 }
 
+.page-subtitle {
+  font-family: 'Alegreya', serif;
+  font-size: 1.5rem;
+  color: var(--dark-red);
+}
+
 @media only screen and (max-width: 410px) {
   .page-title {
     font-size: 2rem;
