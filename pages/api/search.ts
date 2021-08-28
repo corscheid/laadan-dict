@@ -2,8 +2,15 @@
 
 import { NextApiRequest, NextApiResponse } from 'next'
 
-const handler = (_req: NextApiRequest, res: NextApiResponse) => {
-  res.status(200).json({})
+/**
+ * GET /api/search
+ * Default search results
+ *
+ * @param _req Next API Request (not used)
+ * @param res Next API Response
+ */
+const handler = (_req: NextApiRequest, res: NextApiResponse): void => {
+  res.status(200).json([])
 }
 
 export default handler

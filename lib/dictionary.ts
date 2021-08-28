@@ -6,13 +6,19 @@ const { readFile } = promises
 const laadan_dictionary_filepath = 'lib/dictionary_laadan-to-english_living.json'
 const encoding = 'utf-8'
 
+/**
+ * Check existence of dictionary file
+ */
 const checkDictFile = (): void => {
   if (!existsSync(laadan_dictionary_filepath)) {
     throw new Error('Could not load dictionary')
   }
 }
 
-/** GET /api/all */
+/**
+ * GET all words
+ * @returns array of all Words
+ */
 export const getAllWords = async (): Promise<Word[]> => {
   checkDictFile()
   const json = await readFile(laadan_dictionary_filepath, encoding)
@@ -21,7 +27,11 @@ export const getAllWords = async (): Promise<Word[]> => {
   return wordsWithId
 }
 
-/** GET /api/search/:id */
+/**
+ * Get Word by Id
+ * @param id unique identifier of Word
+ * @returns Word with given id
+ */
 export const getWordById = async (id: number): Promise<Word> => {
   checkDictFile()
   const allWords = await getAllWords()
@@ -32,7 +42,11 @@ export const getWordById = async (id: number): Promise<Word> => {
   return result[0]
 }
 
-/** GET /api/search/:word */
+/**
+ * Get Words by name
+ * @param name Láadan or English search input
+ * @returns array of matching Words
+ */
 export const getWordsByName = async (name: string): Promise<Word[]> => {
   checkDictFile()
   const allWords = await getAllWords()
