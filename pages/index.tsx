@@ -1,22 +1,15 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
+import useSWR from 'swr'
 import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Layout from '../components/Layout'
 import List from '../components/List'
 
+const fetcher = (url: string): Promise<any> => fetch(url).then(res => res.json())
+
 const IndexPage = () => {
   const [text, setText] = useState("")
-  const [data, setData] = useState([])
-
-  const fetchData = async (newText: string = "") => {
-    const API_URL: string = `${window.location.host}/api`
-    const response = await fetch(`${API_URL}/search/${newText}`)
-    const newData = await response.json().catch(e => console.log(e))
-    setText(newText)
-    setData(newData)
-  }
-
-  useEffect(() => { fetchData() }, [])
+  const { data, error } = useSWR(`/api/search/${text}`, fetcher)
 
   return (
     <Layout title="Láadan Dictionary">
@@ -30,13 +23,13 @@ const IndexPage = () => {
             placeholder="Search"
             aria-label="Search"
             value={text}
-            onChange={(e) => { fetchData(e.target.value) }}
+            onChange={(e) => { setText(e.target.value) }}
           />
         </Form>
       </div>
       <div className="results">
         {
-          text && data && data.length > 0 &&
+          !error && text && data && data.length > 0 &&
           <List items={data} />
         }
       </div>
