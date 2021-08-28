@@ -3,13 +3,13 @@ import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Layout from '../components/Layout'
 import List from '../components/List'
-import { API_URL } from '../utils/environment'
 
 const IndexPage = () => {
   const [text, setText] = useState("")
   const [data, setData] = useState([])
 
   const fetchData = async (newText: string = "") => {
+    const API_URL: string = `${window.location.host}/api`
     const response = await fetch(`${API_URL}/search/${newText}`)
     const newData = await response.json().catch(e => console.log(e))
     setText(newText)
