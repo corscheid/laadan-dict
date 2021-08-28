@@ -11,13 +11,14 @@
 
 html, body {
   font-family: 'Lora', serif;
-}
-
-.navbar {
-  background-color: var(--almond);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar-brand {
+  padding-left: 1rem;
   font-family: 'Alegreya', serif;
   font-size: 1.5em;
   font-weight: bold;
@@ -25,15 +26,12 @@ html, body {
 }
 
 .nav-link {
-  color: var(--liver);
+  color: var(--liver) !important;
+  padding-left: 1rem !important;
 }
 
 .nav-link:hover {
   color: var(--deep-chestnut);
-}
-
-main {
-  min-height: calc(100vh - 62px - 8em);
 }
 
 .page-title {
@@ -92,20 +90,4 @@ main {
 .results {
   width: 80%;
   margin: 4em auto;
-}
-
-.footer {
-  height: 8em;
-  color: #fff;
-  background-color: var(--liver);
-  padding: 2em;
-}
-
-.footer ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.footer ul li a {
-  color: #fff;
 }

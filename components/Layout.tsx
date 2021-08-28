@@ -1,5 +1,6 @@
 import React, { ReactNode } from 'react'
 import Head from 'next/head'
+import styles from './Layout.module.css'
 
 import Navbar from './Navbar'
 
@@ -9,7 +10,7 @@ type Props = {
 }
 
 const Layout = ({ children, title = 'This is the default title' }: Props) => (
-  <div className="layout">
+  <div className={styles.layout}>
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
@@ -23,7 +24,7 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
         {children}
       </div>
     </main>
-    <footer className="footer">
+    <footer className={styles.footer}>
       <div className="container">
         <ul>
           <li>

@@ -1,9 +1,10 @@
 import NavBar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
+import styles from './Navbar.module.css'
 
 export default function Navbar() {
   return (
-    <NavBar expand="lg" className="navbar">
+    <NavBar expand="lg" className={styles.navbar}>
       <NavBar.Brand href="/">Láadan Dictionary</NavBar.Brand>
       <NavBar.Toggle aria-controls="basic-navbar-nav" />
       <NavBar.Collapse id="basic-navbar-nav">
