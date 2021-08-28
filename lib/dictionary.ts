@@ -37,12 +37,15 @@ export const getWordsByName = async (name: string): Promise<Word[]> => {
   checkDictFile()
   const allWords = await getAllWords()
   const results = allWords
-    .filter(word =>
-      word.laadan.toLowerCase() === name.toLowerCase() ||
-      word.english.toLowerCase().indexOf(name.toLowerCase() + ' ') !== -1 ||
-      word.english.toLowerCase().indexOf(name.toLowerCase() + ',') !== -1 ||
-      word.english.toLowerCase().indexOf(name.toLowerCase() + ';') !== -1 ||
-      word.english.toLowerCase().indexOf(name.toLowerCase() + '.') !== -1 ||
-      word.english.toLowerCase().indexOf(' ' + name.toLowerCase()) !== -1)
+    .filter(word => {
+      if (word.laadan.toLowerCase() === name.toLowerCase()) return true
+      if (word.english.toLowerCase() === name.toLowerCase()) return true
+      const words = word.english
+        .replace(';', '').replace(',', '').replace('.', '')
+        .replace('(', '').replace(')', '')
+        .split(' ')
+      if (words.includes(name)) return true
+      return false
+    })
   return results
 }
