@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next'
 import { Word } from '../../interfaces'
 import Layout from '../../components/Layout'
 import ListDetail from '../../components/ListDetail'
-import { getAllWords } from '../../lib/dictionary'
+import { getAllWords, getWordById } from '../../lib/dictionary'
 
 type Props = {
   item?: Word
@@ -47,8 +47,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     if (params == null) { throw new Error('Id must exist') }
     if (typeof params.id !== 'string') { throw new Error('Id must be string, not array') }
     const id: number = parseInt(params.id)
-    const dictionaryData: Word[] = await getAllWords()
-    const item = dictionaryData[id]
+    const item: Word = await getWordById(id)
     // By returning { props: item }, the StaticPropsDetail component
     // will receive `item` as a prop at build time
     return { props: { item } }
