@@ -2,7 +2,7 @@ import { GetStaticProps, GetStaticPaths } from 'next'
 import { Word } from '../../interfaces'
 import Layout from '../../components/Layout'
 import ListDetail from '../../components/ListDetail'
-import { API_URL } from '../../utils/environment'
+import { getAllWords } from '../../lib/dictionary'
 
 type Props = {
   item?: Word
@@ -33,11 +33,8 @@ export default StaticPropsDetail
 
 export const getStaticPaths: GetStaticPaths = async () => {
   // Get the paths we want to pre-render based on users
-  const response = await fetch(`${API_URL}/all`)
-  const dictionaryData: Word[] = await response.json().catch(e => console.log(e))
-  const paths = dictionaryData.map((word) => ({
-    params: { id: word.id.toString() },
-  }))
+  const dictionaryData: Word[] = await getAllWords()
+  const paths = dictionaryData.map((_word, index) => ({ params: { id: index.toString() } }))
 
   // We'll pre-render only these paths at build time.
   // { fallback: false } means other routes should 404.
@@ -49,10 +46,11 @@ export const getStaticPaths: GetStaticPaths = async () => {
 // direct database queries.
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   try {
-    const id = params?.id
-    const response = await fetch(`${API_URL}/all`)
-    const dictionaryData: Word[] = await response.json().catch(e => console.log(e))
-    const item = dictionaryData.find((data) => data.id.toString() === id)
+    if (params == null) { throw new Error('Id must exist') }
+    if (typeof params.id !== 'string') { throw new Error('Id must be string, not array') }
+    const id: number = parseInt(params.id)
+    const dictionaryData: Word[] = await getAllWords()
+    const item = dictionaryData[id]
     // By returning { props: item }, the StaticPropsDetail component
     // will receive `item` as a prop at build time
     return { props: { item } }

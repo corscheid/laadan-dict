@@ -1,6 +1,6 @@
 import { GetStaticProps } from 'next'
 import { Word } from '../../interfaces'
-import { API_URL } from '../../utils/environment'
+import { getAllWords } from '../../lib/dictionary'
 import Layout from '../../components/Layout'
 import List from '../../components/List'
 
@@ -16,8 +16,7 @@ const WithStaticProps = ({ items }: Props) => (
 )
 
 export const getStaticProps: GetStaticProps = async () => {
-  const response = await fetch(`${API_URL}/all`)
-  const items: Word[] = await response.json().catch(e => console.log(e))
+  const items: Word[] = await getAllWords()
   return { props: { items } }
 }
 
