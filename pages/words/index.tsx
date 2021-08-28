@@ -11,7 +11,11 @@ type Props = {
 const WithStaticProps = ({ items }: Props) => (
   <Layout title="Word List">
     <h1 className="page-title">Word List</h1>
-    <List items={items} />
+    <div className="flex-container">
+      <div className="word-list">
+        <List items={items} />
+      </div>
+    </div>
   </Layout>
 )
 

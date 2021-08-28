@@ -93,6 +93,10 @@ html, body {
   color: var(--liver);
 }
 
+.word-list {
+  width: 80%;
+}
+
 .results {
   width: 80%;
   margin: 4em auto;
