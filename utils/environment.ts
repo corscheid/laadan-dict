@@ -1,1 +1,1 @@
-export const API_URL: RequestInfo = '/api'
+export const API_URL: RequestInfo = `${window.location.host}/api`

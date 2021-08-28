@@ -36,7 +36,7 @@ const IndexPage = () => {
       </div>
       <div className="results">
         {
-          text && data.length > 0 &&
+          text && data && data.length > 0 &&
           <List items={data} />
         }
       </div>
