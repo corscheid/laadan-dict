@@ -1,5 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@font-face {
+  font-family: 'Alegreya';
+  src: url(Alegreya-Regular.ttf)
+}
+@font-face {
+  font-family: 'Lora';
+  src: url(Lora-Regular.ttf);
+}
+@font-face {
+  font-family: 'IM Fell DW Pica';
+  src: url(IMFellDWPica-Italic.ttf);
+}
 
 :root {
   --dark-red: #8c1c13ff;
@@ -35,10 +45,11 @@ html, body {
 }
 
 .page-title {
-  font-family: 'Alegreya', serif;
+  font-family: 'IM Fell DW Pica', 'Alegreya', serif;
   text-align-last: center;
   color: var(--dark-red);
   padding: 1em;
+  text-transform: lowercase;
 }
 
 .page-subtitle {
