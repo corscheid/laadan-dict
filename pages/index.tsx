@@ -1,15 +1,19 @@
 import { useState } from 'react'
-import useSWR from 'swr'
 import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Layout from '../components/Layout'
 import List from '../components/List'
+import { Word } from '../interfaces'
+import { getWordsByName } from '../lib/dictionary'
 
-const fetcher = (url: string): Promise<any> => fetch(url).then(res => res.json())
-
-const IndexPage = () => {
+const IndexPage = (): JSX.Element => {
   const [text, setText] = useState("")
-  const { data, error } = useSWR(`/api/search/${text}`, fetcher)
+  const [data, setData] = useState<Word[]>([])
+
+  const updateResults = (searchText: string): void => {
+    setText(searchText)
+    setData(getWordsByName(searchText))
+  }
 
   return (
     <Layout title="Láadan Dictionary">
@@ -23,14 +27,14 @@ const IndexPage = () => {
             placeholder="Search"
             aria-label="Search"
             value={text}
-            onChange={(e) => { setText(e.target.value) }}
+            onChange={(e) => { updateResults(e.target.value) }}
             autoComplete="off"
           />
         </Form>
       </div>
       <div className="results">
         {
-          !error && text && data && data.length > 0 &&
+          text && data && data.length > 0 &&
           <List items={data} />
         }
       </div>
