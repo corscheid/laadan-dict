@@ -64,6 +64,12 @@ html, body {
   }
 }
 
+@media only screen and (min-width: 411px) {
+  .title-break {
+    display: none;
+  }
+}
+
 .flex-container {
   display: flex;
   height: 100%;

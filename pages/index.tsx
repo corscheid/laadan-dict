@@ -17,7 +17,7 @@ const IndexPage = (): JSX.Element => {
 
   return (
     <Layout title="Láadan Dictionary">
-      <h1 className="page-title">Láadan ↔ English Dictionary</h1>
+      <h1 className="page-title">Láadan ↔ English<br className="title-break" /> Dictionary</h1>
       <div className="flex-container">
         <Form inline className="form search-form" onSubmit={e => { e.preventDefault() }}>
           <FormControl
