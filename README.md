@@ -29,7 +29,7 @@ yarn
 
 ## Running on local machine
 
-Run the following to access the app on localhost:3000 in a browser
+Run the following to access the app on [localhost:3000](http://localhost:3000) in a browser
 
 ```shell
 yarn dev
