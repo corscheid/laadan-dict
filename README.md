@@ -10,7 +10,7 @@ for her book series [Native Tongue](https://en.wikipedia.org/wiki/Native_Tongue_
 
 - [Node.js](https://nodejs.org)
 - [yarn](https://yarnpkg.com)
-  - `npm install --g yarn`
+  - `npm install -g yarn`
 
 ## Installation
 
