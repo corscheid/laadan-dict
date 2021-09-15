@@ -35,6 +35,10 @@ html, body {
   color: var(--dark-red) !important;
 }
 
+.navbar-toggler {
+  margin-right: 1rem;
+}
+
 .nav-link {
   color: var(--liver) !important;
   padding-left: 1rem !important;
@@ -110,11 +114,12 @@ html, body {
   color: var(--liver);
 }
 
-.word-list {
+.word-list,
+.results,
+.about-content {
   width: 80%;
 }
 
 .results {
-  width: 80%;
   margin: 4em auto;
 }
