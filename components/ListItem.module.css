@@ -18,3 +18,7 @@
   font-style: italic;
   color: var(--liver);
 }
+
+.classification {
+  color: var(--black);
+}

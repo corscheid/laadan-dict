@@ -29,6 +29,10 @@ const IndexPage = (): JSX.Element => {
             value={text}
             onChange={(e) => { updateResults(e.target.value) }}
             autoComplete="off"
+            autoCapitalize="none"
+            autoCorrect="off"
+            spellCheck={false}
+            autoFocus={true}
           />
         </Form>
       </div>
